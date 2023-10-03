@@ -12,6 +12,8 @@
         :mail="community.mail"
         :figure="community.figure"
         :facebook="community.facebook"
+        :line="community.line"
+        :ig="community.ig"
         :index="index"
       />
     </div>

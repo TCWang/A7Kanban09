@@ -5,7 +5,7 @@
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
       <img
-        :src="figure"
+        :src="`../_nuxt/assets/img/${figure}`"
         alt=""
         class="object-fit rounded-xl h-40 md:h-48 md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200"
       />
@@ -26,10 +26,22 @@
           >
             里長公佈欄
           </button>
-          <a :href="facebook">
+          <a v-show="facebook" :href="facebook">
             <img
               class="h-12 hover:border-yellow-300 hover:border-2"
               src="~/assets/img/LOG-01-facebook.png"
+            />
+          </a>
+          <a v-show="line" :href="line">
+            <img
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="~/assets/img/LOG-01-line.png"
+            />
+          </a>
+          <a v-show="ig" :href="ig">
+            <img
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="~/assets/img/LOG-01-Ig.png"
             />
           </a>
         </div>
@@ -49,6 +61,8 @@ interface CardProps {
   mail: string;
   figure: string;
   facebook: string;
+  line?: string;
+  ig?: string;
   index: number;
 }
 

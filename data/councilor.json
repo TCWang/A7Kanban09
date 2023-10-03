@@ -11,7 +11,7 @@
             "mail": "ty520631@gmail.com",
             "ig": "https://www.instagram.com/tyleehao/",
             "publish": "fig/XLK-221-Election/AiCity-2210-選舉公報-13.png",
-            "figure": "../_nuxt/assets/img/COU-01-01.jpeg",
+            "figure": "COU-01-01.jpeg",
             "facebook": "https://www.facebook.com/TYleehao"
         },
         {
@@ -26,7 +26,7 @@
             "mail": "niu-office@tycc.gov.tw",
             "ig": "https://www.instagram.com/niu_2024/",
             "publish": "fig/XLK-221-Election/AiCity-2210-選舉公報-14.png",
-            "figure": "../_nuxt/assets/img/COU-01-02.jpeg",
+            "figure": "COU-01-02.jpeg",
             "facebook": "https://www.facebook.com/18NIUstart/",
             "description": "空污反應管道: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScCA0u53XJRjzfBpjv9Bz4JrYH7D6v5wTtPwyVG_Jni0LK7zA/viewform?fbclid=IwAR3zGTtgLnLm8Hb_T45jnBz9iP_FPes2r1h-Z4-JTZeEkMPWiKw-L1OIwhQ\">空污報馬仔</a> <br>\r\n議會質詢錄影: <a href=\"https://www.youtube.com/channel/UCtUBTUpZ_rEAzZvhYWnwlsA/videos\">牛煦庭</a><br>\r\n向市民報告: <a href=\"https://issuu.com/niuhsuting/docs/220325_\">環保議員 除公害</a><br>\r\n交通問題民意調查: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScjQbfA5PVLczJ8ibua4oa9DUHicpARK_9Ehg_yKjeuJ6ZSVA/viewform\">A7,A8社區公車路線調查</a><br>\r\n競選網站: <a href=\"https://niu2022.oen.tw/?fbclid=IwAR3USt6j4wUWANHyalrGZBAwN3YUTM09BiyzaYaldS3kQnTse2gomFyr-60\">挺牛的成績單</a>"
         },
@@ -43,7 +43,7 @@
             "line": "https://linevoom.line.me/user/_dfRtFGFtqjyHMgWPxL9bYSVo0FauP0k4MerecnI?utm_medium=osx&utm_source=desktop&utm_campaign=OA_Profile",
             "ig": "https://www.instagram.com/didisun7414/",
             "publish": "fig/XLK-221-Election/AiCity-2210-選舉公報-16.png",
-            "figure": "../_nuxt/assets/img/COU-01-03.jpeg",
+            "figure": "COU-01-03.jpeg",
             "facebook": "https://www.facebook.com/sun0976315743"
         },
         {
@@ -59,7 +59,7 @@
             "line": "https://linevoom.line.me/user/_dSaQYKpOBzcwsnv5YWPr7Kt6YUlCzXAUHbbJH4k?utm_medium=osx&utm_source=desktop&utm_campaign=OA_Profile",
             "ig": "https://www.instagram.com/yalunchenyalunchen/",
             "publish": "fig/XLK-221-Election/AiCity-2210-選舉公報-17.png",
-            "figure": "../_nuxt/assets/img/COU-01-04.jpeg",
+            "figure": "COU-01-04.jpeg",
             "facebook": "https://www.facebook.com/profile.php?id=100063574997048"
         }
     ]

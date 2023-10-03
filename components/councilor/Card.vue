@@ -5,7 +5,7 @@
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
       <img
-        :src="figure"
+        :src="`../_nuxt/assets/img/${figure}`"
         alt=""
         class="object-fit rounded-xl h-40 md:h-48 md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200"
       />
@@ -26,22 +26,22 @@
           >
             地區服務
           </button>
-          <a :href="facebook">
+          <a v-show="facebook" :href="facebook">
             <img
               class="h-12 hover:border-yellow-300 hover:border-2"
               src="~/assets/img/LOG-01-facebook.png"
             />
           </a>
-          <a :href="line">
+          <a v-show="line" :href="line">
             <img
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="~/assets/img/LOG-01-facebook.png"
+              src="~/assets/img/LOG-01-line.png"
             />
           </a>
-          <a :href="ig">
+          <a v-show="ig" :href="ig">
             <img
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="~/assets/img/LOG-01-facebook.png"
+              src="~/assets/img/LOG-01-Ig.png"
             />
           </a>
         </div>
