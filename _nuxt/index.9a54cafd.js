@@ -1,0 +1,1 @@
+import{_ as n,i as o,q as a,y as e,v as s,x as c,s as r,m as _}from"./entry.166a6e50.js";const l={},d=r("br",null,null,-1);function i(u,x){const t=o("NextLink");return _(),a("div",null,[e(" A7Kanban09 Test "),d,s(t,{to:"/about"},{default:c(()=>[e("Abou Page")]),_:1})])}const m=n(l,[["render",i]]);export{m as default};
