@@ -1,6 +1,6 @@
 <template>
   <div class="container mb-4 mr-4 flex justify-end">
-    <NuxtLink href="/expectations">
+    <NuxtLink to="/expectations">
       <button class="btn btn-primary">回列表清單</button>
     </NuxtLink>
   </div>

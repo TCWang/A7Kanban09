@@ -18,6 +18,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@nuxt/image-edge": "^1.0.0-rc.3-28272445.06c91ae",
     "@nuxtjs/tailwindcss": "^6.8.0"
   }
 }
