@@ -4,7 +4,7 @@
     <NuxtImg
       src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-02-01.webp"
       alt="郵政物流園區"
-      sizes="sm:100vw md:150vw lg:200vw"
+      sizes="sm:1600vw md:1600vw lg:1600vw xl:1600vw"
     />
   </div>
 </template>
