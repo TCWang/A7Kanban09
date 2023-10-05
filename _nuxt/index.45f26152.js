@@ -1,0 +1,1 @@
+import{u as e}from"./vue.f36acd1f.38c6d9c3.js";import{c as t,o,a}from"./entry.32810111.js";const n=a("h1",null,"A7新林口-社區網站: 地方行政資訊平台",-1),s=[n],m={__name:"index",setup(c){return e({title:"A7-地方行政",meta:[{name:"description",content:"A7新林口-社區網站: 地方行政資訊平台 "}]}),(r,_)=>(o(),t("div",null,s))}};export{m as default};
