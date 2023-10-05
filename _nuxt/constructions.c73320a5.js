@@ -10,7 +10,9 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-02-01.webp" alt="郵政物流園區" sizes="sm:100vw md:150vw lg:200vw" /> \r
 郵政物流園區 圖`},{Item:"中華郵政郵件作業中心",Category:"工商發展",Id:"CON-03",DescriptionA:'預計2024年4月完工。 截至2023/3/8，實際進度：<a href="https://subservices.post.gov.tw/post/internet/Group/index.jsp?ID=1578899636045"> 75.6% </a>, 預計2025營運',Due:"2024/04",StatusA:"green",StatusB:"施工",DescriptionB:` <p>    未來北臺灣郵件作業中心將整合中華郵政公司臺北及桃園郵件處理中心與國際進、出口郵件業務，處理範圍涵蓋北北基、桃園、新竹及宜蘭、花蓮等區域，約占國內郵件量70%，並導入新式自動化郵件處理設備，優化作業流程，提升郵務運作效能；同時推動海關、郵政、檢驗檢疫單位等跨部會協同作業機制，以提升通關效率。又為發揮園區倉配一體優勢，北臺灣郵件作業中心亦規劃1.2萬坪倉儲空間，除保留中華郵政公司申設保稅倉儲空間外，另供國內、國際電商物流或跨境電商物流業者進駐使用，預計於2021年底前辦理招商作業。</p>\r
 \r
-<p>     郵政訓練中心為郵政物流園區行政核心，配合北臺灣郵件作業中心落實廠辦分離外，尚規劃設置智慧監控中心，增進園區維運管理效能，並建置完善訓練、會議等場域空間及相關設施，約2,400坪辦公空間將於建物落成後辦理招商，預期引進物流、電商等相關產業之新創或青創業者進駐使用，扶持產業發展。</p>`},{Item:"中華郵政資訊中心",Category:"工商發展",Id:"CON-04",DescriptionA:'工程進度<a href="https://www.post.gov.tw/post/internet/Group/index.jsp?ID=1570503555147"> 92.14% (2023/3/9) </a> ，預計2023年4月竣工 預計2024營運。',Due:"2023/04",StatusA:"green",StatusB:"施工",DescriptionB:"<p>郵政資訊中心：建構零缺失、智慧節能之資訊基礎設施，精進資訊機能，支撐業務發展，確保永續經營。</p>"},{Item:"禾聯樂善園區建廠",Category:"工商發展",Id:"CON-05",DescriptionA:"禾聯總部 工程鷹架拆除，預計2023年啟用。",Due:"2023",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>樂善科學園區開發</h5>\r
+<p>     郵政訓練中心為郵政物流園區行政核心，配合北臺灣郵件作業中心落實廠辦分離外，尚規劃設置智慧監控中心，增進園區維運管理效能，並建置完善訓練、會議等場域空間及相關設施，約2,400坪辦公空間將於建物落成後辦理招商，預期引進物流、電商等相關產業之新創或青創業者進駐使用，扶持產業發展。</p>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-03-01.jpeg" alt="郵政作業中心" sizes="sm:100vw md:150vw lg:200vw" /> `},{Item:"中華郵政資訊中心",Category:"工商發展",Id:"CON-04",DescriptionA:'工程進度<a href="https://www.post.gov.tw/post/internet/Group/index.jsp?ID=1570503555147"> 92.14% (2023/3/9) </a> ，預計2023年4月竣工 預計2024營運。',Due:"2023/04",StatusA:"green",StatusB:"施工",DescriptionB:`<p>郵政資訊中心：建構零缺失、智慧節能之資訊基礎設施，精進資訊機能，支撐業務發展，確保永續經營。</p>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-04-01.jpeg" alt="郵政作業中心" sizes="sm:100vw md:150vw lg:200vw" /> `},{Item:"禾聯樂善園區建廠",Category:"工商發展",Id:"CON-05",DescriptionA:"禾聯總部 工程鷹架拆除，預計2023年啟用。",Due:"2023",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>樂善科學園區開發</h5>\r
 \r
 <p>樂善科學園區加上華亞科技園區，產值將達竹科的一半，要打造成桃園版的內湖科技園區，同時「亞洲•矽谷計劃」也會將此處作為重要的實驗場及推動產官學合作方案的基地。產業專區45公頃，22公頃由禾聯碩標得；另一半的土地由中華郵政公司設置物流中心及行政大樓，中華郵政未來的營運重心將會移至本區。\r
 </p>\r
@@ -188,7 +190,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <p> 本案完成後將有助於 A7居民步行或騎自行車前往 <a\r
    href="https://tcwang.github.io/A7Xinlinkou/A7XLK-12-ParkTrail.html#Menu-B14">泰山崎頭步道</a>。\r
  目前的道路寬度是行人與車輛共用快車道，對行人/自行車通過會有很大安全威脅！\r
- </p>`},{Item:"國1林口交流道改善工程",Category:"交通建設",Id:"CON-17",DescriptionA:"計畫期程 5年, 歷經9次流標， 2022/12/22 終於以29億5,880萬元決標，預計2027年完工。",Due:"2027",Budget:"29.6億",StatusA:"gold",StatusB:"施工",DescriptionB:`\r
+ </p>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-16-01.jpeg"  alt="A7重劃區變三工程"  sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"國1林口交流道改善工程",Category:"交通建設",Id:"CON-17",DescriptionA:"計畫期程 5年, 歷經9次流標， 2022/12/22 終於以29億5,880萬元決標，預計2027年完工。",Due:"2027",Budget:"29.6億",StatusA:"gold",StatusB:"施工",DescriptionB:`\r
 \r
  <h5>國道1號 交流道改善工程</h5>\r
  相關資訊\r
@@ -217,7 +220,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
  改善示意圖：<br>\r
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-01.webp" alt="林口國1改善工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-02.jpeg" alt="林口國1改善工程"   sizes="sm:100vw md:150vw lg:200vw" />\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-02.jpeg" alt="林口國1改善工程2"   sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
  <h5>計畫緣起</h5>\r
  <p>國道1號林口交流道位於新北市林口區與桃園市龜山區交界，設有林口A(約41K)及林口B(約43K)二個鑽石型交流道，並以集散道串聯。因周邊大型開發持續增加，人口快速成長，交通量大幅增加，囿於匝道出入口受主線長爬坡、匝道縱坡、地方道路號誌延滯及文化一路跨越橋儲車空間不足等影響，導致車輛回堵主線壅塞嚴重，爰辦理本工程。\r
@@ -237,7 +240,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  </p>\r
 \r
  規劃示意圖：<br>\r
- <img src="../_nuxt/assets/img/CON-17-03.jpeg" class="img-fluid m-1" style="width:600px">\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-03.jpeg" alt="林口國1改善工程3"   sizes="sm:100vw md:150vw lg:200vw" />\r
 `},{Item:"林口工五文化二路延伸",Category:"交通建設",Id:"CON-22",DescriptionA:`2022/08/24 林口工五工業區 - <a href="https://tcwang.github.io/A7Xinlinkou/file/XLK-236-%E5%85%A7%E6%94%BF%E9%83%A8%E5%9C%9F%E5%9C%B0%E5%BE%B5%E6%94%B6%E5%AF%A9%E8%AD%B0%E5%B0%8F%E7%B5%84%E7%AC%AC247%E6%AC%A1%E6%9C%83%E8%AD%B0%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E5%96%AE%E5%8F%8A%E8%AD%B0%E7%A8%8B.pdf">擴大方案土地徵收會議 </a> 請參考社區網頁, (公墓, 內政部土地增收會議, 公益性與必要性通過, 都市計畫中, 但還不知道時程)\r
 `,StatusA:"red",StatusB:"期望",DescriptionB:`<h5>林口工五工業區 - 擴大方案</h5>\r
 <ul>\r
@@ -279,7 +282,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 主要為龜山區第三公墓使用，約 13,500 座墳墓，已於 108 年 3\r
 月公告禁葬，西側有部分為農業及森林使用土地，農業使用為零星分布，面積狹小，主要為果樹、旱作，西北側有部分建築使用土地，主要為住宅（共有 16 戶，實際居住約 13\r
 戶）及製造業之廠房分布；東北側現況有較多建築使用土地，主要為製造業之廠房，合計區內現有工廠約 18 家。</p>\r
-`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。 A8站循環專車預計2022/9月試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
+`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
  <ol>\r
    <li>計畫目的:新北市新莊區 #壽山路 為承接新北市及桃園市上下班車流，交通量龐大，為改善壽山路丹鳳橋路口尖峰時段交通繁忙，常發生壅塞回堵至相鄰之新北大道路口，及1K+360至1K+480路段\r
      轉彎處視距不佳之問題，透過本案於工址1新莊區壽山路丹鳳橋路口處拓寬既有道路，北向舒緩直行壽山路車流、南向分流壽山 路南下直行車流，以改善路口段服務水準不足之問題，另於工址\r
@@ -296,7 +299,13 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-04.jpeg" alt="壽山路拓寬4" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-05.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 \r
-`},{Item:"山尾親水公園",Category:"居住環境",Id:"CON-32",DescriptionA:"預計施工期間: 2022/03/09 - 2022/08/08, 實際於2022/09/24竣工。決標金額 3,880,000元。水電工程仍待接通？",Due:"2022/09/24",Budget:"388萬",StatusA:"gray",StatusB:"完成"},{Item:"文青活動中心",Category:"居住環境",Id:"CON-09",DescriptionA:"包含文青里活動中心及警察派出所, 2022/05/25 完成招標。",StatusA:"red",StatusB:"施工",DescriptionB:`<h5 >文青活動中心</h5>\r
+`},{Item:"山尾親水公園",Category:"居住環境",Id:"CON-32",DescriptionA:"預計施工期間: 2022/03/09 - 2022/08/08, 實際於2022/09/24竣工。決標金額 3,880,000元。水電工程仍待接通？",Due:"2022/09/24",Budget:"388萬",StatusA:"gray",StatusB:"完成",DescriptionB:`<ul>\r
+	<li>工程名稱; 南崁溪上游水質共融式親水公園 </li>\r
+	<li>決標金額: 3,880,000 元 </li>\r
+	<li>施工期間: 2022/03/09 - 2022/08/08, 實際竣工 2022/09/24 </li>\r
+	<li>臉書追蹤: <a href="https://www.facebook.com/groups/1951117865015671/permalink/5252846688176089/">A7重劃區大小事2022/09/13</a> </li>\r
+</ul>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-32-01.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>`},{Item:"文青活動中心",Category:"居住環境",Id:"CON-09",DescriptionA:"包含文青里活動中心及警察派出所, 2022/05/25 完成招標。",StatusA:"red",StatusB:"施工",DescriptionB:`<h5 >文青活動中心</h5>\r
 <p>將作為 合宜住宅區里民活動中心 / 派出所等規劃, <a\r
 	href="http://web.pcc.gov.tw/tps/tpam/main/tps/tpam/tpam_tender_detail.do?searchMode=common&scope=F&primaryKey=71987279&area=history">招標公告</a>\r
 <br>\r
@@ -358,7 +367,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 2019/04/29 Yahoo\r
 新聞稱：副市長李憲明和體育局長莊佳佳都表示，龜山區國民運動中心已選定於龜山區復興三路華亞園區內的機關用地，目前已著手辦理土地個案變更，\r
 <span\r
-	class="text-danger">原預計2020年4月動工興建，約2025年6月完工</span>。林議員尊重市府的法和規劃，要求市府即將籌編明年度預算時，務必將預算納入並於2020年4月如期動工。\r
+	class="text-red-400">原預計2020年4月動工興建，約2025年6月完工</span>。林議員尊重市府的法和規劃，要求市府即將籌編明年度預算時，務必將預算納入並於2020年4月如期動工。\r
 </p>\r
 `,Contribution:`<p>2021/04/17\r
 聯合新聞網稱：桃園市政府喊出要建設11座國民運動中心、5座體育園區，但牛煦庭議員質疑龜山與八德國民運動中心進度拖延，淪為政治口號。市府體育局指出，龜山國民運動中心新建工程經費約3.3億元，因向教育部體育署申請前瞻基礎建設計畫-充實全民運動環境計畫補助2億元，正由體育署審辦計畫書，<span\r
