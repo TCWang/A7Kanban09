@@ -7,14 +7,14 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 </p>\r
 <p>郵政物流中心地上八層、地下一層，主要樓層四層，每層四倉儲單元，共有16倉儲單元，倉儲面積約4.8萬坪，總樓地板面積達6萬9,686坪，設置兩座立體迴旋車道及218個裝（卸）貨月台。\r
 </p>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-02-01.webp" alt="郵政物流園區" sizes="sm:100vw md:150vw lg:200vw" /> \r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-02-01.webp" alt="郵政物流園區" sizes="sm:100vw md:150vw lg:200vw" /> \r
 郵政物流園區 圖`},{Item:"中華郵政郵件作業中心",Category:"工商發展",Id:"CON-03",DescriptionA:'預計2024年4月完工。 截至2023/3/8，實際進度：<a href="https://subservices.post.gov.tw/post/internet/Group/index.jsp?ID=1578899636045"> 75.6% </a>, 預計2025營運',Due:"2024/04",StatusA:"green",StatusB:"施工",DescriptionB:` <p>    未來北臺灣郵件作業中心將整合中華郵政公司臺北及桃園郵件處理中心與國際進、出口郵件業務，處理範圍涵蓋北北基、桃園、新竹及宜蘭、花蓮等區域，約占國內郵件量70%，並導入新式自動化郵件處理設備，優化作業流程，提升郵務運作效能；同時推動海關、郵政、檢驗檢疫單位等跨部會協同作業機制，以提升通關效率。又為發揮園區倉配一體優勢，北臺灣郵件作業中心亦規劃1.2萬坪倉儲空間，除保留中華郵政公司申設保稅倉儲空間外，另供國內、國際電商物流或跨境電商物流業者進駐使用，預計於2021年底前辦理招商作業。</p>\r
 \r
 <p>     郵政訓練中心為郵政物流園區行政核心，配合北臺灣郵件作業中心落實廠辦分離外，尚規劃設置智慧監控中心，增進園區維運管理效能，並建置完善訓練、會議等場域空間及相關設施，約2,400坪辦公空間將於建物落成後辦理招商，預期引進物流、電商等相關產業之新創或青創業者進駐使用，扶持產業發展。</p>`},{Item:"中華郵政資訊中心",Category:"工商發展",Id:"CON-04",DescriptionA:'工程進度<a href="https://www.post.gov.tw/post/internet/Group/index.jsp?ID=1570503555147"> 92.14% (2023/3/9) </a> ，預計2023年4月竣工 預計2024營運。',Due:"2023/04",StatusA:"green",StatusB:"施工",DescriptionB:"<p>郵政資訊中心：建構零缺失、智慧節能之資訊基礎設施，精進資訊機能，支撐業務發展，確保永續經營。</p>"},{Item:"禾聯樂善園區建廠",Category:"工商發展",Id:"CON-05",DescriptionA:"禾聯總部 工程鷹架拆除，預計2023年啟用。",Due:"2023",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>樂善科學園區開發</h5>\r
 \r
 <p>樂善科學園區加上華亞科技園區，產值將達竹科的一半，要打造成桃園版的內湖科技園區，同時「亞洲•矽谷計劃」也會將此處作為重要的實驗場及推動產官學合作方案的基地。產業專區45公頃，22公頃由禾聯碩標得；另一半的土地由中華郵政公司設置物流中心及行政大樓，中華郵政未來的營運重心將會移至本區。\r
 </p>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
 \r
 <h5>順達,致茂與禾聯碩廠區</h5>\r
 <p>樂善科技園區將是桃園版內湖科學園區。該區已由順達科技、致茂電子及禾揚國際（禾聯）等3家民間企業標下22.23公頃土地，其中致茂與禾聯碩各35%土地，順達科則取得30%土地。致茂電子預計設立新總部及生產基地，順達科技則做為新總部、研發、生產基地，禾聯碩則設定為電視、節能空調等產品的第2生產據點，3家預計共創造2300個以上的就業機會，年產值將達到1100億元。\r
@@ -22,7 +22,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
 <p>樂善科學園區加上華亞科技園區，產值將達竹科的一半，要打造成桃園版的內湖科技園區，同時「亞洲•矽谷計劃」也會將此處作為重要的實驗場及推動產官學合作方案的基地。產業專區45公頃，22公頃由禾聯碩標得；另一半的土地由中華郵政公司設置物流中心及行政大樓，中華郵政未來的營運重心將會移至本區。\r
 </p>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
 \r
 <h5>順達,致茂與禾聯碩廠區</h5>\r
 <p>樂善科技園區將是桃園版內湖科學園區。該區已由順達科技、致茂電子及禾揚國際（禾聯）等3家民間企業標下22.23公頃土地，其中致茂與禾聯碩各35%土地，順達科則取得30%土地。致茂電子預計設立新總部及生產基地，順達科技則做為新總部、研發、生產基地，禾聯碩則設定為電視、節能空調等產品的第2生產據點，3家預計共創造2300個以上的就業機會，年產值將達到1100億元。\r
@@ -30,7 +30,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
 <p>樂善科學園區加上華亞科技園區，產值將達竹科的一半，要打造成桃園版的內湖科技園區，同時「亞洲•矽谷計劃」也會將此處作為重要的實驗場及推動產官學合作方案的基地。產業專區45公頃，22公頃由禾聯碩標得；另一半的土地由中華郵政公司設置物流中心及行政大樓，中華郵政未來的營運重心將會移至本區。\r
 </p>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-05-01.jpeg" alt="樂善科學園區"  sizes="sm:100vw md:150vw lg:200vw" /> \r
 \r
 <h5>順達,致茂與禾聯碩廠區</h5>\r
 <p>樂善科技園區將是桃園版內湖科學園區。該區已由順達科技、致茂電子及禾揚國際（禾聯）等3家民間企業標下22.23公頃土地，其中致茂與禾聯碩各35%土地，順達科則取得30%土地。致茂電子預計設立新總部及生產基地，順達科技則做為新總部、研發、生產基地，禾聯碩則設定為電視、節能空調等產品的第2生產據點，3家預計共創造2300個以上的就業機會，年產值將達到1100億元。\r
@@ -50,7 +50,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 	</li>\r
 </ul>\r
 \r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-08-01.jpeg" alt="南亞科技新廠完工模擬圖"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-08-01.jpeg" alt="南亞科技新廠完工模擬圖"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
 南亞科技新廠完工模擬圖\r
 +I10`},{Item:"中華郵政工商服務中心",Category:"工商發展",Id:"CON-20",DescriptionA:`工商服務中心面臨40米文桃路，預計引入大型賣場、旅宿、商辦、會議展覽與訓練等，日前已招商，將採代租模式 <br>\r
 在2018/9 - 2021/2 期間辦理3次公告招標，全部流標。相關業者對市場現況持保守觀望態度，商機尚未成熟，暫無進駐意願。 目前狀態 <span style="color:red"> 緩建</span>。預計2023重啟評估, 2030營運`,Due:"2030",StatusA:"red",StatusB:"規劃",DescriptionB:`<p>園區將採前店後廠方式開發，工商服務中心面臨40米文桃路，預計引入大型賣場、旅宿、商辦、會議展覽與訓練等，日前已招商，將採代租模式，依廠商需求興建，如招商順利， <del>預計2022年完工</del>。\r
@@ -66,7 +66,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）</li>\r
 <li>辦理情形：112年9月20日辦理設計書圖審查，俟審查意見辦理修正後進行派工單準備，並預計於10月初邀集地方民代、里民辦理現地說明會，112年10月底進場。</li>\r
 </ul>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
 <ul>\r
 <li>工務局將利用文青路、青山路週邊閒置的公有空間，在不影響行人的情況下分別增設車道。</li>\r
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
@@ -91,7 +91,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
      內政部 2019/01/29 <a href="file/XLK-242-A7規劃書-05.pdf">都市計畫委員會第939次會議紀錄</a>\r
    </li>\r
  </ul>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-01.jpeg"  alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-01.jpeg"  alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
  圖片來源：<a\r
    href="https://ec.ltn.com.tw/article/breakingnews/3558405?utm_medium=R&utm_campaign=SHARE&utm_source=FACEBOOK&fbclid=IwAR0AXAzdLKlSWeJkECpwSgm1HxNCjks-0Wxz47Wb9hHf1uWLx1_jsAZrFkA">自由時報\r
    2021/06/04</a>\r
@@ -123,7 +123,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
  </p>\r
 \r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-02.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-02.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
  樟腦寮磚窯廠遺址：將保留 （圖片來源：\r
  <a href="https://www.facebook.com/groups/1951117865015671">Facebook</a>）\r
  <br><br>`},{Item:"牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
@@ -138,7 +138,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 </p>\r
 <p>「變二道路」跨越十八份坑溪，道路兩端高低差達25公尺，橋墩施作不易，因此工程單位將橋樑規劃為「π型橋梁」，並於橋下設置2座小型滯洪池，以調節邊坡及當地排水功能。未來完工後，也將進行植栽、石溝整治等工程，以提高此地區的防災韌性，而景觀橋梁也將成為A7重劃區的都市亮點。\r
 </p>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-14-01.jpeg" alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-14-01.jpeg" alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 資料來源工務局\r
 \r
 <p>2022/09/01 <a href="https://www.facebook.com/groups/1951117865015671/permalink/5221445557982869/">臉書留言摘錄</a>\r
@@ -158,7 +158,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  <p>已經於 2023/1月 完工, 聯合新聞網 2023/01/17：<a\r
    href="https://udn.com/news/amp/story/7324/6917649?fbclid=IwAR0SkvK1vrFO96alOFiFRzqWCtoBKFub33tGt9pn_h3QcD1ZROQJwreuPQs">龜山變三道路拓寬2023/01/17日通車</a>\r
  </p>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-15-01.jpeg"  alt="A7重劃區變三工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-15-01.jpeg"  alt="A7重劃區變三工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
  <p>\r
  2022/11/15日 桃園電子報: 「變三道路」拓寬工程範圍起自龜山區文藝街，將改善長80公尺、寬約6至15公尺的道路，工程經費約為3000萬，已於今（111）年3月開工，預計明年1月竣工；\r
  </p>\r
@@ -216,8 +216,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
 \r
  改善示意圖：<br>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-01.webp" alt="林口國1改善工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-02.jpeg" alt="林口國1改善工程"   sizes="sm:100vw md:150vw lg:200vw" />\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-01.webp" alt="林口國1改善工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-17-02.jpeg" alt="林口國1改善工程"   sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
  <h5>計畫緣起</h5>\r
  <p>國道1號林口交流道位於新北市林口區與桃園市龜山區交界，設有林口A(約41K)及林口B(約43K)二個鑽石型交流道，並以集散道串聯。因周邊大型開發持續增加，人口快速成長，交通量大幅增加，囿於匝道出入口受主線長爬坡、匝道縱坡、地方道路號誌延滯及文化一路跨越橋儲車空間不足等影響，導致車輛回堵主線壅塞嚴重，爰辦理本工程。\r
@@ -237,7 +237,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  </p>\r
 \r
  規劃示意圖：<br>\r
- <NuxtImg src="../_nuxt/assets/img/CON-17-03.jpeg" class="img-fluid m-1" style="width:600px">\r
+ <img src="../_nuxt/assets/img/CON-17-03.jpeg" class="img-fluid m-1" style="width:600px">\r
 `},{Item:"林口工五文化二路延伸",Category:"交通建設",Id:"CON-22",DescriptionA:`2022/08/24 林口工五工業區 - <a href="https://tcwang.github.io/A7Xinlinkou/file/XLK-236-%E5%85%A7%E6%94%BF%E9%83%A8%E5%9C%9F%E5%9C%B0%E5%BE%B5%E6%94%B6%E5%AF%A9%E8%AD%B0%E5%B0%8F%E7%B5%84%E7%AC%AC247%E6%AC%A1%E6%9C%83%E8%AD%B0%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E5%96%AE%E5%8F%8A%E8%AD%B0%E7%A8%8B.pdf">擴大方案土地徵收會議 </a> 請參考社區網頁, (公墓, 內政部土地增收會議, 公益性與必要性通過, 都市計畫中, 但還不知道時程)\r
 `,StatusA:"red",StatusB:"期望",DescriptionB:`<h5>林口工五工業區 - 擴大方案</h5>\r
 <ul>\r
@@ -271,7 +271,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 			工五工業區產能提升計畫-工五工業區擴大方案)書</a> 2019/04\r
 	</li>\r
 </ul>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-22-01.png" alt="工五工業區"  sizes="sm:100vw md:150vw lg:200vw" />\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-22-01.png" alt="工五工業區"  sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 \r
 <p>依據 2022/08/10 <a href="file/XLK-236-內政部土地徵收審議小組第247次會議開會通知單及議程.pdf">會議記錄</a>:<br>\r
@@ -290,11 +290,11 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
      擋土設施(長約12公尺及21公尺)、新設人行道及既有人行道復舊， 工址2位壽山路1K+360至1K+480路段彎道線型優化，西側新設擋 土設施(長約66公尺)及留設路肩供緊急停靠。</li>\r
  </ol>\r
 \r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-01.jpeg"  alt="壽山路拓寬1" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-02.jpeg"   alt="壽山路拓寬2" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-03.jpeg"  alt="壽山路拓寬3" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-04.jpeg" alt="壽山路拓寬4" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
- <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-05.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-01.jpeg"  alt="壽山路拓寬1" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-02.jpeg"   alt="壽山路拓寬2" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-03.jpeg"  alt="壽山路拓寬3" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-04.jpeg" alt="壽山路拓寬4" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-37-05.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 \r
 `},{Item:"山尾親水公園",Category:"居住環境",Id:"CON-32",DescriptionA:"預計施工期間: 2022/03/09 - 2022/08/08, 實際於2022/09/24竣工。決標金額 3,880,000元。水電工程仍待接通？",Due:"2022/09/24",Budget:"388萬",StatusA:"gray",StatusB:"完成"},{Item:"文青活動中心",Category:"居住環境",Id:"CON-09",DescriptionA:"包含文青里活動中心及警察派出所, 2022/05/25 完成招標。",StatusA:"red",StatusB:"施工",DescriptionB:`<h5 >文青活動中心</h5>\r
 <p>將作為 合宜住宅區里民活動中心 / 派出所等規劃, <a\r
@@ -327,12 +327,12 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 預計2024年完工\r
 </p>\r
 \r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-01.png" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-01.png" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 圖：社會住宅位址\r
 <p>\r
 社會住宅不單純只是住宅，它還包含相關社會福利設施如 老人日照中心，公辦私營幼兒園 及健身中心。對於家中有老人跟小孩的家庭有很大的幫助。 <br><br>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-02.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-03.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-02.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-03.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />\r
 <br> 社會住宅 詳圖 </p>`},{Item:"龜山國民運動中心",Category:"居住環境",Id:"CON-11",DescriptionA:'依據 <a href="https://reiso.tycg.gov.tw/governance-outcome/12">施政成果透明資訊網</a> 預計 2025年6月完工。都審中 預計2023年3月招標。 也就是 完工日需要依據實際動工日往後延。',Due:"2025/06/01",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>龜山國民運動中心</h5>\r
 <p>依據 Facebook 2023/01/06 <a\r
 	href="https://www.facebook.com/groups/1951117865015671/permalink/5588686557925432/">桃園市政府工務局\r
@@ -434,9 +434,9 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 </p>\r
 \r
 在未來長久作業期間是否能多種樹木來美化此一區域，讓A7住宅的高樓層能有美麗的視野？\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-21-01.jpeg"  alt="樂善公墓" sizes="sm:100vw md:150vw lg:200vw" />\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-21-01.jpeg"  alt="樂善公墓" sizes="sm:100vw md:150vw lg:200vw" />\r
 <br><br>\r
-`},{Item:"區域立體連通空橋貫通",Category:"居住環境",Id:"CON-23",DescriptionA:"希望市府能預先規劃，當部分社區建案尚未完成是否能有移動便橋先行銜接？",StatusA:"gray",StatusB:"期望",DescriptionB:`<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-23-01%20(1).png" alt="A7空橋" sizes="sm:100vw md:150vw lg:200vw" />\r
+`},{Item:"區域立體連通空橋貫通",Category:"居住環境",Id:"CON-23",DescriptionA:"希望市府能預先規劃，當部分社區建案尚未完成是否能有移動便橋先行銜接？",StatusA:"gray",StatusB:"期望",DescriptionB:`<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-23-01%20(1).png" alt="A7空橋" sizes="sm:100vw md:150vw lg:200vw" />\r
 <p>A7重劃區空橋規劃圖</p>`},{Item:"多功能滯洪池改善建議案",Category:"居住環境",Id:"CON-24",DescriptionA:`市2023年已編列350萬預算委託設計規劃，將A7站公滯1、公滯4、公滯9、公滯11，共計4座濕式轉為乾式滯洪池 ；\r
 2022/09/30 牛煦庭議員: 「公滯一」滯洪池濕式改乾式案會勘，經水務局評估可行性沒問題！<br>\r
 `,StatusA:"gray",StatusB:"期望"},{Item:"A7景觀大道 建議案",Category:"居住環境",Id:"CON-25",DescriptionA:"長慶二街 黃花風鈴木大道 及 長慶三街 櫻花大道的構想已經向桃園市政府 農經課申請 所需樹苗交由委外的園藝公司做樹苗培養。 之後再進行移植。",StatusA:"gray",StatusB:"期望"},{Item:"設立空氣盒子管制空污排放",Category:"居住環境",Id:"CON-28",DescriptionA:"深化龜山三環空氣品質維護區作業，包含對區域內固定污染源的有效管制。",StatusA:"gray",StatusB:"期望"},{Item:"大埔垃圾轉運站結束運轉",Category:"居住環境",Id:"CON-29",DescriptionA:"生質能中心預計2022/9月正式營運。需要建立大埔垃圾處理時程表，徹底解決垃圾問題。",StatusA:"gray",StatusB:"期望",DescriptionB:`<p><a href="https://style.yahoo.com.tw/%E5%A4%A7%E5%9F%94%E8%BD%89%E9%81%8B%E7%AB%99%E5%9E%83%E5%9C%BE%E7%88%86%E9%87%8F-%E5%B1%85%E6%B0%91%E6%8A%97%E8%AD%B0-201000840.html">中時新聞網 2022/01/29</a> </p>: <p>大埔轉運站垃圾爆量 居民抗議 <p>過去轉運站多暫置龜山區域垃圾，但這幾個月接受來自桃園市區、大檜溪、大樹林、埔仔等地垃圾，氣味飄散頻繁，連過年將至，垃圾依然堆積如山。他說，原本以為該轉運站只有龜山的垃圾，大家體諒，但因垃圾清運量不足，需堆放其他區域垃圾，曝曬腐臭味飄散，要求市府加強轉運量能，將堆置已久的垃圾送往焚化爐。</p>\r
@@ -449,8 +449,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
 <br><br>\r
 2022取得道路用地, 道路工程 2022年底發包 2025年完工; 歷史建築修復將於道路工程完工後啟動, 預計2026年開放`,StatusA:"red",StatusB:"期望",DescriptionB:`<p>龜山區為桃園市首要排名的磚窯區域，主要是因為二戰後所興起的八卦窯，其中，龜山區協和磚廠作為代表性的八卦窯建築，見證桃園地區經濟起飛及城鄉發展的共同記憶，其以林口台地之紅土製磚，可以呈現磚窯產業脈絡，以及代表地方文化的地區性建造物類型。</p>\r
-`},{Item:"樂捷段社會住宅",Category:"居住環境",Id:"CON-34",DescriptionA:"統包工程已於上 2023 7月31日順利決標，由福清營造股份有限公司、承龍水電工程有限公司、陳信樟建築師事務所共同攜手承攬，預計117年完工，並興建多種公共服務設施供周邊民眾使用。",Due:"2029",StatusA:"red",StatusB:"施工",DescriptionB:'<p><a href="https://www.tshsc.org.tw/w/tshsc/SocialHousing_21081301011090040">龜山樂捷段社會住宅</a> </p> <NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-34-01.png"  alt="樂捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />'},{Item:"文青國中小及幼兒園",Category:"教育文化",Id:"CON-01",DescriptionA:'幼兒園預計2023/7月/18日完工、國小部2023/11/19日完工,。2023/9月招收4班小一, 暫用幼兒園教室。文青國中小校舍工程預計 2024/02/09 完成。2022/8月<a href="https://reiso.tycg.gov.tw/detail/8da5e917-bad3-403d-9d7a-aaf93293d83e"> 完成 10.94% </a>',Due:"2024/02/09",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
-<NuxtImg src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
+`},{Item:"樂捷段社會住宅",Category:"居住環境",Id:"CON-34",DescriptionA:"統包工程已於上 2023 7月31日順利決標，由福清營造股份有限公司、承龍水電工程有限公司、陳信樟建築師事務所共同攜手承攬，預計117年完工，並興建多種公共服務設施供周邊民眾使用。",Due:"2029",StatusA:"red",StatusB:"施工",DescriptionB:'<p><a href="https://www.tshsc.org.tw/w/tshsc/SocialHousing_21081301011090040">龜山樂捷段社會住宅</a> </p> <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-34-01.png"  alt="樂捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />'},{Item:"文青國中小及幼兒園",Category:"教育文化",Id:"CON-01",DescriptionA:'幼兒園預計2023/7月/18日完工、國小部2023/11/19日完工,。2023/9月招收4班小一, 暫用幼兒園教室。文青國中小校舍工程預計 2024/02/09 完成。2022/8月<a href="https://reiso.tycg.gov.tw/detail/8da5e917-bad3-403d-9d7a-aaf93293d83e"> 完成 10.94% </a>',Due:"2024/02/09",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 <p>\r
 文青國中小學正在籌備中：<a href="https://www.facebook.com/%E6%96%87%E9%9D%92%E5%9C%8B%E4%B8%AD%E5%B0%8F%E7%B1%8C%E5%82%99%E8%99%95-305945223529559/">籌備處</a>設在大埔國小辦公室。\r
