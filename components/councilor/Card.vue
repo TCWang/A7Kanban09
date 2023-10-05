@@ -4,8 +4,8 @@
     <!-- Flex Container -->
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
-      <img
-        :src="`../_nuxt/assets/img/${figure}`"
+      <NuxtImg
+        :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/${figure}`"
         alt=""
         class="object-fit rounded-xl h-40 md:h-48 md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200"
       />
@@ -27,21 +27,21 @@
             地區服務
           </button>
           <a v-show="facebook" :href="facebook">
-            <img
+            <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="~/assets/img/LOG-01-facebook.png"
+              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Facebook.png"
             />
           </a>
           <a v-show="line" :href="line">
-            <img
+            <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="~/assets/img/LOG-01-line.png"
+              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Line.png"
             />
           </a>
           <a v-show="ig" :href="ig">
-            <img
+            <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
-              src="~/assets/img/LOG-01-Ig.png"
+              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-01-Ig.png"
             />
           </a>
         </div>
