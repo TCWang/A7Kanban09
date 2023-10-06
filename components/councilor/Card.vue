@@ -21,11 +21,14 @@
         </nl>
 
         <div class="flex flex-row mt-4 space-x-4">
-          <button
-            class="px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
-          >
-            地區服務
-          </button>
+          <a :href="`/councilor/${title}`">
+            <button
+              class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
+            >
+              地區服務
+            </button>
+          </a>
+
           <a v-show="facebook" :href="facebook">
             <NuxtImg
               class="h-12 hover:border-yellow-300 hover:border-2"
