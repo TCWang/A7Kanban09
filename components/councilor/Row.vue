@@ -1,7 +1,7 @@
 <template>
   <div class="row" v-if="isHeader">
-    <h4 class="link item2">類別</h4>
-    <h4 class="header item1">項目</h4>
+    <h4 class="link item2">績效類別</h4>
+    <h4 class="header item1">服務項目</h4>
     <h4 class="header item3">日期</h4>
   </div>
   <div
@@ -14,9 +14,11 @@
     "
   >
     <p class="header item2">{{ Category2 }}</p>
-    <a :href="`/services/${Title}`" class="link item1 hover:bg-indigo-100">{{
-      Title
-    }}</a>
+    <a
+      :href="`/councilor/services/${No}`"
+      class="link item1 hover:bg-indigo-100"
+      >{{ Title }}</a
+    >
 
     <p class="header item3">{{ Date1 }}</p>
   </div>

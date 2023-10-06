@@ -17,7 +17,7 @@
           /
           <a
             href="https://www.facebook.com/groups/127251476046776/user/100000222589375/"
-            >Wade Chan</a
+            >Wade Chan (陳雅倫)</a
           >
         </li>
       </ul>

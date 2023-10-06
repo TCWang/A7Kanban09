@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    區域重要建設列表: 請點擊 <mark>建設項目</mark> 查詢相關資訊。
+    議員A7區域服務列表: 請點擊 <mark>服務項目</mark> 查詢相關資訊。
     <div class="table-container">
       <div class="table-col">
         <CouncilorRow class="bg-indigo-200" :isHeader="true" />
@@ -28,10 +28,11 @@ import services from "@/data/services.json";
 
 // interface RowProps {
 //   name: string;
-// };
+// }
 // const props = defineProps<RowProps>();
 
 // const servicesnamed = services.find((r) => r.Category === name);
+
 const servicesOrganized = {
   newSorted: [...services],
 };
