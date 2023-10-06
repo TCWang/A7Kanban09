@@ -8,7 +8,7 @@
           <div class="w-full md:w-1/3 mx-1">
             <table class="table-auto w-full">
               <tr>
-                <td class="sm:w-1/7 md:w-1/6">項目</td>
+                <td class="w-[4em] sm:w-1/7 md:w-1/6">項目</td>
                 <td class="sm:w-6/7 md:w-5/6">
                   {{ service.Title }} - {{ service.Subtitle }}
                 </td>

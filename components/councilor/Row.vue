@@ -3,6 +3,7 @@
     <h4 class="link item2">績效類別</h4>
     <h4 class="header item1">服務項目</h4>
     <h4 class="header item3">日期</h4>
+    <h4 class="header item4">議員</h4>
   </div>
   <div
     v-else
@@ -21,6 +22,7 @@
     >
 
     <p class="header item3">{{ Date1 }}</p>
+    <p class="header item4">{{ Category }}</p>
   </div>
 </template>
 
@@ -58,7 +60,7 @@ const props = defineProps<RowProps>();
 }
 .item1 {
   color: black;
-  width: 50%;
+  width: 45%;
   margin-right: 1rem;
 }
 .item2 {
@@ -68,7 +70,12 @@ const props = defineProps<RowProps>();
 }
 .item3 {
   text-decoration: none;
-  width: 20%;
+  width: 15%;
+  font-weight: 500;
+}
+.item4 {
+  text-decoration: none;
+  width: 10%;
   font-weight: 500;
 }
 

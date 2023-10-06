@@ -19,6 +19,11 @@
             href="https://www.facebook.com/groups/127251476046776/user/100000222589375/"
             >Wade Chan (陳雅倫)</a
           >
+          /
+          <a
+            href="https://www.facebook.com/groups/127251476046776/user/100086036705595"
+            >Winnie Wu (李宗豪)</a
+          >
         </li>
       </ul>
       <CouncilorService :name="name" />
