@@ -452,9 +452,10 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 \r
 <p>　居民說，垃圾及廚餘的惡臭味飄至龜山區文青里、文化里、舊路里、樂善里等4里，讓民眾相當不舒服，尤其太陽一出，惡臭味更四散，希望市府年後盡速評估解決方案。</p> <p>環保局也說，生質能中心正式運轉在即，將再通盤規畫各區垃圾清運路線，降低各區垃圾暫置情形，並可逐步消化掩埋場垃圾以利後續活化處理。</p>`},{Item:"A7站水資源回收中心第2期工程",Category:"居住環境",Id:"CON-30",DescriptionA:`<a href="https://www.tycg.gov.tw/water/home.jsp?id=519&parentpath=0,177,490,512">污水下水道 第二期工程</a>:\r
 總金額 112,600 (千元), 112年度 8,000, 113年度 50,000, 114年度 54,000 (千元）\r
-`,StatusA:"green",StatusB:"施工",DescriptionB:`<p><a href="https://tyenews.com/2023/05/380121/">桃園電子報 2023/05/10</a>: 龜山文青水園水資中心啟動擴建工程 污水處理量將提升至每日9千噸\r
+`,Due:"2025",Budget:"1.126億",StatusA:"green",StatusB:"施工",DescriptionB:`<p><a href="https://tyenews.com/2023/05/380121/">桃園電子報 2023/05/10</a>: 龜山文青水園水資中心啟動擴建工程 污水處理量將提升至每日9千噸\r
 </p>\r
-<p>桃園機場捷運A7站地區人口快速增長，為提升污水處理量，開始啟動文青水園水資源回收中心第二期擴建工程。水務局表示，該工程採用統包工程方式，已於2023年4月決標，該案完成後污水處理量，從原本每日可處理4000噸，提升至每日9000噸，所提升處理量以服務更多民眾家庭，避免家庭生活污水直接排入河川，提升桃市生活環境，讓都市發展的同時有更好的生活環境，並減少河川負擔。</p>`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
+<p>桃園機場捷運A7站地區人口快速增長，為提升污水處理量，開始啟動文青水園水資源回收中心第二期擴建工程。水務局表示，該工程採用統包工程方式，已於2023年4月決標，該案完成後污水處理量，從原本每日可處理4000噸，提升至每日9000噸，所提升處理量以服務更多民眾家庭，避免家庭生活污水直接排入河川，提升桃市生活環境，讓都市發展的同時有更好的生活環境，並減少河川負擔。</p>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-30-01.jpg"  alt="水資源第二期" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
 \r
 <br><br>\r
 2022取得道路用地, 道路工程 2022年底發包 2025年完工; 歷史建築修復將於道路工程完工後啟動, 預計2026年開放`,StatusA:"red",StatusB:"期望",DescriptionB:`<p>龜山區為桃園市首要排名的磚窯區域，主要是因為二戰後所興起的八卦窯，其中，龜山區協和磚廠作為代表性的八卦窯建築，見證桃園地區經濟起飛及城鄉發展的共同記憶，其以林口台地之紅土製磚，可以呈現磚窯產業脈絡，以及代表地方文化的地區性建造物類型。</p>\r

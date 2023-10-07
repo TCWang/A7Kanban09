@@ -1,1 +1,0 @@
-import{u as e}from"./vue.f36acd1f.b59627e2.js";import{c as t,o,a}from"./entry.8303d0c4.js";const n=a("h1",null,"市府交流",-1),s=[n],m={__name:"index",setup(c){return e({title:"A7-市府交流",meta:[{name:"description",content:"A7重劃區 桃園市政府資訊交流平台"}]}),(r,_)=>(o(),t("div",null,s))}};export{m as default};
