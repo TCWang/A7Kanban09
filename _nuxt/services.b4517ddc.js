@@ -1,12 +1,18 @@
 const t=[{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"文青里行動圖書車設置在 #文青水園前廣場，預計11月開始服務！",Description:`前陣子，民眾陳情 #文青里 原有的行動圖書車因為設置地點的關係無法繼續服務，但這裡距離圖書館又非常遠，借還書不方便😢\r
 因此雅倫與水資源廠長及圖書館人員共同來討論，爭取行動圖書車設置在 #文青水園前廣場，預計11月開始服務！屆時歡迎熱愛閱讀的大小朋友一起來使用喔 <br>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-022.jpeg" alt="行動圖書車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"10/5/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/605276541577598/"},{Title:"爭取文青國小家長接送區",No:"N023",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" #家長接送區，預計十月份前完工",Description:`最近開學，家長陸續陳情文青國中小附近沒有家長接送區，送小朋友來學校非常不方便且不安全，因此雅倫與張綾峰校長、黃錦芳里長、交通局共同討論規劃避車彎為 #家長接送區，預計十月份前完工，讓孩子上下課的環境可以更安全\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-023.jpeg" alt="文青國小家長接送區" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"9/12/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/594930289278890/"},{Title:"增設機車停車位",No:"N024",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" A7站周邊增加了50個機車格",Description:`七月開始1200月票開通、大坪頂循環線開始試辦、機捷增班等，皆是希望讓大家多多搭乘大眾運輸。\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-023.jpeg" alt="文青國小家長接送區" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"9/12/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/594930289278890/"},{Title:"增設機車停車位-1",No:"N024",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" A7站周邊增加了50個機車格",Description:`七月開始1200月票開通、大坪頂循環線開始試辦、機捷增班等，皆是希望讓大家多多搭乘大眾運輸。\r
 但是常常到了A7站的時候卻沒有機車位可以停，為此雅倫在議會建議、現場會勘爭取，在 #A7站周邊增加了50個機車格✅，希望可以讓通勤族更便利。\r
 1200上路，大眾運輸及配套措施都應該要跟著升級，然而現況公車班次極不穩定、司機員數量嚴重不足等，我會繼續爭取成立公共運輸處，提升桃園整體大眾運輸的環境！\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-024.jpeg" alt="A7機車停車位" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"8/21/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/585569540214965/"},{Title:"增設機車停車位",No:"N024",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" A7站周邊增加了50個機車格",Description:`七月開始1200月票開通、大坪頂循環線開始試辦、機捷增班等，皆是希望讓大家多多搭乘大眾運輸。\r
-但是常常到了A7站的時候卻沒有機車位可以停，為此雅倫在議會建議、現場會勘爭取，在 #A7站周邊增加了50個機車格✅，希望可以讓通勤族更便利。\r
-1200上路，大眾運輸及配套措施都應該要跟著升級，然而現況公車班次極不穩定、司機員數量嚴重不足等，我會繼續爭取成立公共運輸處，提升桃園整體大眾運輸的環境！\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-024.jpeg" alt="A7機車停車位" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"8/21/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/585569540214965/"},{Title:"增設機車停車位-2",No:"N025",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" 爭取A7站外機車格，騎機車轉乘機捷的通勤族可以多加利用",Description:`<p>機捷運量增加，配套也要跟上，增加站外停車格，持續照顧通勤族🙌🏻\r
+1200月票上路，搭乘機捷的民眾增加，轉乘的停車需求也浮現，機捷站外的停車格已經供不應求。\r
+我從去年就向局處建議，到今年在議會上也不斷提出通勤族停車空間的需求，終於有一小步的改變，成功爭取✅在機捷A7站外新增50個機車停車格🎉需要騎車轉乘機捷的民眾可以多加利用。</p>\r
+<p>建議也可以多利用大眾運輸工具轉乘：</p>\r
+<ul>\r
+<li>✅607「長庚醫院-迴龍」公車正式上路</li>\r
+<li>✅606「大坪頂循環線」公車試辦中<li>\r
+</ul>\r
+<p>這二條都是方便民眾轉乘機捷A7、A8站的公車路線，服務大坪頂地區鄉親通勤、通學、就醫需求，鼓勵大家多搭乘，未來才有機會為大家爭取更多路線，讓大眾運輸服務路網更綿密。</p>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-025.jpeg" alt="A7機車停車位" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"8/19/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/584520543653198/"},{Title:"大坪頂循環線606",No:"N026",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"公車《606》7/31要上路囉！",Description:`從上一屆開始討論催生，直到今日終於看到這一條新路線即將開始試跑～\r
 這次606是順時針單方向循環路線，起迄點為機捷體育大學站，平假日皆有行駛，每日32班次，尖峰班距20分鐘、離峰班距30分鐘。\r
 另外，同時間202公車會調整路線進入文德、樂學、樂學三路等新舊社區來服務。過去爭取的605B不會變，只是名稱改為607～\r
@@ -14,10 +20,10 @@ const t=[{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",C
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-026.jpeg" alt="606公車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"7/31/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/576271144478138/"},{Title:"爭取機捷增班",No:"N027",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"7/3日增加一班加班車, 8/1日再增三班加班車",Description:`感謝機捷公司採納雅倫建議🙏\r
 機捷增班 縮短班距！\r
 預計7/3再增一班加班車8/1再增三班加班車\r
-我會繼續爭取機捷增班以及隔音罩`,Date:"6/26/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/560255859413000/"},{Title:"試辦《公滯一》改為乾式滯洪池公園",No:"N028",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:`文化一路跟樂善三路交叉口的公滯一\r
+我會繼續爭取機捷增班以及隔音罩`,Date:"6/26/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/560255859413000/"},{Title:"試辦公滯一改為乾式滯洪池公園",No:"N028",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:`文化一路跟樂善三路交叉口的公滯一\r
 鄰近 #甲子園 #華悅城 #根津苑 #水悅青青 社區`,Description:`爭取ing～『公滯一』濕轉乾公園設計第一次說明會！\r
 希望水務局將 #排水安全 #環境整潔 #遊具設施  #休憩空間 #停車規劃 一併考量，由於滯洪池主管的機關水務局是水利專業，而公園設計的專業在工務局，我希望市府儘速跨局處討論此案，讓公滯一早日成為A7的大公園～\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-028.jpeg" alt="公滯ㄧ" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"6/15/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/555336849904901/"},{Title:"《大坪頂循環公車》6/8定線會勘",No:"N029",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"預計七月份可以正式上路",Description:`好消息🎉【大坪頂循環線】終於要在6/8辦理定線會勘！預計七月份可以正式上路！\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-028.jpeg" alt="公滯ㄧ" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"6/15/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/555336849904901/"},{Title:"大坪頂循環公車 6/8定線會勘",No:"N029",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"預計七月份可以正式上路",Description:`好消息🎉【大坪頂循環線】終於要在6/8辦理定線會勘！預計七月份可以正式上路！\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-029.jpeg" alt="606公車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"5/25/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/544863374285582/"},{Title:"A7 重劃區交通壅塞問題，要求市府積極處理",No:"N031",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"市政交通總質詢",Description:`A7 重劃區交通壅塞問題，要求市府積極處理！\r
 <p>過去近一個多月以來，我針對龜山各區的狀況質詢多位局處首長，其中「交通問題」是首要任務，今天針對幾個重大交通工程，要求市長重視處理！</p>\r
 ✅變一道路改為地下化<br>\r
