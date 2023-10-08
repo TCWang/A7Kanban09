@@ -12,11 +12,11 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: "Nuxt 3 Crash Course",
+      title: "A7社區網站-地方行政",
       meta: [
         {
           name: "description",
-          content: "A7Kanban template base on Nuxt 3 Crash Course",
+          content: "A7新林口-社區網站 V2.0 地方行政",
         },
       ],
       link: [
