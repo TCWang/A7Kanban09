@@ -1,14 +1,14 @@
 <template>
   <NuxtLayout name="detailpage">
     <div class="container expectation-container">
-      <h2>詳細資料: {{ expectation.id }} - {{ expectation.item }}</h2>
+      <h2>居民期望 詳細資料: {{ expectation.id }} - {{ expectation.item }}</h2>
       <!-- <div class="image-container">
         <img :src="`@/assets/fig/${house.Figure}`" alt="" />
       </div> -->
       <div class="row">
         <div class="col-md-6">
           <div class="info-container">
-            <h2>期望內容</h2>
+            <h2>居民期望 內容</h2>
 
             <div v-html="expectation.description"></div>
           </div>
