@@ -2,7 +2,7 @@
   <NuxtLayout name="detailpage">
     <div name="detailpage">
       <div>
-        <h2>{{ service.Title }} 詳細資料</h2>
+        <h2>議員交流: {{ service.Title }}</h2>
 
         <div class="flex flex-col md:flex-row">
           <div class="w-full md:w-1/3 mx-1">
@@ -37,6 +37,10 @@
           <div class="w-full md:w-2/3 mx-1">
             <h2>服務內容</h2>
             <div v-html="service.Description"></div>
+            <div v-if="service.feedback">
+              <h2 class="mt-2">居民反饋</h2>
+              <div v-html="service.feedback"></div>
+            </div>
           </div>
         </div>
 
