@@ -244,6 +244,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 `},{Item:"林口工五文化二路延伸",Category:"交通建設",Id:"CON-22",DescriptionA:`2022/08/24 林口工五工業區 - <a href="https://tcwang.github.io/A7Xinlinkou/file/XLK-236-%E5%85%A7%E6%94%BF%E9%83%A8%E5%9C%9F%E5%9C%B0%E5%BE%B5%E6%94%B6%E5%AF%A9%E8%AD%B0%E5%B0%8F%E7%B5%84%E7%AC%AC247%E6%AC%A1%E6%9C%83%E8%AD%B0%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E5%96%AE%E5%8F%8A%E8%AD%B0%E7%A8%8B.pdf">擴大方案土地徵收會議 </a> 請參考社區網頁, (公墓, 內政部土地增收會議, 公益性與必要性通過, 都市計畫中, 但還不知道時程)\r
 `,StatusA:"red",StatusB:"期望",DescriptionB:`<h5>林口工五工業區 - 擴大方案</h5>\r
 <ul>\r
+            <li>  <a href="https://urdb.tycg.gov.tw/home.jsp?id=231&parentpath=0%2C3&mcustomize=onemessages_view.jsp&dataserno=201905080001&aplistdn=ou%3Ddata%2Cou%3Dchdevelopment1%2Cou%3Dchdevelopment%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR3oAvogcE15HMI646jYBNCg-UDhOkwWUfphdFpZAeOLT1J63SPfEcteDPY">桃園市都市發展局</a>: 辦理「變更林口特定區計畫（配合工五工業區產能提升計畫-工五工業區擴大方案）案」及「變更暨擴大林口特定區計畫(工五工業區)細部計畫（配合工五工業區產能提升計畫-工五工業區擴大方案）案」\r
+            </li>\r
 	<li>\r
 		土地徵收審議 會議 111/08/10 <a href="file/XLK-236-內政部土地徵收審議小組第247次會議開會通知單及議程.pdf">會議記錄</a>\r
 	</li>\r
@@ -282,7 +284,10 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 主要為龜山區第三公墓使用，約 13,500 座墳墓，已於 108 年 3\r
 月公告禁葬，西側有部分為農業及森林使用土地，農業使用為零星分布，面積狹小，主要為果樹、旱作，西北側有部分建築使用土地，主要為住宅（共有 16 戶，實際居住約 13\r
 戶）及製造業之廠房分布；東北側現況有較多建築使用土地，主要為製造業之廠房，合計區內現有工廠約 18 家。</p>\r
-`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
+`,Contribution:`<p>\r
+ <a href="https://www.facebook.com/TYleehao">李宗豪議員</a> 2023/10/13 <br>\r
+有關工五擴大，我還是希望市府與樂善寺可以加速意見整合，因目前該案進度仍在延滯，阻礙地區發展，接下來都發局的工作報告我也會持續追蹤此案進度，也歡迎大家表達意見，如果有更多的人關注到這件事情，政策推動的強度也會更大，政策推行的方向也才會正確，市政府也才會更重視此問題。\r
+</p>`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
  <ol>\r
    <li>計畫目的:新北市新莊區 #壽山路 為承接新北市及桃園市上下班車流，交通量龐大，為改善壽山路丹鳳橋路口尖峰時段交通繁忙，常發生壅塞回堵至相鄰之新北大道路口，及1K+360至1K+480路段\r
      轉彎處視距不佳之問題，透過本案於工址1新莊區壽山路丹鳳橋路口處拓寬既有道路，北向舒緩直行壽山路車流、南向分流壽山 路南下直行車流，以改善路口段服務水準不足之問題，另於工址\r
