@@ -448,7 +448,22 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 `},{Item:"區域立體連通空橋貫通",Category:"居住環境",Id:"CON-23",DescriptionA:"希望市府能預先規劃，當部分社區建案尚未完成是否能有移動便橋先行銜接？",StatusA:"gray",StatusB:"期望",DescriptionB:`<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-23-01%20(1).png" alt="A7空橋" sizes="sm:100vw md:150vw lg:200vw" />\r
 <p>A7重劃區空橋規劃圖</p>`},{Item:"多功能滯洪池改善建議案",Category:"居住環境",Id:"CON-24",DescriptionA:`市2023年已編列350萬預算委託設計規劃，將A7站公滯1、公滯4、公滯9、公滯11，共計4座濕式轉為乾式滯洪池 ；\r
 2022/09/30 牛煦庭議員: 「公滯一」滯洪池濕式改乾式案會勘，經水務局評估可行性沒問題！<br>\r
-`,StatusA:"gray",StatusB:"期望"},{Item:"A7景觀大道 建議案",Category:"居住環境",Id:"CON-25",DescriptionA:"長慶二街 黃花風鈴木大道 及 長慶三街 櫻花大道的構想已經向桃園市政府 農經課申請 所需樹苗交由委外的園藝公司做樹苗培養。 之後再進行移植。",StatusA:"gray",StatusB:"期望"},{Item:"設立空氣盒子管制空污排放",Category:"居住環境",Id:"CON-28",DescriptionA:"深化龜山三環空氣品質維護區作業，包含對區域內固定污染源的有效管制。",StatusA:"gray",StatusB:"期望"},{Item:"大埔垃圾轉運站結束運轉",Category:"居住環境",Id:"CON-29",DescriptionA:"生質能中心預計2022/9月正式營運。需要建立大埔垃圾處理時程表，徹底解決垃圾問題。",StatusA:"gray",StatusB:"期望",DescriptionB:`<p><a href="https://style.yahoo.com.tw/%E5%A4%A7%E5%9F%94%E8%BD%89%E9%81%8B%E7%AB%99%E5%9E%83%E5%9C%BE%E7%88%86%E9%87%8F-%E5%B1%85%E6%B0%91%E6%8A%97%E8%AD%B0-201000840.html">中時新聞網 2022/01/29</a> </p>: <p>大埔轉運站垃圾爆量 居民抗議 <p>過去轉運站多暫置龜山區域垃圾，但這幾個月接受來自桃園市區、大檜溪、大樹林、埔仔等地垃圾，氣味飄散頻繁，連過年將至，垃圾依然堆積如山。他說，原本以為該轉運站只有龜山的垃圾，大家體諒，但因垃圾清運量不足，需堆放其他區域垃圾，曝曬腐臭味飄散，要求市府加強轉運量能，將堆置已久的垃圾送往焚化爐。</p>\r
+`,Due:"遙遙無期？",Budget:"2023 規劃預算被刪！",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
+<a href="https://www.facebook.com/groups/a7.home.tw/permalink/6839610802744561/?mibextid=uyAsYr">FB 新A7重劃區準鄰居 2023/10/13</a>: 陳雅倫 議員稱 【A7滯洪池公園預算 遭刪除！】\r
+</p>\r
+<p>\r
+雅倫爭取A7滯洪池濕轉乾改為公園乙案，水務局有盡責做好規劃並編列了4355萬元的預算，卻在今年7/10被市府高層刪除。\r
+昨日才聽到市府說大山頂（山頂里、幸福里、山福里…等）周邊沒有公園需求，今日又被我發現A7滯洪池公園的預算也慘遭刪除！\r
+兩個生活圈都缺乏公園綠地，但現在市府無心建設龜山，令人心寒！\r
+</p>\r
+\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-24-01.jpeg" alt="A7滯洪池預算" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"A7景觀大道 建議案",Category:"居住環境",Id:"CON-25",DescriptionA:"長慶二街 黃花風鈴木大道 及 長慶三街 櫻花大道的構想已經向桃園市政府 農經課申請 所需樹苗交由委外的園藝公司做樹苗培養。 之後再進行移植。",StatusA:"gray",StatusB:"期望",DescriptionB:`<p>\r
+<a href="https://www.facebook.com/groups/1951117865015671/permalink/5472370532890369/?mibextid=zDhOQc">FB A7重劃區大小事</a> 2022/11/29: 長慶三街 樂捷市 社區前 已經換植 吉野櫻, 成為A7的櫻花大道\r
+</p>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-25-01.jpeg" alt="櫻花大道" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"設立空氣盒子管制空污排放",Category:"居住環境",Id:"CON-28",DescriptionA:"深化龜山三環空氣品質維護區作業，包含對區域內固定污染源的有效管制。",StatusA:"gray",StatusB:"期望",DescriptionB:`<p>\r
+<a href="https://www.facebook.com/groups/127251476046776/search/?q=%E7%A9%BA%E6%B1%A1">FB A7新林口-社區網站</a> 對A7重劃區的 空污問題 討論紀錄，希望徹底解決民眾疑慮。加強區域空汙監控措施！\r
+</p>\r
+`},{Item:"大埔垃圾轉運站結束運轉",Category:"居住環境",Id:"CON-29",DescriptionA:"生質能中心預計2022/9月正式營運。需要建立大埔垃圾處理時程表，徹底解決垃圾問題。",StatusA:"gray",StatusB:"期望",DescriptionB:`<p><a href="https://style.yahoo.com.tw/%E5%A4%A7%E5%9F%94%E8%BD%89%E9%81%8B%E7%AB%99%E5%9E%83%E5%9C%BE%E7%88%86%E9%87%8F-%E5%B1%85%E6%B0%91%E6%8A%97%E8%AD%B0-201000840.html">中時新聞網 2022/01/29</a> </p>: <p>大埔轉運站垃圾爆量 居民抗議 <p>過去轉運站多暫置龜山區域垃圾，但這幾個月接受來自桃園市區、大檜溪、大樹林、埔仔等地垃圾，氣味飄散頻繁，連過年將至，垃圾依然堆積如山。他說，原本以為該轉運站只有龜山的垃圾，大家體諒，但因垃圾清運量不足，需堆放其他區域垃圾，曝曬腐臭味飄散，要求市府加強轉運量能，將堆置已久的垃圾送往焚化爐。</p>\r
 \r
 <p>　居民說，垃圾及廚餘的惡臭味飄至龜山區文青里、文化里、舊路里、樂善里等4里，讓民眾相當不舒服，尤其太陽一出，惡臭味更四散，希望市府年後盡速評估解決方案。</p> <p>環保局也說，生質能中心正式運轉在即，將再通盤規畫各區垃圾清運路線，降低各區垃圾暫置情形，並可逐步消化掩埋場垃圾以利後續活化處理。</p>`},{Item:"A7站水資源回收中心第2期工程",Category:"居住環境",Id:"CON-30",DescriptionA:`<a href="https://www.tycg.gov.tw/water/home.jsp?id=519&parentpath=0,177,490,512">污水下水道 第二期工程</a>:\r
 總金額 112,600 (千元), 112年度 8,000, 113年度 50,000, 114年度 54,000 (千元）\r
