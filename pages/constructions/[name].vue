@@ -1,7 +1,7 @@
 <template>
   <NuxtLayout name="detailpage">
     <div class="">
-      <h2>{{ construction.Item }} 詳細資料</h2>
+      <h2>區域建設: {{ construction.Item }}</h2>
       <!-- <div class="image-container">
         <img :src="`@/assets/fig/${house.Figure}`" alt="" />
       </div> -->
@@ -57,7 +57,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "重要建設 - " + name,
+  title: "區域建設 - " + name,
 });
 
 const construction = constructions.find((r) => r.Item === name);
