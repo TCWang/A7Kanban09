@@ -447,8 +447,14 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <br><br>\r
 `},{Item:"區域立體連通空橋貫通",Category:"居住環境",Id:"CON-23",DescriptionA:"希望市府能預先規劃，當部分社區建案尚未完成是否能有移動便橋先行銜接？",StatusA:"gray",StatusB:"期望",DescriptionB:`<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-23-01%20(1).png" alt="A7空橋" sizes="sm:100vw md:150vw lg:200vw" />\r
 <p>A7重劃區空橋規劃圖</p>`},{Item:"多功能滯洪池改善建議案",Category:"居住環境",Id:"CON-24",DescriptionA:`市2023年已編列350萬預算委託設計規劃，將A7站公滯1、公滯4、公滯9、公滯11，共計4座濕式轉為乾式滯洪池 ；\r
-2022/09/30 牛煦庭議員: 「公滯一」滯洪池濕式改乾式案會勘，經水務局評估可行性沒問題！<br>\r
-`,Due:"遙遙無期？",Budget:"2023 規劃預算被刪！",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
+<br>\r
+<p> \r
+牛煦庭議員2022/09/30 現場探勘紀錄:<br>\r
+「公滯01」滯洪池濕式改乾式案09/30日現勘，經水務局評估可行性沒問題！工程上會增設排水箱涵增加效率，並設草坪鋪面、共融遊具和運動場。可以給缺乏公園綠地的A7重劃區增加活動空間。 2023年進入正式的規劃設計，我要求水務局、公所、工務局遊戲場總顧問等單位屆時共同會商，並參酌其他縣市案例，讓規劃設計一步到位。順利的情況下，2024年可進入正式工程階段\r
+</p>\r
+\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-24-02.jpeg" alt="A7滯洪池預算" sizes="sm:100vw md:150vw lg:200vw" />\r
+`,Due:"遙遙無期？",Budget:"4,355 萬預算被刪！",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
 請參閱 <a href="https://www.facebook.com/groups/127251476046776/search/?q=%E5%85%AC%E6%BB%AF%E4%B8%80">FB A7新林口-社區網站</a>: 以往對A7重劃區 滯洪池活化的討論紀錄！\r
 </p>\r
 <p>\r
