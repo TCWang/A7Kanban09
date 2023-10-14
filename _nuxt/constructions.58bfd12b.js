@@ -465,8 +465,9 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <p >\r
 因應 A7 滯洪池活化案經費被刪議題：希望龜山四位議員共提提案 爭取市府 依原計畫執行！\r
 <ul>\r
-<li>陳雅倫議員10/14: 發起:<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0hhyOgS1cSqD5NdyxKu5aO8Y5NwkIMLFBw69qZB58Off8aw/viewform">還我公園綠地 連署網站</a></li>\r
-<li> 牛煦庭議員10/14: 已經緊急聯繫 爭取新財源, 將會於質詢時正式要求 按照原計畫明年(2024年)動工。\r
+<li>陳雅倫議員10/13: 發起:<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0hhyOgS1cSqD5NdyxKu5aO8Y5NwkIMLFBw69qZB58Off8aw/viewform">還我公園綠地 連署網站</a>. 10/13日當晚已經超過一千人參與連署！我們的心聲市府聽到了，雅倫也跟王副市長聯繫上，表達A7公園的迫切需求，副市長表示會優先使用增額統籌分配稅款來支應這筆預算，有很大的機會可以明年動工！\r
+</li>\r
+<li> 牛煦庭議員10/14: 牛議員反饋已經緊急聯繫 爭取新財源, 將會於質詢時正式要求 按照原計畫明年(2024年)動工。\r
 </li>\r
 </ul>\r
  </p>\r
