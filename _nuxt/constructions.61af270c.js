@@ -462,7 +462,14 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 `,Due:"遙遙無期？",Budget:"4,355 萬預算被刪！",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
 請參閱 <a href="https://www.facebook.com/groups/127251476046776/search/?q=%E5%85%AC%E6%BB%AF%E4%B8%80">FB A7新林口-社區網站</a>: 以往對A7重劃區 滯洪池活化的討論紀錄！\r
 </p>\r
-<p >陳雅倫議員發起:<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0hhyOgS1cSqD5NdyxKu5aO8Y5NwkIMLFBw69qZB58Off8aw/viewform">還我公園綠地 連署網站</a> </p>\r
+<p >\r
+因應 A7 滯洪池活化案經費被刪議題：希望龜山四位議員共提提案 爭取市府 依原計畫執行！\r
+<ul>\r
+<li>陳雅倫議員10/14: 發起:<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0hhyOgS1cSqD5NdyxKu5aO8Y5NwkIMLFBw69qZB58Off8aw/viewform">還我公園綠地 連署網站</a></li>\r
+<li> 牛煦庭議員10/14: 已經緊急聯繫 爭取新財源, 將會於質詢時正式要求 按照原計畫明年(2024年)動工。\r
+</li>\r
+</ul>\r
+ </p>\r
 <p>\r
 <a href="https://www.facebook.com/groups/a7.home.tw/permalink/6839610802744561/?mibextid=uyAsYr">FB 新A7重劃區準鄰居 2023/10/13</a>: 陳雅倫 議員稱 【A7滯洪池公園預算 遭刪除！】\r
 </p>\r
