@@ -406,7 +406,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 		廣18 &amp; 廣19 廣場用地,及地下停車場 - 2022/05/24 公開招標, 2022/06/23 開標\r
 	</li>\r
 </ul>\r
-`},{Item:"龜山樂善公墓遷移計畫",Category:"居住環境",Id:"CON-21",DescriptionA:`2022/08/24 林口工五工業區 - <a href="https://tcwang.github.io/A7Xinlinkou/file/XLK-236-%E5%85%A7%E6%94%BF%E9%83%A8%E5%9C%9F%E5%9C%B0%E5%BE%B5%E6%94%B6%E5%AF%A9%E8%AD%B0%E5%B0%8F%E7%B5%84%E7%AC%AC247%E6%AC%A1%E6%9C%83%E8%AD%B0%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E5%96%AE%E5%8F%8A%E8%AD%B0%E7%A8%8B.pdf">擴大方案土地徵收會議 </a> 請參考社區網頁: 2022/12/06 都市計畫中 2022/08/24 內政部土地增收會議, 公益性與必要性通過。 <br><br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-12-01.jpeg" alt="廣19停車位" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"龜山樂善公墓遷移計畫",Category:"居住環境",Id:"CON-21",DescriptionA:`2022/08/24 林口工五工業區 - <a href="https://tcwang.github.io/A7Xinlinkou/file/XLK-236-%E5%85%A7%E6%94%BF%E9%83%A8%E5%9C%9F%E5%9C%B0%E5%BE%B5%E6%94%B6%E5%AF%A9%E8%AD%B0%E5%B0%8F%E7%B5%84%E7%AC%AC247%E6%AC%A1%E6%9C%83%E8%AD%B0%E9%96%8B%E6%9C%83%E9%80%9A%E7%9F%A5%E5%96%AE%E5%8F%8A%E8%AD%B0%E7%A8%8B.pdf">擴大方案土地徵收會議 </a> 請參考社區網頁: 2022/12/06 都市計畫中 2022/08/24 內政部土地增收會議, 公益性與必要性通過。 <br><br>\r
 2023年市府編列2,330萬元接續辦理墳墓查估及拆遷，環境影響評估作業。本計畫可無償取得公共設施用地24.5公頃，並提供建築用地25.24公頃。`,StatusA:"red",StatusB:"期望",DescriptionB:`<h5 >龜山第三公墓/樂善公墓遷移計畫</h5>\r
 <p>相關報導:</p>\r
 <ul>\r
