@@ -73,7 +73,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <li>工務局將利用文青路、青山路週邊閒置的公有空間，在不影響行人的情況下分別增設車道。</li>\r
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
 <li>成功爭取到工務局專案預算約7,000萬，目標2023年底動工，2024年就能完工。</li>\r
-</ul>`},{Item:"文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"未定",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃</h5> \r
+</ul>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"未定",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
 <ul>\r
 <li>工程內容：起自文化一路至文學路，道路總長約424公尺，路寬為20公尺。</li>\r
 <li>工程總經費：約4億6000萬元。</li>\r
@@ -118,7 +118,14 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
    href="https://www.taiwanhot.net/news/988498/%E9%BE%9C%E5%B1%B1%E5%8D%97%E6%9E%97%E8%B7%AF%E6%8B%93%E5%AF%AC%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5+%E9%A0%90%E8%A8%88112%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E9%80%9A%E8%BB%8A?fbclid=IwAR0RpriOAPibVUlgKgQtfHU5_fSX29Bs-OQh5pXUZnOyAJsHag4kWPevv7Y">2022/03/18\r
    新聞</a>:\r
  已克服八卦窯磚窯廠文資保存問題，預計於2022年完成規劃設計；\r
- <br><br>`,Contribution:` <p>2021/10/05 陳雅倫議員質詢：\r
+ <br><br>`,Contribution:`<p> 陳雅倫及牛煦庭議員質詢: <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/612375144201071/?mibextid=oMANbw">文青路/青山路拓寬案vs文學路（變一） 2023/10/19</a>  \r
+希望市府不要忘記，變一道路變更設計期程，從上個會期5月份說要變更設計，到現在仍沒有看到方案。\r
+文青市民活動中心也沒編預算、滯洪池公園預算被高層刪除後又改口說要用超徵稅額支應。\r
+既然工務局能在今年7月規劃、今年10月就執行文青、青山拓寬案， #那早已編列好預算的變一到底在等什麼？\r
+既然滯洪池公園可以死灰復燃使用超徵稅額，那麼，#土地早已取得的文青市民活動中心是否也可以使用？\r
+A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不要忘了已編列好上億預算的變一道路、還有籌劃已久的市民活動中心！\r
+</P>\r
+<p>2021/10/05 陳雅倫議員質詢：\r
  A7重劃區文學路、樂善一路等瓶頸道路開通工程，聯外道路已於今年3月獲得內政部同意補助10.3億元的開發經費，希望市府能加速用地取得，早日開工，讓文青里民眾不再飽受塞車之苦。工務局長賴宇亭表示，目前桃園市政府工務局已完成地價查估，正與地主進行協議價購中，不過為了盡快解決文青里聯外交通打結的困境，工務局也已經同步辦理道路開闢的細部設計規畫，年底即可完成，一切只待用地取得，即可施工。而工程範圍內有文化局9月剛通過的歷史建築「龜山樟腦寮協和磚廠」，工務局長則表示設計時就採雙贏方案同步考量避開文化資產，開路不會因此發生延期狀況。\r
  </p>\r
  <p>文青里目前只有文青路作為唯一的聯外道路，但文青里建案及遷入人口數不斷成長，原本的車輛加上青山路匯集而來的車潮，加重該區交通負擔。我也建議從青山路就開始作分流，打通一條連接到振興路的引流道，讓青山路的車潮不用再進入文青里的商業區、住宅區，可以直通華亞科技園區，縮短民眾的上下班通勤時間。\r
@@ -128,7 +135,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-02.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
  樟腦寮磚窯廠遺址：將保留 （圖片來源：\r
  <a href="https://www.facebook.com/groups/1951117865015671">Facebook</a>）\r
- <br><br>`},{Item:"牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
+ <br><br>`},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
 <ul>\r
 <li>工程內容：起自文化一路至樂善一路，道路長度約170公尺（其中橋梁長度約96公尺），寬度20公尺。</li>\r
 <li>工程經費：約1億9,990萬元。</li>\r
@@ -156,7 +163,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
   href="https://www.taiwanhot.net/news/988498/%E9%BE%9C%E5%B1%B1%E5%8D%97%E6%9E%97%E8%B7%AF%E6%8B%93%E5%AF%AC%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5+%E9%A0%90%E8%A8%88112%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E9%80%9A%E8%BB%8A?fbclid=IwAR0RpriOAPibVUlgKgQtfHU5_fSX29Bs-OQh5pXUZnOyAJsHag4kWPevv7Y">2022/03/18\r
   新聞</a>:\r
 預計2022年動工\r
-<br><br>`},{Item:"文藝街 延伸計畫",Category:"交通建設",Id:"CON-15",DescriptionA:'2022/3月底動工,  2023年1月 <span style="color:green">已經 竣工</span>',Due:"2023/01",Budget:"2,498萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-15">變三案: 文藝街 延伸計畫</h5>\r
+<br><br>`},{Item:"變三:文藝街 延伸計畫",Category:"交通建設",Id:"CON-15",DescriptionA:'2022/3月底動工,  2023年1月 <span style="color:green">已經 竣工</span>',Due:"2023/01",Budget:"2,498萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-15">變三案: 文藝街 延伸計畫</h5>\r
  <p>已經於 2023/1月 完工, 聯合新聞網 2023/01/17：<a\r
    href="https://udn.com/news/amp/story/7324/6917649?fbclid=IwAR0SkvK1vrFO96alOFiFRzqWCtoBKFub33tGt9pn_h3QcD1ZROQJwreuPQs">龜山變三道路拓寬2023/01/17日通車</a>\r
  </p>\r
@@ -284,7 +291,12 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 主要為龜山區第三公墓使用，約 13,500 座墳墓，已於 108 年 3\r
 月公告禁葬，西側有部分為農業及森林使用土地，農業使用為零星分布，面積狹小，主要為果樹、旱作，西北側有部分建築使用土地，主要為住宅（共有 16 戶，實際居住約 13\r
 戶）及製造業之廠房分布；東北側現況有較多建築使用土地，主要為製造業之廠房，合計區內現有工廠約 18 家。</p>\r
-`,Contribution:`<p>\r
+`,Contribution:`<p> <a href="https://www.facebook.com/TYleehao">李宗豪 2023/10/17</a>  #工五工業區擴大案:\r
+目前最大地主樂善寺正在整合內部意見，局長表示於9月底有前往樂善寺關心，目前樂善寺正在請殯葬專業廠商盤點寺方需求，確認原規劃內容是否需要調整，我請都發局務必積極協助！\r
+工五擴大案實在有加快推進的必要，不但可以帶動產業升級，未來釋出更多用地，可以開闢公園、興建學校，增加聯外道路等等，連結捷運A7站區，縫合整個地區的發展。\r
+</p>\r
+\r
+<p>\r
  <a href="https://www.facebook.com/TYleehao">李宗豪議員</a> 2023/10/13 <br>\r
 有關工五擴大，我還是希望市府與樂善寺可以加速意見整合，因目前該案進度仍在延滯，阻礙地區發展，接下來都發局的工作報告我也會持續追蹤此案進度，也歡迎大家表達意見，如果有更多的人關注到這件事情，政策推動的強度也會更大，政策推行的方向也才會正確，市政府也才會更重視此問題。\r
 </p>`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
@@ -327,6 +339,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 </p>\r
 <p>多位議員出席建議市府考慮將派出所改納入善捷段社會住宅或移至他處，讓二六九號土地能新建更大規模的綜合社福大樓，配置公托中心、微型運動場、圖書館、停車空間等，提供更多服務。\r
 </p>`},{Item:"善捷段社會住宅",Category:"居住環境",Id:"CON-10",DescriptionA:'善捷段地號298/299 <a href="https://ohd.tycg.gov.tw/home.jsp?id=145&parentpath=0%2C96%2C143&mcustomize=onemessages_view.jsp&dataserno=202203160007&aplistdn=ou%3Ddata%2Cou%3Dsocialhousing1%2Cou%3Dhouse%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR1FdJO9Rolz3pGdB6Heo8RyoLG7LPCtH5MYl_1ettltbLXW_OnTPr5ms7I">社會住宅</a> 預計2024年完工, 2022/07/15 第六次流標',Due:"2024",StatusA:"gold",StatusB:"規劃",DescriptionB:`<h5 >善捷段社會住宅</h5>\r
+<p> <a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0,10401&mcustomize=news_view_small.jsp&dataserno=202209010003&aplistdn=ou=news,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y"> 微型運動中心 </a>: 為滿足社宅住戶的運動需求，將龜山區善捷段298、299地號社宅基地新建250坪的微型運動中心，微型運動中心會有體適能中心，設置跑步機、重訓器材等，還有TRX、韻律、飛輪等課程空間，將採收費制，但會提供公益時間給65歲以上長者及低收入戶免費使用。\r
+</p>\r
 <p>桃園電子報 2023/08/09 <a href="https://tyenews.com/2023/08/417803/">桃園住發處資訊</a>\r
 善捷段社宅位於機場捷運A7體育大學站周邊，規劃興建地上16層，地下2層，至少295戶住宅；\r
 社宅規劃各種功能的公共服務設施，善捷段有公托中心、身障社區日照服務、社區日間作業設施、家庭照顧者支持據點、幼兒園及微型運動場館；\r
@@ -527,7 +541,10 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 </p>\r
 `,Contribution:`<p>2021/10/04 牛煦庭議會質詢: 文青國中小招標進度，新工處回應因應第一次流標，府內已檢討完畢，2021/10月將再招標。教育局長也當場承諾112年8月的招生計畫不變。需議員們列入高風險並加強監督的項目。\r
 </p>`},{Item:"大岡高中",Category:"教育文化",Id:"CON-19",DescriptionA:"市府用容積轉移已取得2.88公頃，還差0.12公頃，目前有地主不願意賣，還要再協調。",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>大岡高中</h5>\r
-<p> <a. href="https://www.chinatimes.com/realtimenews/20230325003929-260405?chdtv">中時新聞網 2023/03/25</a>: 桃園大崗高中推動牛步化 用地擬從5公頃縮到3公頃<br> 龜山大坪頂地區人口激增，欠缺1所市立高中，在地方爭取下，「林口特定區都市計畫」的「文高三」催生出大崗高中，但面積4.68公頃、總計43筆土地，若以市價完整取得用地，經費高達60億元，前市府以容積移轉方式陸續持有3.1公頃、約66％，但仍有約1.5公頃尚未取得。</p>`,Contribution:`<p>牛煦庭 2022/07/27 <a href="https://www.youtube.com/watch?v=xD4FsMT4z6U">大崗高中用地進度</a> - A7就學爆量<br><br>\r
+<p> <a. href="https://www.chinatimes.com/realtimenews/20230325003929-260405?chdtv">中時新聞網 2023/03/25</a>: 桃園大崗高中推動牛步化 用地擬從5公頃縮到3公頃<br> 龜山大坪頂地區人口激增，欠缺1所市立高中，在地方爭取下，「林口特定區都市計畫」的「文高三」催生出大崗高中，但面積4.68公頃、總計43筆土地，若以市價完整取得用地，經費高達60億元，前市府以容積移轉方式陸續持有3.1公頃、約66％，但仍有約1.5公頃尚未取得。</p>`,Contribution:`<p> <a href="https://www.facebook.com/TYleehao">李宗豪 2023/10/17</a> #大崗高中加速用地取得及設校:\r
+宗豪在上個會期質詢，局長說要重新研擬新方案（縮減設校面積），今日質詢再追蹤，局長回覆本案已通過都委會小組審議，接下來可以用容移代金，開始進行用地取得！接下來會繼續緊盯教育局進度，盡快提出用地取得規劃，讓龜山大坪頂地區可以盡快誕生一所高中！\r
+</p>\r
+<p>牛煦庭 2022/07/27 <a href="https://www.youtube.com/watch?v=xD4FsMT4z6U">大崗高中用地進度</a> - A7就學爆量<br><br>\r
 \r
 2022/06/02 <a href="https://udn.com/news/story/7324/6357782">聯合新聞網</a>, 牛煦庭議員質詢\r
 鄭文燦市長回覆 爭取大崗高中設校為例，市府用容積轉移已取得2.8公頃，還差0.2公頃，目前有地主不願意賣，還要再協調。\r
