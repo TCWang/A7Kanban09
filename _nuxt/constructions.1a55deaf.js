@@ -61,19 +61,29 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <li> 工程內容：起點為龜山區振興路與文化一路路口，終點為青山路二段0K+450 轉彎處，長度約為658公尺，寬度為12.5公尺，採高架橋梁3車道方式銜接起訖點。</li>\r
 <li>工程總經費：預估6億元。</li>\r
 <li> 辦理情形：勞務招標已於 112年9月4日上網公告，預計 112年10月4日開標，決標後辦理設計作業。</li>\r
-</ul>`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
+</ul>`,Contribution:`<p>\r
+<a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a> 四位龜山區議員聯合質詢<br>\r
+文化一路打通至青山路二段工程：\r
+道路所需的土地已取得完成。上週已完成設計標案發包，預計一年完成設計、明年底發包、後年初動工。\r
+</p>`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
 `,Due:"未定",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
 <ul>\r
 <li>工程內容：青山路文青路口道路断面重新配置，分別於文青路南側、青山路東側進行道路拓寬。</li>\r
 <li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）</li>\r
 <li>辦理情形：112年9月20日辦理設計書圖審查，俟審查意見辦理修正後進行派工單準備，並預計於10月初邀集地方民代、里民辦理現地說明會，112年10月底進場。</li>\r
 </ul>\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
+<a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
+文青路拓寬工程：\r
+2023/10/18日已完成會勘，10/24 將舉行開工典禮，市長本人會出席，典禮結束後會有文南路(南林路)拓寬工程的竣工視察。\r
+</p>\r
+<p>FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
 <ul>\r
 <li>工務局將利用文青路、青山路週邊閒置的公有空間，在不影響行人的情況下分別增設車道。</li>\r
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
 <li>成功爭取到工務局專案預算約7,000萬，目標2023年底動工，2024年就能完工。</li>\r
-</ul>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"未定",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
+</ul>\r
+</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"未定",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
 <ul>\r
 <li>工程內容：起自文化一路至文學路，道路總長約424公尺，路寬為20公尺。</li>\r
 <li>工程總經費：約4億6000萬元。</li>\r
@@ -118,7 +128,11 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
    href="https://www.taiwanhot.net/news/988498/%E9%BE%9C%E5%B1%B1%E5%8D%97%E6%9E%97%E8%B7%AF%E6%8B%93%E5%AF%AC%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5+%E9%A0%90%E8%A8%88112%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E9%80%9A%E8%BB%8A?fbclid=IwAR0RpriOAPibVUlgKgQtfHU5_fSX29Bs-OQh5pXUZnOyAJsHag4kWPevv7Y">2022/03/18\r
    新聞</a>:\r
  已克服八卦窯磚窯廠文資保存問題，預計於2022年完成規劃設計；\r
- <br><br>`,Contribution:`<p> 陳雅倫及牛煦庭議員質詢: <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/612375144201071/?mibextid=oMANbw">文青路/青山路拓寬案vs文學路（變一） 2023/10/19</a>  \r
+ <br><br>`,Contribution:`<p> <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
+變一道路(文學路地下化打通至文化一路)：\r
+2023/10月已完成基本設計，接下來為細部設計。因地下化工程臨近機場捷運用地，需提額外審增加設計時程的不確定性。細部設計的整個時程估計約需8~10個月。預計2024/9完成設計，2024年底至2025年初動工.\r
+</p>\r
+<p> 陳雅倫及牛煦庭議員質詢: <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/612375144201071/?mibextid=oMANbw">文青路/青山路拓寬案vs文學路（變一） 2023/10/19</a>  \r
 希望市府不要忘記，變一道路變更設計期程，從上個會期5月份說要變更設計，到現在仍沒有看到方案。\r
 文青市民活動中心也沒編預算、滯洪池公園預算被高層刪除後又改口說要用超徵稅額支應。\r
 既然工務局能在今年7月規劃、今年10月就執行文青、青山拓寬案， #那早已編列好預算的變一到底在等什麼？\r
