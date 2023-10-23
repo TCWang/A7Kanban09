@@ -66,7 +66,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 文化一路打通至青山路二段工程：\r
 道路所需的土地已取得完成。上週已完成設計標案發包，預計一年完成設計、明年底發包、後年初動工。\r
 </p>`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
-`,Due:"未定",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
+`,Due:"2024",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
 <ul>\r
 <li>工程內容：青山路文青路口道路断面重新配置，分別於文青路南側、青山路東側進行道路拓寬。</li>\r
 <li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）</li>\r
@@ -83,7 +83,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
 <li>成功爭取到工務局專案預算約7,000萬，目標2023年底動工，2024年就能完工。</li>\r
 </ul>\r
-</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"未定",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
+</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"2026/10/31",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
 <ul>\r
 <li>工程內容：起自文化一路至文學路，道路總長約424公尺，路寬為20公尺。</li>\r
 <li>工程總經費：約4億6000萬元。</li>\r
