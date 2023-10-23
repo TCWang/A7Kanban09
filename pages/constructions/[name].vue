@@ -6,7 +6,7 @@
         <img :src="`@/assets/fig/${house.Figure}`" alt="" />
       </div> -->
       <div class="flex flex-col md:flex-row">
-        <div class="w-full md:w-1/3 mx-1">
+        <div class="w-full md:w-1/2 mx-1">
           <table class="table-auto w-full">
             <tr>
               <td>項目</td>
@@ -39,7 +39,7 @@
           </div>
         </div>
 
-        <div class="w-full md:w-2/3 mx-1">
+        <div class="w-full md:w-1/2 mx-1">
           <h2>建設詳情</h2>
           <div v-html="construction.DescriptionB"></div>
         </div>
