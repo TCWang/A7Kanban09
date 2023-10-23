@@ -75,7 +75,8 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
 文青路拓寬工程：\r
-2023/10/18日已完成會勘，10/24 將舉行開工典禮，市長本人會出席，典禮結束後會有文南路(南林路)拓寬工程的竣工視察。\r
+2023/10/18日已完成會勘，10/24 10:30 將舉行開工典禮，市長本人會出席，典禮結束後會有文南路(南林路)拓寬工程的竣工視察。\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-02.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
 </p>\r
 <p>FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
 <ul>\r
