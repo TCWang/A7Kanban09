@@ -208,7 +208,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
  於 2022/3月底動工。 上面3條道路總經費超過10億元，已獲中央同意補助，完工之後可望打通A7站周邊道路任督二脈，讓交通更順暢。\r
  </p>\r
 \r
-`},{Item:"南林路拓寬工程",Category:"交通建設",Id:"CON-16",DescriptionA:"2022/03/18動工，改善路段全長426公尺，工期計270日曆天，預定於2023農曆年前完工通車。",Due:"2023/09",Budget:"9,490萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-16">林口工十二聯外道路 - 南林路拓寬工程</h5>\r
+`},{Item:"南林路拓寬工程",Category:"交通建設",Id:"CON-16",DescriptionA:"2022/03/18動工，改善路段全長426公尺，工期計270日曆天，預定於2023農曆年前完工通車。",Due:"2023/09",Budget:"1.254億",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-16">林口工十二聯外道路 - 南林路拓寬工程</h5>\r
 <ul>\r
 <li>工程內容：起自龜山區南林路至桃園市與新北市之交界處，接往林口特定區(新北市轄)工十二工業區，道路長度約為426公尺，寬度12公尺。</li>\r
 <li>工程經費：約4510萬元。</li>\r
@@ -225,7 +225,14 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
    href="https://tcwang.github.io/A7Xinlinkou/A7XLK-12-ParkTrail.html#Menu-B14">泰山崎頭步道</a>。\r
  目前的道路寬度是行人與車輛共用快車道，對行人/自行車通過會有很大安全威脅！\r
  </p>\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-16-01.jpeg"  alt="A7重劃區變三工程"  sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"國1林口交流道改善工程",Category:"交通建設",Id:"CON-17",DescriptionA:"計畫期程 5年, 歷經9次流標， 2022/12/22 終於以29億5,880萬元決標，預計2027年完工。",Due:"2027",Budget:"29.6億",StatusA:"gold",StatusB:"施工",DescriptionB:`\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-16-01.jpeg"  alt="A7重劃區變三工程"  sizes="sm:100vw md:150vw lg:200vw" />`,Contribution:`<p>\r
+<a href="https://tyenews.com/2023/10/441936/?fbclid=IwAR0Q_Fn_QEKc6W3BfyWY9Oc0HxVY9zWN1eLd8YzzCK3sDONa-M0RerMHrHc">桃園電子報 2023/101/24</a>: 桃園市長張善政今（10/24）日上午前往龜山區，出席「龜山區南林路道路拓寬工程」竣工視察。\r
+南林路道路拓寬工程順利完工，有效改善道路品質，雙線道不變，但車道變寬，讓行車更順暢、交通更安全，提升桃園龜山區、林口交流道與工十二工業區間往來之便利性。該案總經費1億254萬元，感謝內政部國土管理署、南亞塑膠工業股份有限公司共同負擔經費，促成中央、地方與民間企業攜手合作改善地區交通的良好示範。\r
+\r
+</p>\r
+<p>\r
+「龜山區南林路道路拓寬工程」起訖點自桃園市龜山區南林路與新北市交界處，接往林口特定區工十二工業區，該案於去（111）年3月開工、今年9月完工，將原不足8公尺寬之既有道路拓寬為12公尺，拓寬長度約426公尺，工程內容包含道路鋪設、設置滯洪池、妥善排水系統及擋土牆、新設集水井6座、照明路燈17盞、交通標誌2座及喬木移植10株、增設鋼板護欄等等，提供沿線民眾安全可靠的道路。\r
+</p>`},{Item:"國1林口交流道改善工程",Category:"交通建設",Id:"CON-17",DescriptionA:"計畫期程 5年, 歷經9次流標， 2022/12/22 終於以29億5,880萬元決標，預計2027年完工。",Due:"2027",Budget:"29.6億",StatusA:"gold",StatusB:"施工",DescriptionB:`\r
 \r
  <h5>國道1號 交流道改善工程</h5>\r
  相關資訊\r
