@@ -65,8 +65,13 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a> 四位龜山區議員聯合質詢<br>\r
 文化一路打通至青山路二段工程：\r
 道路所需的土地已取得完成。上週已完成設計標案發包，預計一年完成設計、明年底發包、後年初動工。\r
-</p>`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
-`,Due:"2024",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
+\r
+</p>\r
+<p>\r
+2023/10/24日 張市長在龜山文青路拓寬開工典禮上重申: 本案市府工程團隊積極辦理設計規劃中。\r
+A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴重雍塞，工務局曾總工程司清祥簡報時指出，經分析交通行為發現，文青路約有1/3交通量係來自振興路轉青山路往新莊之通勤車流，倘新闢道路銜接振興路與青山路，將可有效紓解文青路車流；惟因當地地形複雜，市府刻正進行道路工程設計，將以高架環形橋方式克服地形障礙，新闢青山路與振興路聯絡道路。 \r
+</p`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
+`,Due:"2024/02",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
 <ul>\r
 <li>工程內容：青山路文青路口道路断面重新配置，分別於文青路南側、青山路東側進行道路拓寬。</li>\r
 <li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）</li>\r
@@ -76,7 +81,12 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
 文青路拓寬工程：\r
 2023/10/18日已完成會勘，10/24 10:30 將舉行開工典禮，市長本人會出席，典禮結束後會有文南路(南林路)拓寬工程的竣工視察。\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-02.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
+</p>\r
+</p>\r
+\r
+  \r
+ 為儘快紓解文青路塞車問題，工務局也與交通局合作，利用公有土地拓寬文青路以及青山路口，增加車道並搭配號誌連鎖設計，快速紓解文青路大量車流。本工程總經費約2,000萬元，工期約3個月，將於明年春節前完工，施工過程均利用路旁公有地，不影響既有車流動線，請用路人安心。 \r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" />\r
 </p>\r
 <p>FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求\r
 <ul>\r
@@ -133,6 +143,11 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 變一道路(文學路地下化打通至文化一路)：\r
 2023/10月已完成基本設計，接下來為細部設計。因地下化工程臨近機場捷運用地，需提額外審增加設計時程的不確定性。細部設計的整個時程估計約需8~10個月。預計2024/9完成設計，2024年底至2025年初動工.\r
 </p>\r
+<p>\r
+2023/10/24 張市長稱: 原規劃T字高架道路為保存歷史建築龜山樟腦寮磚窯廠，改成地下車道穿越方式辦理，目前設計中，預定114年動工，並由文化局同步進行磚窯廠修復、煙囪補強，以及未來歷史建築紀念園區規劃工作。 <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-03.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
+ 樟腦寮磚窯廠遺址將保留 示意圖 \r
+</p>\r
 <p> 陳雅倫及牛煦庭議員質詢: <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/612375144201071/?mibextid=oMANbw">文青路/青山路拓寬案vs文學路（變一） 2023/10/19</a>  \r
 希望市府不要忘記，變一道路變更設計期程，從上個會期5月份說要變更設計，到現在仍沒有看到方案。\r
 文青市民活動中心也沒編預算、滯洪池公園預算被高層刪除後又改口說要用超徵稅額支應。\r
@@ -147,10 +162,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 \r
  </p>\r
 \r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-02.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
- 樟腦寮磚窯廠遺址：將保留 （圖片來源：\r
- <a href="https://www.facebook.com/groups/1951117865015671">Facebook</a>）\r
- <br><br>`},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
+`},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
 <ul>\r
 <li>工程內容：起自文化一路至樂善一路，道路長度約170公尺（其中橋梁長度約96公尺），寬度20公尺。</li>\r
 <li>工程經費：約1億9,990萬元。</li>\r
@@ -162,7 +174,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 </p>\r
 <p>「變二道路」跨越十八份坑溪，道路兩端高低差達25公尺，橋墩施作不易，因此工程單位將橋樑規劃為「π型橋梁」，並於橋下設置2座小型滯洪池，以調節邊坡及當地排水功能。未來完工後，也將進行植栽、石溝整治等工程，以提高此地區的防災韌性，而景觀橋梁也將成為A7重劃區的都市亮點。\r
 </p>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-14-01.jpeg" alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-14-02.jpeg" alt="A7重劃區交通變更"  sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 資料來源工務局\r
 \r
 <p>2022/09/01 <a href="https://www.facebook.com/groups/1951117865015671/permalink/5221445557982869/">臉書留言摘錄</a>\r
