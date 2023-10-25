@@ -61,7 +61,10 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 <li> 工程內容：起點為龜山區振興路與文化一路路口，終點為青山路二段0K+450 轉彎處，長度約為658公尺，寬度為12.5公尺，採高架橋梁3車道方式銜接起訖點。</li>\r
 <li>工程總經費：預估6億元。</li>\r
 <li> 辦理情形：勞務招標已於 112年9月4日上網公告，預計 112年10月4日開標，決標後辦理設計作業。</li>\r
-</ul>`,Contribution:`<p>\r
+</ul>\r
+\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-02.png" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-04.png" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a> 四位龜山區議員聯合質詢<br>\r
 文化一路打通至青山路二段工程：\r
 道路所需的土地已取得完成。上週已完成設計標案發包，預計一年完成設計、明年底發包、後年初動工。\r
@@ -94,7 +97,13 @@ A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
 <li>成功爭取到工務局專案預算約7,000萬，目標2023年底動工，2024年就能完工。</li>\r
 </ul>\r
-</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"2026/10/31",Budget:"4.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
+</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"2026/10/31",Budget:"8.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
+2023/10/24 文青路拓寬開工典禮時,  工務局曾總工程司清祥簡報 說明\r
+<ul>\r
+<li>施工方式: 地下穿越式T字路銜接文化一路，樂善路及樂學路, 並結合磚窯廠紀念公園  </li>\r
+<li>工程經費: 總經費 8.6億 包含地3億元及工程費5.6億元</li>\r
+</ul>\r
+原規劃\r
 <ul>\r
 <li>工程內容：起自文化一路至文學路，道路總長約424公尺，路寬為20公尺。</li>\r
 <li>工程總經費：約4億6000萬元。</li>\r
@@ -163,7 +172,6 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
  </p>\r
 \r
 `},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
-<ul>\r
 <li>工程內容：起自文化一路至樂善一路，道路長度約170公尺（其中橋梁長度約96公尺），寬度20公尺。</li>\r
 <li>工程經費：約1億9,990萬元。</li>\r
 <li>辦理情形：111年12月20日開工，預計114年1月完工。</li>\r
