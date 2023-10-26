@@ -56,15 +56,18 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 南亞科技新廠完工模擬圖\r
 +I10`},{Item:"中華郵政工商服務中心",Category:"工商發展",Id:"CON-20",DescriptionA:`工商服務中心面臨40米文桃路，預計引入大型賣場、旅宿、商辦、會議展覽與訓練等，日前已招商，將採代租模式 <br>\r
 在2018/9 - 2021/2 期間辦理3次公告招標，全部流標。相關業者對市場現況持保守觀望態度，商機尚未成熟，暫無進駐意願。 目前狀態 <span style="color:red"> 緩建</span>。預計2023重啟評估, 2030營運`,Due:"2030",StatusA:"red",StatusB:"規劃",DescriptionB:`<p>園區將採前店後廠方式開發，工商服務中心面臨40米文桃路，預計引入大型賣場、旅宿、商辦、會議展覽與訓練等，日前已招商，將採代租模式，依廠商需求興建，如招商順利， <del>預計2022年完工</del>。\r
-</p>`},{Item:"文化一路至青山路道路新關工程",Category:"交通建設",Id:"CON-38",DescriptionA:'<a href="https://pcc.mlwmlw.org/tender/%E6%A1%83%E5%9C%92%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E5%8B%99%E5%B1%80/1120728-2">桃園市開放標案</a>:  桃園市龜山區文化一路至青山路道路新闢工程委託技術服務,  招標金額 4,218萬 招標日期 2023/09/04',Due:"未定",Budget:"6億",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區文化一路至青山路道路新關工程：\r
+</p>`},{Item:"文化一路至青山路道路新關工程",Category:"交通建設",Id:"CON-38",DescriptionA:'<a href="https://pcc.mlwmlw.org/tender/%E6%A1%83%E5%9C%92%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E5%8B%99%E5%B1%80/1120728-2">桃園市開放標案</a>:  桃園市龜山區文化一路至青山路道路新闢工程委託技術服務,  招標金額 4,218萬 招標日期 2023/09/04',Due:"未定",Budget:"6億",StatusA:"gold",StatusB:"規劃",DescriptionB:`龜山區文化一路至青山路道路新關工程：\r
 <ul>\r
 <li> 工程內容：起點為龜山區振興路與文化一路路口，終點為青山路二段0K+450 轉彎處，長度約為658公尺，寬度為12.5公尺，採高架橋梁3車道方式銜接起訖點。</li>\r
-<li>工程總經費：預估6億元。</li>\r
+<li>工程總經費：預估 直接工程費 5.7億元。 工期: 21個月</li>\r
 <li> 辦理情形：勞務招標已於 112年9月4日上網公告，預計 112年10月4日開標，決標後辦理設計作業。</li>\r
+<li>全長 555公尺, 高架段 310公尺, 路提路段 245公尺 最大縱坡 - 5.7%</li>\r
+<li>最小半徑 50公尺, 速限 30KPH</li>\r
 </ul>\r
-\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-02.png" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-04.png" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-11.jpg" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-13.jpg" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-12.jpg" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-38-14.jpg" alt="工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a> 四位龜山區議員聯合質詢<br>\r
 文化一路打通至青山路二段工程：\r
 道路所需的土地已取得完成。上週已完成設計標案發包，預計一年完成設計、明年底發包、後年初動工。\r
@@ -74,13 +77,19 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 2023/10/24日 張市長在龜山文青路拓寬開工典禮上重申: 本案市府工程團隊積極辦理設計規劃中。\r
 A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴重雍塞，工務局曾總工程司清祥簡報時指出，經分析交通行為發現，文青路約有1/3交通量係來自振興路轉青山路往新莊之通勤車流，倘新闢道路銜接振興路與青山路，將可有效紓解文青路車流；惟因當地地形複雜，市府刻正進行道路工程設計，將以高架環形橋方式克服地形障礙，新闢青山路與振興路聯絡道路。 \r
 </p`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
-`,Due:"2024/02",Budget:"1,500萬",StatusA:"red",StatusB:"規劃",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
+`,Due:"2024/02",Budget:"7,000萬",StatusA:"red",StatusB:"施工",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
 <ul>\r
 <li>工程內容：青山路文青路口道路断面重新配置，分別於文青路南側、青山路東側進行道路拓寬。</li>\r
-<li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）</li>\r
+<li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）2023/10/25 修訂為7,000 萬</li>\r
 <li>辦理情形：112年9月20日辦理設計書圖審查，俟審查意見辦理修正後進行派工單準備，並預計於10月初邀集地方民代、里民辦理現地說明會，112年10月底進場。</li>\r
 </ul>\r
- <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-01.jpeg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-12.jpg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-13.jpg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-14.jpg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-15.jpg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-39-16.jpg" alt="青山路、文青路口拓寬工程"  sizes="sm:100vw md:150vw lg:200vw" /> <br>`,Contribution:`<p>\r
 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
 文青路拓寬工程：\r
 2023/10/18日已完成會勘，10/24 10:30 將舉行開工典禮，市長本人會出席，典禮結束後會有文南路(南林路)拓寬工程的竣工視察。\r
@@ -97,7 +106,7 @@ A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴
 <li>整體號誌也將連動調整，增加疏運車流的效率。</li>\r
 <li>成功爭取到工務局專案預算約7,000萬，目標2023年底動工，2024年就能完工。</li>\r
 </ul>\r
-</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"2026/10/31",Budget:"8.6億",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
+</p>`},{Item:"變一:文學路,樂善一路延伸計畫",Category:"交通建設",Id:"CON-13",DescriptionA:'變一工程預計<a href="https://reiso.tycg.gov.tw/governance-progress/12"> 2026/10/31日</a> 完成 , 原預計2022年底開始招標, 已延後。 <del>期望2023年3月招標, 6月動工</del>。',Due:"2026/10/31",Budget:"8.6億",StatusA:"gold",StatusB:"規劃",DescriptionB:`<h5>A7 主要道路變更規劃 - 變一案</h5> \r
 2023/10/24 文青路拓寬開工典禮時,  工務局曾總工程司清祥簡報 說明\r
 <ul>\r
 <li>施工方式: 地下穿越式T字路銜接文化一路，樂善路及樂學路, 並結合磚窯廠紀念公園  </li>\r
@@ -156,6 +165,9 @@ A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴
 2023/10/24 <a href="https://udn.com/news/story/7323/7526316">聯合新聞網</a> 原規劃T字高架道路為保存歷史建築龜山樟腦寮磚窯廠，改成地下車道穿越方式辦理，目前設計中，預定114年動工，並由文化局同步進行磚窯廠修復、煙囪補強，以及未來歷史建築紀念園區規劃工作。 <br>\r
  <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-03.jpeg" class="img-fluid float-right m-1" style="width:600px"><br>\r
  樟腦寮磚窯廠遺址將保留 示意圖 \r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-11.jpg" class="img-fluid float-right m-1" style="width:600px"><br>\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-13-12.jpg" class="img-fluid float-right m-1" style="width:600px"><br>\r
+\r
 </p>\r
 <p> 陳雅倫及牛煦庭議員質詢: <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/612375144201071/?mibextid=oMANbw">文青路/青山路拓寬案vs文學路（變一） 2023/10/19</a>  \r
 希望市府不要忘記，變一道路變更設計期程，從上個會期5月份說要變更設計，到現在仍沒有看到方案。\r
@@ -171,7 +183,8 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 \r
  </p>\r
 \r
-`},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"1.99億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
+`},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"2.76億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
+<ul>\r
 <li>工程內容：起自文化一路至樂善一路，道路長度約170公尺（其中橋梁長度約96公尺），寬度20公尺。</li>\r
 <li>工程經費：約1億9,990萬元。</li>\r
 <li>辦理情形：111年12月20日開工，預計114年1月完工。</li>\r
@@ -198,7 +211,14 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
   href="https://www.taiwanhot.net/news/988498/%E9%BE%9C%E5%B1%B1%E5%8D%97%E6%9E%97%E8%B7%AF%E6%8B%93%E5%AF%AC%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5+%E9%A0%90%E8%A8%88112%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E9%80%9A%E8%BB%8A?fbclid=IwAR0RpriOAPibVUlgKgQtfHU5_fSX29Bs-OQh5pXUZnOyAJsHag4kWPevv7Y">2022/03/18\r
   新聞</a>:\r
 預計2022年動工\r
-<br><br>`},{Item:"變三:文藝街 延伸計畫",Category:"交通建設",Id:"CON-15",DescriptionA:'2022/3月底動工,  2023年1月 <span style="color:green">已經 竣工</span>',Due:"2023/01",Budget:"2,498萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-15">變三案: 文藝街 延伸計畫</h5>\r
+<br><br>`,Contribution:`張市長 修訂資料 2023/10/25\r
+<ul>\r
+<li>經費: 總經費 2.76億 (地 0.6億 + 工2.16億)</li>\r
+<li>雙向4車道: 快車道 3m + 混合車道 4m</li>\r
+<li>兩側行人道2.5m, 雙欄杆配置</li>\r
+</ul>\r
+\r
+ <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-14-11.jpg" class="img-fluid float-right m-1" style="width:600px"><br>`},{Item:"變三:文藝街 延伸計畫",Category:"交通建設",Id:"CON-15",DescriptionA:'2022/3月底動工,  2023年1月 <span style="color:green">已經 竣工</span>',Due:"2023/01",Budget:"2,498萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5 id="CON-15">變三案: 文藝街 延伸計畫</h5>\r
  <p>已經於 2023/1月 完工, 聯合新聞網 2023/01/17：<a\r
    href="https://udn.com/news/amp/story/7324/6917649?fbclid=IwAR0SkvK1vrFO96alOFiFRzqWCtoBKFub33tGt9pn_h3QcD1ZROQJwreuPQs">龜山變三道路拓寬2023/01/17日通車</a>\r
  </p>\r
@@ -341,7 +361,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <p>\r
  <a href="https://www.facebook.com/TYleehao">李宗豪議員</a> 2023/10/13 <br>\r
 有關工五擴大，我還是希望市府與樂善寺可以加速意見整合，因目前該案進度仍在延滯，阻礙地區發展，接下來都發局的工作報告我也會持續追蹤此案進度，也歡迎大家表達意見，如果有更多的人關注到這件事情，政策推動的強度也會更大，政策推行的方向也才會正確，市政府也才會更重視此問題。\r
-</p>`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"施工",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
+</p>`},{Item:"增環形橋東向4線快速道路",Category:"交通建設",Id:"CON-26",DescriptionA:"應該參考林口105市道作業作業模式，能預作規劃避免A7重蹈內湖交通瓶頸。",StatusA:"gray",StatusB:"期望"},{Item:"增加A7及A8區域公車路線",Category:"交通建設",Id:"CON-27",DescriptionA:"基北北桃都會通 TPASS交通月票上路後, 市府新規劃軌道接駁公車 - 龜山區大坪頂A7、A8循環路線。",StatusA:"gray",StatusB:"期望",DescriptionB:"<p>陳雅倫議員爭取605/605A公車，2022/8/1-10/31試營運。牛煦庭議員爭取 158,159 及 A8長庚醫院站循環專車。606  A8站循環專車2022/9月起試營運。</p>"},{Item:"長慶一街打通銜接文德路",Category:"交通建設",Id:"CON-36",DescriptionA:"在樂田田社區前打通長慶一街通往文德路的銜接。讓長庚醫護社區往長庚校區車輛能直接進入長慶一街 減少長慶三街車流。",StatusA:"gray",StatusB:"期望"},{Item:"新莊區壽山路丹鳳橋瓶頸路口改善",Category:"交通建設",Id:"CON-37",DescriptionA:"此次工程包含壽山路丹鳳橋路口增設車道、一公里三百六十公尺處至一公里四百八十公尺處（1K+360至1K+480）路段改善，工程費約四千萬元，用地取得費得參考土地查諮價格與地上物拆遷補償費等結果。",Budget:"4,000萬",StatusA:"gray",StatusB:"完成",DescriptionB:` <h5>新莊區壽山路丹鳳橋瓶頸路口改善 </h5>\r
  <ol>\r
    <li>計畫目的:新北市新莊區 #壽山路 為承接新北市及桃園市上下班車流，交通量龐大，為改善壽山路丹鳳橋路口尖峰時段交通繁忙，常發生壅塞回堵至相鄰之新北大道路口，及1K+360至1K+480路段\r
      轉彎處視距不佳之問題，透過本案於工址1新莊區壽山路丹鳳橋路口處拓寬既有道路，北向舒緩直行壽山路車流、南向分流壽山 路南下直行車流，以改善路口段服務水準不足之問題，另於工址\r
@@ -364,7 +384,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 	<li>施工期間: 2022/03/09 - 2022/08/08, 實際竣工 2022/09/24 </li>\r
 	<li>臉書追蹤: <a href="https://www.facebook.com/groups/1951117865015671/permalink/5252846688176089/">A7重劃區大小事2022/09/13</a> </li>\r
 </ul>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-32-01.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>`},{Item:"文青活動中心",Category:"居住環境",Id:"CON-09",DescriptionA:"包含文青里活動中心及警察派出所, 2022/05/25 完成招標。",StatusA:"red",StatusB:"施工",DescriptionB:`<h5 >文青活動中心</h5>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-32-01.jpeg" alt="壽山路拓寬5"  sizes="sm:100vw md:150vw lg:200vw" /><br>`},{Item:"文青活動中心",Category:"居住環境",Id:"CON-09",DescriptionA:"包含文青里活動中心及警察派出所, 2022/05/25 完成招標。",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5 >文青活動中心</h5>\r
 <p>將作為 合宜住宅區里民活動中心 / 派出所等規劃, <a\r
 	href="http://web.pcc.gov.tw/tps/tpam/main/tps/tpam/tpam_tender_detail.do?searchMode=common&scope=F&primaryKey=71987279&area=history">招標公告</a>\r
 <br>\r
@@ -403,7 +423,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 社會住宅不單純只是住宅，它還包含相關社會福利設施如 老人日照中心，公辦私營幼兒園 及健身中心。對於家中有老人跟小孩的家庭有很大的幫助。 <br><br>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-02.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" /><br>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-10-03.jpeg" alt="善捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />\r
-<br> 社會住宅 詳圖 </p>`},{Item:"龜山國民運動中心",Category:"居住環境",Id:"CON-11",DescriptionA:'依據 <a href="https://reiso.tycg.gov.tw/governance-outcome/12">施政成果透明資訊網</a> 預計 2025年6月完工。都審中 預計2023年3月招標。 也就是 完工日需要依據實際動工日往後延。',Due:"2025/06/01",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>龜山國民運動中心</h5>\r
+<br> 社會住宅 詳圖 </p>`},{Item:"龜山國民運動中心",Category:"居住環境",Id:"CON-11",DescriptionA:'依據 <a href="https://reiso.tycg.gov.tw/governance-outcome/12">施政成果透明資訊網</a> 預計 2025年6月完工。都審中 預計2023年3月招標。 也就是 完工日需要依據實際動工日往後延。',Due:"2025/06/01",Budget:"6億＋",StatusA:"red",StatusB:"期望",DescriptionB:`<h5>龜山國民運動中心</h5>\r
 <p>依據 Facebook 2023/01/06 <a\r
 	href="https://www.facebook.com/groups/1951117865015671/permalink/5588686557925432/">桃園市政府工務局\r
 	公共工程招標公告</a>:\r
@@ -448,7 +468,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 	href="https://www.chinatimes.com/newspapers/20211002000448-260107?chdtv&fbclid=IwAR0uxyKok4LkVo-ovHoaSZ043lt8MypGwAn22J7JBZohgTPE5TpAHLsB6nA">桃市府蓋運動場\r
 	執行率未過半</a>，\r
 龜山國民運動中心部分，規畫設計已有雛型，預算到位便能執行，內部場館配置會依經費多寡滾動式調整。 所以需要議員們持續加強監督力道。\r
-</p>`},{Item:"A7廣場開發 廣18 廣19",Category:"居住環境",Id:"CON-12",DescriptionA:'停18 立體停車場原預計2022/11/15完工，2022/8/12日第三次開標。 A19 廣場開發案<a href="https://www.facebook.com/groups/1951117865015671/permalink/5157536007707158/"> 牛議員辦公室釐清</a> 2022/6/23, 7/15 兩次招標都無廠商投標。 2023/3/10日第五次招標, 3/30日開標。',StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>廣18/19 廣場用地開發</h5>\r
+</p>`},{Item:"A7廣場開發 廣18 廣19",Category:"居住環境",Id:"CON-12",DescriptionA:'停18 立體停車場原預計2022/11/15完工，2022/8/12日第三次開標。 A19 廣場開發案<a href="https://www.facebook.com/groups/1951117865015671/permalink/5157536007707158/"> 牛議員辦公室釐清</a> 2022/6/23, 7/15 兩次招標都無廠商投標。 2023/3/10日第五次招標, 3/30日開標。',StatusA:"red",StatusB:"施工",DescriptionB:`<h5>廣18/19 廣場用地開發</h5>\r
 <p>依據<a href="https://www.tcd.gov.tw/uploadfile/tcd_plan/201018101143117.pdf">桃園縣擬定都市計畫審核摘要表</a>,\r
 考量大眾運輸導向發展 Transit-Oriented Development, TOD 規劃構想, 形塑大眾運輸節點周圍以行人導向規劃廣場用地 2 處, 計畫面積\r
 1.36 公頃。\r
@@ -523,7 +543,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 </p>\r
 \r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-24-02.jpeg" alt="A7滯洪池預算" sizes="sm:100vw md:150vw lg:200vw" />\r
-`,Due:"遙遙無期？",Budget:"4,355 萬預算被刪！",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
+`,Budget:"4,355 萬",StatusA:"red",StatusB:"期望",DescriptionB:`<p>\r
 請參閱 <a href="https://www.facebook.com/groups/127251476046776/search/?q=%E5%85%AC%E6%BB%AF%E4%B8%80">FB A7新林口-社區網站</a>: 以往對A7重劃區 滯洪池活化的討論紀錄！\r
 </p>\r
 <p >\r
@@ -590,7 +610,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <p>早期教育局曾研議在體育大學附設實驗高中的可行性，教育局長林正峰2020/08/26強調，坪頂地區增設高中問題談了二十幾年，市府指派的坪頂高中設校籌備處主任（校長）未通過校長遴聘，派任迄今也未認真推動設校，坐領乾薪還有餘力與其前任學校同事訴訟打官司，<span class="text-danger">對設校不抱太多期待</span>。鑑於這幾年更因該地區人口成長快速，為確保並解決該地區學子就讀高中問題，建議市府優先推動大崗國中改制為完全中學。\r
 </p>\r
 `,Contribution:`<p>2021/10/04 牛煦庭議會質詢: 文青國中小招標進度，新工處回應因應第一次流標，府內已檢討完畢，2021/10月將再招標。教育局長也當場承諾112年8月的招生計畫不變。需議員們列入高風險並加強監督的項目。\r
-</p>`},{Item:"大岡高中",Category:"教育文化",Id:"CON-19",DescriptionA:"市府用容積轉移已取得2.88公頃，還差0.12公頃，目前有地主不願意賣，還要再協調。",StatusA:"red",StatusB:"規劃",DescriptionB:`<h5>大岡高中</h5>\r
+</p>`},{Item:"大岡高中",Category:"教育文化",Id:"CON-19",DescriptionA:"市府用容積轉移已取得2.88公頃，還差0.12公頃，目前有地主不願意賣，還要再協調。",StatusA:"red",StatusB:"期望",DescriptionB:`<h5>大岡高中</h5>\r
 <p> <a. href="https://www.chinatimes.com/realtimenews/20230325003929-260405?chdtv">中時新聞網 2023/03/25</a>: 桃園大崗高中推動牛步化 用地擬從5公頃縮到3公頃<br> 龜山大坪頂地區人口激增，欠缺1所市立高中，在地方爭取下，「林口特定區都市計畫」的「文高三」催生出大崗高中，但面積4.68公頃、總計43筆土地，若以市價完整取得用地，經費高達60億元，前市府以容積移轉方式陸續持有3.1公頃、約66％，但仍有約1.5公頃尚未取得。</p>`,Contribution:`<p> <a href="https://www.facebook.com/TYleehao">李宗豪 2023/10/17</a> #大崗高中加速用地取得及設校:\r
 宗豪在上個會期質詢，局長說要重新研擬新方案（縮減設校面積），今日質詢再追蹤，局長回覆本案已通過都委會小組審議，接下來可以用容移代金，開始進行用地取得！接下來會繼續緊盯教育局進度，盡快提出用地取得規劃，讓龜山大坪頂地區可以盡快誕生一所高中！\r
 </p>\r
