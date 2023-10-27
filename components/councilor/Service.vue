@@ -33,8 +33,11 @@ import services from "@/data/services.json";
 
 // const servicesnamed = services.find((r) => r.Category === name);
 
+const route = useRoute();
 const servicesOrganized = {
-  newSorted: [...services],
+  newSorted: [...services]
+    .filter((service) => service.Category === route.params.name)
+    .sort((a, b) => a.Date - b.Date),
 };
 </script>
 

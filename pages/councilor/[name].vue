@@ -27,6 +27,7 @@
         </li>
       </ul>
       <CouncilorService :name="name" />
+      <CouncilorBack />
     </div>
   </NuxtLayout>
 </template>
