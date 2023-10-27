@@ -1,4 +1,4 @@
-const t=[{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
+import{_ as r}from"./nuxt-link.2020976b.js";import{_ as e,o as a,c as i,b as o,w as n,a as s}from"./entry.31eeb26e.js";const u=[{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
 韻璇在這次會期質詢交通局必須重視此問題，今天邀請#樂善里黃里長、交通局、警察局、區公所共同會勘，決議於樂善里文學路及樂善里文青路二側劃制機車、汽車停車約各80格，以便民眾停放改善停車問題‼️\r
 👍未來韻璇會再努力爭取更多相關措施💪🏻希望讓通勤族可以更方便！無須再為停車問題而煩惱囉\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-040.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"10/26/23",Link:"https://www.facebook.com/sun0976315743"},{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"文青里行動圖書車設置在 #文青水園前廣場，預計11月開始服務！",Description:`前陣子，民眾陳情 #文青里 原有的行動圖書車因為設置地點的關係無法繼續服務，但這裡距離圖書館又非常遠，借還書不方便😢\r
@@ -299,4 +299,4 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 希望能透過這份關懷的心意，撫慰COVID-19受創家屬之情緒，減輕家中的經濟負擔！本補助方案視預算為主，最晚申請期限2022/12/31 <br><br>\r
 補助相關問題請洽：\r
 衛生福利部、桃園社會局救助科 沈先生 或 陳先生 (03-3322101分機6405) 洽詢 <br><br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}];export{t as s};
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],p={},l={class:"container mb-4 mr-8 flex justify-end"},b=s("button",{class:"btn btn-primary"},"回列表清單",-1);function g(c,w){const t=r;return a(),i("div",l,[o(t,{to:"/councilor"},{default:n(()=>[b]),_:1})])}const v=e(p,[["render",g]]);export{v as _,u as s};

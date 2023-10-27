@@ -77,7 +77,7 @@ const t=[{Item:"郵政物流中心",Category:"工商發展",Id:"CON-02",Descript
 2023/10/24日 張市長在龜山文青路拓寬開工典禮上重申: 本案市府工程團隊積極辦理設計規劃中。\r
 A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴重雍塞，工務局曾總工程司清祥簡報時指出，經分析交通行為發現，文青路約有1/3交通量係來自振興路轉青山路往新莊之通勤車流，倘新闢道路銜接振興路與青山路，將可有效紓解文青路車流；惟因當地地形複雜，市府刻正進行道路工程設計，將以高架環形橋方式克服地形障礙，新闢青山路與振興路聯絡道路。 \r
 </p`},{Item:"青山路、文青路口拓寬工程",Category:"交通建設",Id:"CON-39",DescriptionA:`FB <a href="https://www.facebook.com/18NIUstart/">牛煦庭 </a> 2023/09/05: 文青路、青山路口的交通負載越來越沈重，是A7合宜區長期關注的問題， 牛議員要求市府對症下藥已久，工務局2023/09/05 會勘, 要求改善青山路,文青路口先行將道路重新配置減少堵車問題。\r
-`,Due:"2024/02",Budget:"7,000萬",StatusA:"red",StatusB:"施工",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
+`,Due:"2024/02",Budget:"7,000萬",StatusA:"green",StatusB:"施工",DescriptionB:`龜山區青山路、文青路口拓寬工程：\r
 <ul>\r
 <li>工程內容：青山路文青路口道路断面重新配置，分別於文青路南側、青山路東側進行道路拓寬。</li>\r
 <li>工程總經費：目前約1500萬元（其中市長統籌分配款補助 900萬元）2023/10/25 修訂為7,000 萬</li>\r
@@ -183,6 +183,10 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 \r
  </p>\r
 \r
+`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
+\r
+<br><br>\r
+2022取得道路用地, 道路工程 2022年底發包 2025年完工; 歷史建築修復將於道路工程完工後啟動, 預計2026年開放`,StatusA:"gold",StatusB:"規劃",DescriptionB:`<p>龜山區為桃園市首要排名的磚窯區域，主要是因為二戰後所興起的八卦窯，其中，龜山區協和磚廠作為代表性的八卦窯建築，見證桃園地區經濟起飛及城鄉發展的共同記憶，其以林口台地之紅土製磚，可以呈現磚窯產業脈絡，以及代表地方文化的地區性建造物類型。</p>\r
 `},{Item:"變二:牛角坡路延伸文化一路計畫",Category:"交通建設",Id:"CON-14",DescriptionA:'變二工程<a href="file/XLK-242-變二工程.jpeg"> 履約期程 2022/11/30 - 2024/12/31</a>, 2022/08/30第二次招標並決標 , 2022/11月開工, 預計於2024年12/31日竣工通車',Due:"2025/01",Budget:"2.76億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>變二案: 牛角坡路延伸至文化一路 </h5>\r
 <ul>\r
 <li>工程內容：起自文化一路至樂善一路，道路長度約170公尺（其中橋梁長度約96公尺），寬度20公尺。</li>\r
@@ -468,7 +472,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 	href="https://www.chinatimes.com/newspapers/20211002000448-260107?chdtv&fbclid=IwAR0uxyKok4LkVo-ovHoaSZ043lt8MypGwAn22J7JBZohgTPE5TpAHLsB6nA">桃市府蓋運動場\r
 	執行率未過半</a>，\r
 龜山國民運動中心部分，規畫設計已有雛型，預算到位便能執行，內部場館配置會依經費多寡滾動式調整。 所以需要議員們持續加強監督力道。\r
-</p>`},{Item:"A7廣場開發 廣18 廣19",Category:"居住環境",Id:"CON-12",DescriptionA:'停18 立體停車場原預計2022/11/15完工，2022/8/12日第三次開標。 A19 廣場開發案<a href="https://www.facebook.com/groups/1951117865015671/permalink/5157536007707158/"> 牛議員辦公室釐清</a> 2022/6/23, 7/15 兩次招標都無廠商投標。 2023/3/10日第五次招標, 3/30日開標。',StatusA:"red",StatusB:"施工",DescriptionB:`<h5>廣18/19 廣場用地開發</h5>\r
+</p>`},{Item:"A7廣場開發 廣18 廣19",Category:"居住環境",Id:"CON-12",DescriptionA:'停18 立體停車場原預計2022/11/15完工，2022/8/12日第三次開標。 A19 廣場開發案<a href="https://www.facebook.com/groups/1951117865015671/permalink/5157536007707158/"> 牛議員辦公室釐清</a> 2022/6/23, 7/15 兩次招標都無廠商投標。 2023/3/10日第五次招標, 3/30日開標。',StatusA:"gold",StatusB:"施工",DescriptionB:`<h5>廣18/19 廣場用地開發</h5>\r
 <p>依據<a href="https://www.tcd.gov.tw/uploadfile/tcd_plan/201018101143117.pdf">桃園縣擬定都市計畫審核摘要表</a>,\r
 考量大眾運輸導向發展 Transit-Oriented Development, TOD 規劃構想, 形塑大眾運輸節點周圍以行人導向規劃廣場用地 2 處, 計畫面積\r
 1.36 公頃。\r
@@ -577,11 +581,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 `,Due:"2025",Budget:"1.126億",StatusA:"green",StatusB:"施工",DescriptionB:`<p><a href="https://tyenews.com/2023/05/380121/">桃園電子報 2023/05/10</a>: 龜山文青水園水資中心啟動擴建工程 污水處理量將提升至每日9千噸\r
 </p>\r
 <p>桃園機場捷運A7站地區人口快速增長，為提升污水處理量，開始啟動文青水園水資源回收中心第二期擴建工程。水務局表示，該工程採用統包工程方式，已於2023年4月決標，該案完成後污水處理量，從原本每日可處理4000噸，提升至每日9000噸，所提升處理量以服務更多民眾家庭，避免家庭生活污水直接排入河川，提升桃市生活環境，讓都市發展的同時有更好的生活環境，並減少河川負擔。</p>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-30-01.jpg"  alt="水資源第二期" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
-\r
-<br><br>\r
-2022取得道路用地, 道路工程 2022年底發包 2025年完工; 歷史建築修復將於道路工程完工後啟動, 預計2026年開放`,StatusA:"red",StatusB:"期望",DescriptionB:`<p>龜山區為桃園市首要排名的磚窯區域，主要是因為二戰後所興起的八卦窯，其中，龜山區協和磚廠作為代表性的八卦窯建築，見證桃園地區經濟起飛及城鄉發展的共同記憶，其以林口台地之紅土製磚，可以呈現磚窯產業脈絡，以及代表地方文化的地區性建造物類型。</p>\r
-`},{Item:"樂捷段社會住宅",Category:"居住環境",Id:"CON-34",DescriptionA:"統包工程已於上 2023 7月31日順利決標，由福清營造股份有限公司、承龍水電工程有限公司、陳信樟建築師事務所共同攜手承攬，預計117年完工，並興建多種公共服務設施供周邊民眾使用。",Due:"2029",StatusA:"red",StatusB:"施工",DescriptionB:'<p><a href="https://www.tshsc.org.tw/w/tshsc/SocialHousing_21081301011090040">龜山樂捷段社會住宅</a> </p> <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-34-01.png"  alt="樂捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />'},{Item:"文青國中小及幼兒園",Category:"教育文化",Id:"CON-01",DescriptionA:'幼兒園預計2023/7月/18日完工、國小部2023/11/19日完工,。2023/9月招收4班小一, 暫用幼兒園教室。文青國中小校舍工程預計 2024/02/09 完成。2022/8月<a href="https://reiso.tycg.gov.tw/detail/8da5e917-bad3-403d-9d7a-aaf93293d83e"> 完成 10.94% </a>',Due:"2024/02/09",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-30-01.jpg"  alt="水資源第二期" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"樂捷段社會住宅",Category:"居住環境",Id:"CON-34",DescriptionA:"統包工程已於上 2023 7月31日順利決標，由福清營造股份有限公司、承龍水電工程有限公司、陳信樟建築師事務所共同攜手承攬，預計117年完工，並興建多種公共服務設施供周邊民眾使用。",Due:"2029",StatusA:"red",StatusB:"規劃",DescriptionB:'<p><a href="https://www.tshsc.org.tw/w/tshsc/SocialHousing_21081301011090040">龜山樂捷段社會住宅</a> </p> <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-34-01.png"  alt="樂捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />'},{Item:"文青國中小及幼兒園",Category:"教育文化",Id:"CON-01",DescriptionA:'幼兒園預計2023/7月/18日完工、國小部2023/11/19日完工,。2023/9月招收4班小一, 暫用幼兒園教室。文青國中小校舍工程預計 2024/02/09 完成。2022/8月<a href="https://reiso.tycg.gov.tw/detail/8da5e917-bad3-403d-9d7a-aaf93293d83e"> 完成 10.94% </a>',Due:"2024/02/09",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 <p>\r
@@ -623,4 +623,4 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 	href="https://times.hinet.net/mobile/news/23918867?fbclid=IwAR2DZWzyP6lO53L_qhhsUyuhB3F_qYmUKtQchY7S1PTye8CYl1tSWDHKpnE">林正峰議員</a>\r
 書面總質詢:\r
 鄭文燦曾於109年1月正值立法委員選舉競選期間，為幫同黨籍候選人助選，特別召開「龜山區坪頂地區設置高中」說明會，聲稱建校用地於108年底已取得約2.5公頃，並由民進黨現任立委鄭運鵬已爭取到國教署補助的800萬元規劃設計費，將於一年內優先辦理第一期工程，預算約2億7,000元興建1棟5層大樓，興建約12間行政空間、約18間班級與專科教室，共計30間教室，並以約3,000萬元經費設計圍牆、校門、警衛室及周邊地坪等設施。然而，直到本會期為止，教育局於設校預定地內總計約2.6公頃的私有土地，僅僅取得0.287公頃。此議題談了20幾年，土地取得進度卻遙遙無期下，林正峰建議，市府可優先推動將已取得之高中用地，與大崗國中現有校地合併，將大岡國中改制為完全中學，滿足近年該地區迅速成長的人口，確保該地區學子的升學問題。\r
-</p>`},{Item:"樂善國小舊校舍增班",Category:"教育文化",Id:"CON-33",DescriptionA:"2023/03/09 招標, 03/15開標。已流標一次",Budget:"720萬",StatusA:"gray",StatusB:"施工",DescriptionB:'<p> <a href="https://pcc.mlwmlw.org/unit/%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%A8%82%E5%96%84%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8">樂善國小標案</a>: 舊棟校舍增班教室暨教學空間整修工程'}];export{t as c};
+</p>`},{Item:"樂善國小舊校舍增班",Category:"教育文化",Id:"CON-33",DescriptionA:"2023/03/09 招標, 03/15開標。已流標一次",Budget:"720萬",StatusA:"gray",StatusB:"完成",DescriptionB:'<p> <a href="https://pcc.mlwmlw.org/unit/%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%A8%82%E5%96%84%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8">樂善國小標案</a>: 舊棟校舍增班教室暨教學空間整修工程'}];export{t as c};
