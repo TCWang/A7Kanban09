@@ -34,7 +34,7 @@
           <h2>計畫概要</h2>
           <div v-html="construction.DescriptionA"></div>
           <div v-if="construction.Contribution">
-            <h3 class="bg-indigo-100 p-1 my-2">議員質詢</h3>
+            <h3 class="bg-indigo-100 p-1 my-2">作業說明</h3>
             <div v-html="construction.Contribution"></div>
           </div>
         </div>
