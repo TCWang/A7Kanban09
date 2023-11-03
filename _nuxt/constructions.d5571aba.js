@@ -404,7 +404,10 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <p>與會文青里民反映，前述設計內容與其他市民活動中心相比實在太陽春；文青里長謝嘉仁認為，派出所預定地將新建五層樓建物，建坪達一二五○坪，但文青市民活動中心兩層樓的建坪僅二○○坪，顯有不足。\r
 </p>\r
 <p>多位議員出席建議市府考慮將派出所改納入善捷段社會住宅或移至他處，讓二六九號土地能新建更大規模的綜合社福大樓，配置公托中心、微型運動場、圖書館、停車空間等，提供更多服務。\r
-</p>`},{Item:"善捷段社會住宅",Category:"居住環境",Id:"CON-10",DescriptionA:'善捷段地號298/299 <a href="https://ohd.tycg.gov.tw/home.jsp?id=145&parentpath=0%2C96%2C143&mcustomize=onemessages_view.jsp&dataserno=202203160007&aplistdn=ou%3Ddata%2Cou%3Dsocialhousing1%2Cou%3Dhouse%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR1FdJO9Rolz3pGdB6Heo8RyoLG7LPCtH5MYl_1ettltbLXW_OnTPr5ms7I">社會住宅</a> 預計2024年完工, 2022/07/15 第六次流標',Due:"2024",StatusA:"gold",StatusB:"規劃",DescriptionB:`<h5 >善捷段社會住宅</h5>\r
+</p>`,Contribution:`<a href="https://www.facebook.com/groups/1951117865015671/permalink/6579645202162891/">FB 謝嘉仁里長 2023/11/03 </a> 文青市民活動中心-地方說明會<br>\r
+日期：112/11/08 (三) 下午 14:00～16:00<br>\r
+地點：文青水園水資源回收中心102會議室　(桃園市龜山區文青路383號) <br>\r
+<a href="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-file/CON-09-planning.pdf">文青活動中心 說明文件</a>`},{Item:"善捷段社會住宅",Category:"居住環境",Id:"CON-10",DescriptionA:'善捷段地號298/299 <a href="https://ohd.tycg.gov.tw/home.jsp?id=145&parentpath=0%2C96%2C143&mcustomize=onemessages_view.jsp&dataserno=202203160007&aplistdn=ou%3Ddata%2Cou%3Dsocialhousing1%2Cou%3Dhouse%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR1FdJO9Rolz3pGdB6Heo8RyoLG7LPCtH5MYl_1ettltbLXW_OnTPr5ms7I">社會住宅</a> 預計2024年完工, 2022/07/15 第六次流標',Due:"2024",StatusA:"gold",StatusB:"規劃",DescriptionB:`<h5 >善捷段社會住宅</h5>\r
 <p> <a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0,10401&mcustomize=news_view_small.jsp&dataserno=202209010003&aplistdn=ou=news,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y"> 微型運動中心 </a>: 為滿足社宅住戶的運動需求，將龜山區善捷段298、299地號社宅基地新建250坪的微型運動中心，微型運動中心會有體適能中心，設置跑步機、重訓器材等，還有TRX、韻律、飛輪等課程空間，將採收費制，但會提供公益時間給65歲以上長者及低收入戶免費使用。\r
 </p>\r
 <p>桃園電子報 2023/08/09 <a href="https://tyenews.com/2023/08/417803/">桃園住發處資訊</a>\r
