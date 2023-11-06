@@ -597,7 +597,8 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <p>桃園機場捷運A7站地區人口快速增長，為提升污水處理量，開始啟動文青水園水資源回收中心第二期擴建工程。水務局表示，該工程採用統包工程方式，已於2023年4月決標，該案完成後污水處理量，從原本每日可處理4000噸，提升至每日9000噸，所提升處理量以服務更多民眾家庭，避免家庭生活污水直接排入河川，提升桃市生活環境，讓都市發展的同時有更好的生活環境，並減少河川負擔。</p>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-30-01.jpg"  alt="水資源第二期" sizes="sm:100vw md:150vw lg:200vw" />`},{Item:"樂捷段社會住宅",Category:"居住環境",Id:"CON-34",DescriptionA:"統包工程已於上 2023 7月31日順利決標，由福清營造股份有限公司、承龍水電工程有限公司、陳信樟建築師事務所共同攜手承攬，預計117年完工，並興建多種公共服務設施供周邊民眾使用。",Due:"2029",StatusA:"red",StatusB:"規劃",DescriptionB:'<p><a href="https://www.tshsc.org.tw/w/tshsc/SocialHousing_21081301011090040">龜山樂捷段社會住宅</a> </p> <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-34-01.png"  alt="樂捷段社宅" sizes="sm:100vw md:150vw lg:200vw" />'},{Item:"文青國中小及幼兒園",Category:"教育文化",Id:"CON-01",DescriptionA:`<p>幼兒園預計2023/7月/18日完工、國小部2023/11/19日完工,。2023/9月招收4班小一, 暫用幼兒園教室。文青國中小校舍工程預計 2024/02/09 完成。2022/8月<a href="https://reiso.tycg.gov.tw/detail/8da5e917-bad3-403d-9d7a-aaf93293d83e"> 完成 10.94% </a></p>\r
 <p>桃園市立文青國民中小學二期校舍新建統包工程 ; 招標金額: 557,021,659 ; 招標日期: 2023-10-26 ; 決標日期: 2023-10-26 ;  運動場將包含在二期工程內\r
-</p>`,Due:"2024/02/09",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
+</p>`,Due:"2024/02/09",Budget:"4億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-02.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 <p>\r
