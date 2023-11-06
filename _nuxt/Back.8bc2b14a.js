@@ -1,7 +1,10 @@
-import{_ as r}from"./nuxt-link.4eb52501.js";import{_ as e,o as a,c as i,b as o,w as n,a as s}from"./entry.47aff827.js";const u=[{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
+import{_ as r}from"./nuxt-link.f181572d.js";import{_ as e,o as a,c as i,b as o,w as n,a as s}from"./entry.50159afe.js";const u=[{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
+國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-042.jpeg" alt="大岡高中" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/3/23",Link:"https://www.storm.mg/article/4893534"},{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
 2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！\r
 大埔轉運站原承諾在地鄉親垃圾不過夜，僅負擔轉運功能，但近期因欣榮焚化爐整改，引發桃園市垃圾危機，現在垃圾不只過夜、還過好幾夜！長期堆置的垃圾產生酸臭味，刺鼻難聞。\r
-近年來龜山人口成長迅速，儼然已成為人口密集區，雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！<br>\r
+近年來龜山人口成長迅速，儼然已成為人口密集區，自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
+2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！<br>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-041.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/3/23",Link:"https://www.facebook.com/groups/1951117865015671/permalink/6578091492318262/"},{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
 韻璇在這次會期質詢交通局必須重視此問題，今天邀請#樂善里黃里長、交通局、警察局、區公所共同會勘，決議於樂善里文學路及樂善里文青路二側劃制機車、汽車停車約各80格，以便民眾停放改善停車問題‼️\r
 👍未來韻璇會再努力爭取更多相關措施💪🏻希望讓通勤族可以更方便！無須再為停車問題而煩惱囉\r
