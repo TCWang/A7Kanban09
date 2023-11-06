@@ -599,6 +599,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <p>桃園市立文青國民中小學二期校舍新建統包工程 ; 招標金額: 557,021,659 ; 招標日期: 2023-10-26 ; 決標日期: 2023-10-26 ;  運動場將包含在二期工程內\r
 </p>`,Due:"2024/02/09",Budget:"4億",StatusA:"green",StatusB:"施工",DescriptionB:`<h5>文青國中小</h5>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-02.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-03.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 <p>\r
