@@ -1,17 +1,22 @@
 <template>
   <!-- Card -->
-  <div class="bg-zinc-100 p-2 rounded-2xl shadow-md w-full md:w-1/2">
+  <div class="bg-zinc-100 p-2 rounded-2xl shadow-md w-full md:w-1/2 xl:w-1/3">
     <!-- Flex Container -->
     <div class="flex flex-row rounded-l-xl">
       <!-- Image -->
-      <NuxtImg
-        :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/municipal/${figure}`"
-        alt=""
-        class="object-fit rounded-xl md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200 w-[120px] h-[120px]"
-      />
+      <a :href="`municipal/${title}`">
+        <NuxtImg
+          :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/municipal/${figure}`"
+          alt=""
+          class="object-fit rounded-xl md:rounded-l-xl md:rounded-r-none transform hover:scale-110 hover:rounded-xl duration-200 w-[120px] h-[120px]"
+        />
+      </a>
+
       <!-- Content -->
       <div class="p-2 md:p-4">
-        <h3 class="text-gray-800">{{ title }}</h3>
+        <a :href="link">
+          {{ title }}
+        </a>
 
         <nl>
           <li v-if="address">地址: {{ address }}</li>
