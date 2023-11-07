@@ -1,5 +1,45 @@
 ﻿[
         {
+            "id": "M042",
+            "title": "健保署北區業務組 桃園聯絡辦公室",
+            "address": "桃園市桃園區介壽路11-4號",
+            "telephone": "03-433-9111",
+            "hours": "08:30 - 17:30",
+            "figure": "MUN-042.jpeg",
+            "link": "https://www.nhi.gov.tw/",
+            "type": "公共服務"
+        },
+        {
+            "id": "M043",
+            "title": "勞工保險局 桃園辦事處",
+            "address": "桃園市桃園區縣府路26號",
+            "telephone": "03-335-0003",
+            "hours": "08:30 - 17:30",
+            "figure": "MUN-043.jpeg",
+            "link": "https://www.bli.gov.tw/0100158.html",
+            "type": "公共服務"
+        },
+        {
+            "id": "M002",
+            "title": "財政部北區國稅局",
+            "address": "桃園市桃園區三元街156號",
+            "telephone": "03-339-6789",
+            "hours": "星期一至星期五 8:30-12:30, 13:00-17:00",
+            "figure": "MUN-002.jpeg",
+            "link": "https://www.ntbna.gov.tw/",
+            "type": "公共服務"
+        },
+        {
+            "id": "M044",
+            "title": "新竹區監理所 桃園監理站",
+            "address": "桃園市桃園區介壽路416號",
+            "telephone": "03-366-4222",
+            "hours": "08:00 - 17:00 ",
+            "figure": "MUN-044.jpeg",
+            "link": "https://hmv.thb.gov.tw/cl.aspx?n=1315",
+            "type": "公共服務"
+        },
+        {
             "id": "M001",
             "title": "桃園圖書館總館",
             "address": "桃園市桃園區南平路303號",
@@ -37,16 +77,6 @@
             "hours": "06:00 - 22:00",
             "figure": "MUN-041.jpeg",
             "link": "https://lkcsc.cyc.org.tw/",
-            "type": "公共服務"
-        },
-        {
-            "id": "M002",
-            "title": "財政部北區國稅局",
-            "address": "桃園市桃園區三元街156號",
-            "telephone": "03-339-6789",
-            "hours": "星期一至星期五 8:30-12:30, 13:00-17:00",
-            "figure": "MUN-002.jpeg",
-            "link": "https://www.ntbna.gov.tw/",
             "type": "公共服務"
         },
         {
@@ -130,6 +160,16 @@
             "type": "公共服務"
         },
         {
+            "id": "M013",
+            "title": "龜山分局大埔派出所",
+            "address": "桃園市龜山區文德二路80號",
+            "telephone": "03-318-6447",
+            "figure": "MUN-013.jpeg",
+            "link": "https://www.typd.gov.tw/#gsc.tab=0",
+            "type": "公共服務",
+            "description": "桃園市政府警察局：<a href=\"https://tvrweb.typd.gov.tw:3443/\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t交通違規檢舉專區</a> <br>檢舉說明\r\n\t\t\t\t\t\t\t\t\t\t\t<ol>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>違規車輛號牌：違規車號清晰可辨及車輛顏色。</li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>違規事實：應攝入相關標誌、標線或地點；如為標線，顏色須清楚可辨；車輛駕駛人是否在場（以辦識該車屬臨時停車或停車之狀態</li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>違規時之日期及時間。</li>\r\n\t\t\t\t\t\t\t\t\t\t\t</ol>\r\n\t\t\t\t\t\t\t\t\t\t\t使用含日期地點的照相軟體: 時間相機App <a\r\n\t\t\t\t\t\t\t\t\t\t\t\thref=\"https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&hl=zh_TW&gl=US\">Google\r\n\t\t\t\t\t\t\t\t\t\t\t\tPlay</a>,\r\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://apps.apple.com/tw/app/%E6%99%82%E9%96%93%E7%9B%B8%E6%A9%9F/id840110184\">App\r\n\t\t\t\t\t\t\t\t\t\t\t\tStore</a>"
+        },
+        {
             "id": "M010",
             "title": "大坪頂便民工作站",
             "address": "桃園市龜山區文化二路95號二樓 桃園市龜山區農會公西辦事處二樓",
@@ -146,7 +186,8 @@
             "telephone": "03-350-3877",
             "figure": "MUN-011.jpeg",
             "link": "https://www.tyemid.gov.tw/Convenience/Details/3",
-            "type": "公共服務"
+            "type": "公共服務",
+            "description": "桃園市環境清潔稽查大隊\r\n\t\t\t\t\t\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.tyemid.gov.tw/Convenience/Details/3\">大型傢俱清運申請</a>:\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t龜山區 申請電話 03-350-3877, 地址 龜山區中山街26號\r\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t髒亂點查報：桃園市政信箱 / 市政建議 / 噪音, 污染及環境維護 <a\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thref=\"https://taotalk.tycg.gov.tw/main/PageCtrl?p=p_1\">髒亂點查報</a>,\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t環保報案專線 03-335-4943, 0800-066-666\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t有專人24小時接聽處理並會告知登錄案號，後續可上網查詢處理結果或來電告知案號即可詢問處理結果。或洽詢「1999」市民諮詢服務熱線，歡迎多加利用。\r\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t亂丟垃圾拍照檢舉管道： <a href=\"https://www.tyemid.gov.tw/Convenience/Details/8\">檢舉違反廢棄物清理法</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t</ul>"
         },
         {
             "id": "M012",
@@ -155,15 +196,6 @@
             "telephone": "03-332-2101",
             "figure": "MUN-012.jpeg",
             "link": "https://taotalk.tycg.gov.tw/main/PageCtrl?p=p_1",
-            "type": "公共服務"
-        },
-        {
-            "id": "M013",
-            "title": "桃園市政府警察局龜山分局大埔派出所",
-            "address": "桃園市龜山區文德二路80號",
-            "telephone": "03-318-6447",
-            "figure": "MUN-013.jpeg",
-            "link": "https://www.typd.gov.tw/#gsc.tab=0",
             "type": "公共服務"
         },
         {
@@ -280,15 +312,6 @@
             "type": "公共服務"
         },
         {
-            "id": "M026",
-            "title": "龜山文青郵政代辦所",
-            "address": "桃園市龜山區文青路300號",
-            "hours": "10:00-17:00",
-            "figure": "MUN-026.jpeg",
-            "link": "https://www.post.gov.tw/post/internet/I_location/index.jsp?ID=1906&topage=2&PreRowDatas=10&mid_area_sn=012000",
-            "type": "公共服務"
-        },
-        {
             "id": "M027",
             "title": "龜山長庚大學郵局",
             "address": "桃園市龜山區文化一路259號",
@@ -306,6 +329,15 @@
             "hours": " 週一至週五 郵務:08:30-17:00",
             "figure": "MUN-028.jpeg",
             "link": "https://www.post.gov.tw/post/internet/I_location/index_post.jsp?prsb_no=012117-6",
+            "type": "公共服務"
+        },
+        {
+            "id": "M026",
+            "title": "龜山文青郵政代辦所",
+            "address": "桃園市龜山區文青路300號",
+            "hours": "10:00-17:00",
+            "figure": "MUN-026.jpeg",
+            "link": "https://www.post.gov.tw/post/internet/I_location/index.jsp?ID=1906&topage=2&PreRowDatas=10&mid_area_sn=012000",
             "type": "公共服務"
         },
         {
@@ -391,7 +423,7 @@
             "id": "M037",
             "title": "Kingnet 今網寬頻",
             "telephone": "03-412-8166",
-            "hours": "週一至週五​ 09：00~24：00, 例假日 09：00~22：00",
+            "hours": "週一至週五 09：00~24：00, 例假日 09：00~22：00",
             "figure": "MUN-037.jpeg",
             "link": "https://top1.kingnet.net.tw/",
             "type": "公共服務"

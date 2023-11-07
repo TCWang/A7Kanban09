@@ -10,7 +10,7 @@
         :hours="municipal.hours"
         :link="municipal.link"
         :figure="municipal.figure"
-        :description?="municipal.description"
+        :description="municipal.description"
         :index="index"
       />
     </div>

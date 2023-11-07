@@ -25,19 +25,18 @@
         </nl>
 
         <div class="flex flex-row mt-4 space-x-4">
+          <a v-show="link" :href="link">
+            <NuxtImg
+              class="h-12 hover:border-yellow-300 hover:border-2"
+              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+            />
+          </a>
           <a v-if="description" :href="`/municipal/${title}`">
             <button
               class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
             >
               詳細資料
             </button>
-          </a>
-
-          <a v-show="link" :href="link">
-            <NuxtImg
-              class="h-12 hover:border-yellow-300 hover:border-2"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
-            />
           </a>
         </div>
       </div>

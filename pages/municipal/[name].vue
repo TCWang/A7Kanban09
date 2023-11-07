@@ -4,7 +4,10 @@
       <h2>{{ name }} 服務詳細資料</h2>
       <ul>
         <li>項目: {{ municipal.title }}</li>
-        <li>說明: {{ municipal.description }}</li>
+        <li>
+          說明:
+          <div v-html="municipal.description"></div>
+        </li>
       </ul>
       <MunicipalBack />
     </div>
