@@ -1,13 +1,16 @@
 <template>
   <div>
-    <h1>市府交流</h1>
+    <h1>公共事業 / 政府單位</h1>
+    <MunicipalCards />
   </div>
 </template>
 
 <script setup>
 useHead({
-  title: "A7-市府交流",
-  meta: [{ name: "description", content: "A7重劃區 桃園市政府資訊交流平台" }],
+  title: "A7-公共服務",
+  meta: [
+    { name: "description", content: "A7重劃區 政府單位及公共事業資訊交流平台" },
+  ],
 });
 </script>
 

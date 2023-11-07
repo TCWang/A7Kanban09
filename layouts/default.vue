@@ -42,7 +42,7 @@
             href="/municipal"
             class="navbar-brand block mt-1 lg:inline-block lg:mt-0 text-indigo-200 hover:text-yellow-200"
           >
-            市府交流
+            公共事務
           </a>
           <a
             href="/councilor"
