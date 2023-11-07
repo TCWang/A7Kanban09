@@ -7,7 +7,10 @@
         :title="municipal.title"
         :address="municipal.address"
         :telephone="municipal.telephone"
+        :hours="municipal.hours"
+        :link="municipal.link"
         :figure="municipal.figure"
+        :description?="municipal.description"
         :index="index"
       />
     </div>

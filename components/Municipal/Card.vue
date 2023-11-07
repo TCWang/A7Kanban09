@@ -14,12 +14,13 @@
         <h3 class="text-gray-800">{{ title }}</h3>
 
         <nl>
-          <li>地址: {{ address }}</li>
-          <li>電話: {{ telephone }}</li>
+          <li v-if="address">地址: {{ address }}</li>
+          <li v-if="telephone">電話: {{ telephone }}</li>
+          <li v-if="hours">時間: {{ hours }}</li>
         </nl>
 
         <div class="flex flex-row mt-4 space-x-4">
-          <a :href="`/municipal/${title}`">
+          <a v-if="description" :href="`/municipal/${title}`">
             <button
               class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
             >
@@ -45,6 +46,9 @@ interface CardProps {
   key: string;
   address: string;
   telephone: string;
+  hours: string;
+  link: string;
+  description: string;
   figure: string;
   index: number;
 }

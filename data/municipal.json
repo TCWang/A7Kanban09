@@ -10,6 +10,36 @@
             "type": "公共服務"
         },
         {
+            "id": "M039",
+            "title": "新北林口圖書館 ",
+            "address": "新北市林口區忠孝二路55號4-5樓",
+            "telephone": "02-2609-1417",
+            "hours": "08:30 - 21:00",
+            "figure": "MUN-039.jpeg",
+            "link": "https://www.library.ntpc.gov.tw/",
+            "type": "公共服務"
+        },
+        {
+            "id": "M040",
+            "title": "兒童專屬圖書館　林口李科永紀念圖書館 ",
+            "address": "新北市林口區公園路192號",
+            "telephone": "02=2608-5930",
+            "hours": "週日,一 08:30 - 17:00 週二～六 08:30 - 21:00 ",
+            "figure": "MUN-040.jpeg",
+            "link": "https://info.library.ntpc.gov.tw/branch/opencms/branch/afb8639b-0fdd-11ee-ae0d-000c29a02f4a/",
+            "type": "公共服務"
+        },
+        {
+            "id": "M041",
+            "title": "林口國民運動中心",
+            "address": "新北市林口區文化二路二段299號",
+            "telephone": "02-2602-9092",
+            "hours": "06:00 - 22:00",
+            "figure": "MUN-041.jpeg",
+            "link": "https://lkcsc.cyc.org.tw/",
+            "type": "公共服務"
+        },
+        {
             "id": "M002",
             "title": "財政部北區國稅局",
             "address": "桃園市桃園區三元街156號",
@@ -77,6 +107,16 @@
             "hours": "周一至周五08:00–12:00, 13:00–17:00",
             "figure": "MUN-008.jpeg",
             "link": "https://www.guishan-phc.tycg.gov.tw/",
+            "type": "公共服務"
+        },
+        {
+            "id": "M038",
+            "title": "林口區衛生所",
+            "address": "新北市林口區忠孝二路55號1樓",
+            "telephone": "02-2606-8760",
+            "hours": "08:30 - 11:30",
+            "figure": "MUN-038.jpeg",
+            "link": "https://linkou.health.ntpc.gov.tw/",
             "type": "公共服務"
         },
         {
@@ -354,46 +394,6 @@
             "hours": "週一至週五​ 09：00~24：00, 例假日 09：00~22：00",
             "figure": "MUN-037.jpeg",
             "link": "https://top1.kingnet.net.tw/",
-            "type": "公共服務"
-        },
-        {
-            "id": "M038",
-            "title": "林口衛生所",
-            "address": "新北市林口區忠孝二路55號1樓",
-            "telephone": "02-2606-8760",
-            "hours": "08:30 - 11:30",
-            "figure": "MUN-038.jpeg",
-            "link": "https://linkou.health.ntpc.gov.tw/",
-            "type": "公共服務"
-        },
-        {
-            "id": "M039",
-            "title": "新北林口圖書館 ",
-            "address": "新北市林口區忠孝二路55號4-5樓",
-            "telephone": "02-2609-1417",
-            "hours": "08:30 - 21:00",
-            "figure": "MUN-039.jpeg",
-            "link": "https://www.library.ntpc.gov.tw/",
-            "type": "公共服務"
-        },
-        {
-            "id": "M040",
-            "title": "兒童專屬圖書館　林口李科永紀念圖書館 ",
-            "address": "新北市林口區公園路192號",
-            "telephone": "02=2608-5930",
-            "hours": "週日,一 08:30 - 17:00 週二～六 08:30 - 21:00 ",
-            "figure": "MUN-040.jpeg",
-            "link": "https://info.library.ntpc.gov.tw/branch/opencms/branch/afb8639b-0fdd-11ee-ae0d-000c29a02f4a/",
-            "type": "公共服務"
-        },
-        {
-            "id": "M041",
-            "title": "林口國民運動中心",
-            "address": "新北市林口區文化二路二段299號",
-            "telephone": "02-2602-9092",
-            "hours": "06:00 - 22:00",
-            "figure": "MUN-041.jpeg",
-            "link": "https://lkcsc.cyc.org.tw/",
             "type": "公共服務"
         }
     ]
