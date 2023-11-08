@@ -44,7 +44,7 @@
           </div>
         </div>
 
-        <councilorBack />
+        <councilorBack :category="service.Catogory" />
       </div>
     </div>
   </NuxtLayout>
