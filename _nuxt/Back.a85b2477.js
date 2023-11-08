@@ -1,4 +1,6 @@
-import{_ as r}from"./nuxt-link.971c5bd0.js";import{_ as e,o as a,c as i,b as o,w as s,a as n}from"./entry.b8c8aa1e.js";const u=[{Title:"建設小型綠化休憩公園",No:"N044",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"會勘籌畫A7文青里至青年公園產業道路侧公有土地",Description:`<p>\r
+import{_ as r}from"./nuxt-link.fa82e413.js";import{_ as e,o as a,c as i,b as o,w as s,a as n}from"./entry.d824dcae.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`陳雅倫表示，桃園市因為垃圾處理不當，讓大埔轉運站變成暫置場，垃圾堆放引發惡臭，龜山市民成為人體空氣清靜機，龜山更不是垃圾山，市府應提出大埔轉運站撤離時間表。\r
+\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-045.jpeg" alt="雅倫服務" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/7/23",Link:"https://tyenews.com/2023/11/450256/?fbclid=IwAR224p-QIgEzXoODiFJNPKP8v8zp0tNcojflCYdPzU7lpd7DisTMiShhfW4"},{Title:"建設小型綠化休憩公園",No:"N044",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"會勘籌畫A7文青里至青年公園產業道路侧公有土地",Description:`<p>\r
 <a href="https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr">桃園市龜山區文青社區發展協會 2023/11/08 </a>\r
 李宗豪市議員及服務處林建宗主任桃園市政府農業局及龜山區公所  , 一起會勘籌畫A7文青里至青年公園產業道路侧公有土地，建設小型綠化休憩公園，第一次現場會勘檢討。（文青路395巷）<br>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-044.jpeg" alt="李宗豪服務" sizes="sm:100vw md:150vw lg:200vw" />\r
