@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>里長交流</h1>
+    <h1>里長公告欄</h1>
     <CommunityTable />
   </div>
 </template>
