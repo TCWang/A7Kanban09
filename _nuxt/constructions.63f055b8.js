@@ -157,7 +157,10 @@ A7合宜住宅主要聯外的文青路，多年來上下班尖峰時段車流嚴
    href="https://www.taiwanhot.net/news/988498/%E9%BE%9C%E5%B1%B1%E5%8D%97%E6%9E%97%E8%B7%AF%E6%8B%93%E5%AF%AC%E5%B7%A5%E7%A8%8B%E5%8B%95%E5%B7%A5+%E9%A0%90%E8%A8%88112%E5%B9%B4%E8%BE%B2%E6%9B%86%E5%B9%B4%E5%89%8D%E9%80%9A%E8%BB%8A?fbclid=IwAR0RpriOAPibVUlgKgQtfHU5_fSX29Bs-OQh5pXUZnOyAJsHag4kWPevv7Y">2022/03/18\r
    新聞</a>:\r
  已克服八卦窯磚窯廠文資保存問題，預計於2022年完成規劃設計；\r
- <br><br>`,Contribution:`<p> <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
+ <br><br>`,Contribution:`<p><a href="https://today.line.me/tw/v2/article/Ggl0nW8">桃園電子報 2023/11/07</a>: 陳雅倫要求加速龜山變一道路工程 <br>\r
+龜山A7合宜住宅人口稠密，成長迅速，急需一條聯外道路，也就是已編列預算的變一工程。然而工務局長汪在宙卻表示，變一原先T字型的設計，因為高架改地下的關係，只剩下一字型的設計，僅剩文學路打通，樂善一路採預留方式，且期程恐延宕至115、116年。<br>陳雅倫強調，樂善一路非常重要，是未來A7合宜住宅住戶通往文青國中小的重要道路，不宜刪掉，並要求加速變一道路以及儘快取得磚窯公園用地，並要求張善政提出開闢磚窯公園的期程。\r
+</p>\r
+<p> <a href="https://www.facebook.com/groups/1951117865015671/permalink/6537754056352006/?mibextid=uyAsYr">FB A7重劃區大小事 2023/10/23</a>四位龜山區議員聯合質詢 <br>\r
 變一道路(文學路地下化打通至文化一路)：\r
 2023/10月已完成基本設計，接下來為細部設計。因地下化工程臨近機場捷運用地，需提額外審增加設計時程的不確定性。細部設計的整個時程估計約需8~10個月。預計2024/9完成設計，2024年底至2025年初動工.\r
 </p>\r
@@ -183,7 +186,10 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 \r
  </p>\r
 \r
-`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
+`},{Item:"協和磚窯場的修復再利用計畫",Category:"居住環境",Id:"CON-31",DescriptionA:`\r
+<a href="https://www.facebook.com/groups/1951117865015671/permalink/6596188307175247/?mibextid=uJjRxr">FB 2023/11/08</a>龜山樟腦寮協和磚廠」變更修復再利用計畫暨結構安全檢測評估，2023/11/08日公告決標。<br>\r
+\r
+桃園市歷史建築龜山樟腦寮協和磚廠調查研究暨修復再利用計畫 <a href="https://culture.tycg.gov.tw/home.jsp?id=93&parentpath=0,1&mcustomize=activityhot_view.jsp&dataserno=202207120001&aplistdn=ou=data,ou=activityhot,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y">2022/08/10 說明會</a>\r
 \r
 <br><br>\r
 2022取得道路用地, 道路工程 2022年底發包 2025年完工; 歷史建築修復將於道路工程完工後啟動, 預計2026年開放`,StatusA:"gold",StatusB:"規劃",DescriptionB:`<p>龜山區為桃園市首要排名的磚窯區域，主要是因為二戰後所興起的八卦窯，其中，龜山區協和磚廠作為代表性的八卦窯建築，見證桃園地區經濟起飛及城鄉發展的共同記憶，其以林口台地之紅土製磚，可以呈現磚窯產業脈絡，以及代表地方文化的地區性建造物類型。</p>\r

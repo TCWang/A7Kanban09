@@ -136,7 +136,15 @@ A7重劃區的臭味主要製造者就是市府環保局! 將在議題 07.環境
 <p>配合1200專案 增加公車路線及班次。建立機場捷運銜接台北捷運的步行加速輸送帶。</p>\r
 \r
 <p>2023/06/25 <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/560255859413000/">陳雅倫</a> 臉書:\r
-感謝機捷公司採納雅倫建議機捷增班 縮短班距！ 預計7/3再增一班加班車8/1再增三班加班車。 我會繼續爭取機捷增班以及隔音罩 </p>`},{id:"014",category:"交通規劃",item:"完整規劃區域人行道",description:`<p>Facebook 2023/07/13 <a href="https://www.facebook.com/profile.php?id=100063574997048">陳雅倫稱:</a> 大崗國小通學步道計劃通過審核囉！\r
+感謝機捷公司採納雅倫建議機捷增班 縮短班距！ 預計7/3再增一班加班車8/1再增三班加班車。 我會繼續爭取機捷增班以及隔音罩 </p>`},{id:"014",category:"交通規劃",item:"完整規劃區域人行道",description:`<p> 樂學一路 開通案<br>\r
+<a href="https://today.line.me/tw/v2/article/Ggl0nW8">桃園電子報 2023/11/07 </a>陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程 <br>\r
+陳雅倫強調，樂善一路非常重要，是未來A7合宜住宅住戶通往文青國中小的重要道路，不宜刪掉。並要求加速變一道路以及儘快取得磚窯公園用地，並要求張善政提出開闢磚窯公園的期程。 <br>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class="w-full md:w-1/2"  /><br>\r
+變一案 修訂為地下化後 保留文學路的銜接，但省略樂善一路的連接。本案較原高架設計經費較低！同時保留磚窯公園的完整古蹟風貌！ 但議員質詢質疑樂善一路是合宜住宅通往文青國中小的要道是否造成學童上下學的不便捷？<br>是否能考慮將樂善一路徹底打通成為一個 橫跨 十八份坑溪的綠色通道？讓文青國中小的學生每天上學途中都能沐浴在酚多精的森林世界！ 如下示意圖 不知是否有居民覆議？\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/expectation/EXP-014.jpeg" alt="樂善一路" class="w-full md:w-1/2"  /><br>\r
+<br>\r
+</p>\r
+<p>Facebook 2023/07/13 <a href="https://www.facebook.com/profile.php?id=100063574997048">陳雅倫稱:</a> 大崗國小通學步道計劃通過審核囉！\r
 </p><p>建立行人友善步道。排除行人道障礙, 嚴格取締違規機車的任意停放。 並注意行人道及公園的夜間照明。 及早打通廣18及19間的人行陸橋。 加強區域道路安全設計。\r
 </p>\r
 <p>交通違規的整治 -\r
