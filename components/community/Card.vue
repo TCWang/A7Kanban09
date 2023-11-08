@@ -14,6 +14,7 @@
         <h3 class="text-center text-gray-800 md:text-left">{{ title }} 里長</h3>
 
         <nl>
+          <li>里別: {{ type }}</li>
           <li>政黨: {{ party }}</li>
           <li>服務處: {{ address }}</li>
           <li>電話: {{ telephone }}</li>
@@ -23,7 +24,7 @@
         <div class="flex flex-row mt-4 space-x-4">
           <a :href="`/community/${title}`">
             <button
-              class="px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
+              class="h-10 px-4 rounded-md text-zinc-800 bg-lime-500 hover:bg-lime-700 hover:text-white duration-500"
             >
               里長公佈欄
             </button>
