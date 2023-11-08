@@ -625,7 +625,7 @@ A7成長上萬人，先花1500萬、先改善壅塞，我肯定！但千萬不�
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/CON-01-01.jpeg" alt="文青國中小" sizes="sm:100vw md:150vw lg:200vw" />\r
 \r
 <p>\r
-文青國中小學正在籌備中：<a href="https://www.facebook.com/%E6%96%87%E9%9D%92%E5%9C%8B%E4%B8%AD%E5%B0%8F%E7%B1%8C%E5%82%99%E8%99%95-305945223529559/">籌備處</a>設在大埔國小辦公室。\r
+<a href="https://1.wcjps.tyc.edu.tw/index.php?fbclid=IwAR2lLV_md3V7ZB83kOmbEHYyHF-tJEiJZR773IUX-tPIOd3IR__2_Tw8uqM">文青國中小 網站</a>, <a href="https://www.facebook.com/p/%E6%A1%83%E5%9C%92%E5%B8%82%E6%96%87%E9%9D%92%E9%9D%9E%E7%87%9F%E5%88%A9%E5%B9%BC%E5%85%92%E5%9C%92-%E5%A7%94%E8%A8%97%E7%A4%BE%E5%9C%98%E6%B3%95%E4%BA%BA%E8%87%BA%E7%81%A3%E4%BA%9E%E6%B4%B2%E5%AD%B8%E5%89%8D%E6%95%99%E8%82%B2%E5%9F%B9%E8%A8%93%E5%8D%94%E6%9C%83%E8%BE%A6%E7%90%86-100092942253127/?paipv=0&eav=AfYZEv5OVHGCPCTPlayODL_padX8xf0oMDQF-PhKXrocdLlhMMcCIRA1hSyIKFp7z04&_rdr">文青非營利幼兒園 Facebook</a>\r
 </p>\r
 <p>2022/09/01 <a href="https://www.facebook.com/groups/1951117865015671/permalink/5223653741095384/">文青國中小籌備處 公告</a>\r
 文青國民中小學新設校工程 ( 幼兒園 12 間,國小部 22 間含周邊附屬設施 )，2021 年 12 月 24 日決標，111 年 3 月 1 日開工，國小期 570 日曆天，幼兒園工期 450日曆天，依上述期程推估完工日分別 2023 年 10 月 9 日及 112 年 6 月 9 日 : 112 學年度起逐年招生幼兒園及小部一年級 4班，國小部教室倘未能提早完工，將彈性運用幼兒園園舍上課，截至 2022 年 8 月 22 日工程進度14.553%，超前4.21%。\r
