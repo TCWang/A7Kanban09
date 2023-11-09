@@ -1,18 +1,58 @@
-import{_ as r}from"./nuxt-link.fceeafc6.js";import{_ as e,o as a,c as i,b as o,w as s,a as n}from"./entry.4dba549c.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`陳雅倫表示，桃園市因為垃圾處理不當，讓大埔轉運站變成暫置場，垃圾堆放引發惡臭，龜山市民成為人體空氣清靜機，龜山更不是垃圾山，市府應提出大埔轉運站撤離時間表。\r
+import{_ as r}from"./nuxt-link.d51a4b32.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.abc87af1.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
+  <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-045.jpeg" alt=""\r
+        class="w-full md:w-1/2 object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h2 class="">\r
+         垃圾危機\r
+        </h2>\r
 \r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-045.jpeg" alt="雅倫服務" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/7/23",Link:"https://tyenews.com/2023/11/450256/?fbclid=IwAR224p-QIgEzXoODiFJNPKP8v8zp0tNcojflCYdPzU7lpd7DisTMiShhfW4"},{Title:"建設小型綠化休憩公園",No:"N044",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"會勘籌畫A7文青里至青年公園產業道路侧公有土地",Description:`<p>\r
-<a href="https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr">桃園市龜山區文青社區發展協會 2023/11/08 </a>\r
-李宗豪市議員及服務處林建宗主任桃園市政府農業局及龜山區公所  , 一起會勘籌畫A7文青里至青年公園產業道路侧公有土地，建設小型綠化休憩公園，第一次現場會勘檢討。（文青路395巷）<br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-044.jpeg" alt="李宗豪服務" sizes="sm:100vw md:150vw lg:200vw" />\r
-</p>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！<br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
-國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-042.jpeg" alt="大岡高中" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/3/23",Link:"https://www.storm.mg/article/4893534"},{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
+        <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
+          陳雅倫表示，桃園市因為垃圾處理不當，讓大埔轉運站變成暫置場，垃圾堆放引發惡臭，龜山市民成為人體空氣清靜機，龜山更不是垃圾山，市府應提出大埔轉運站撤離時間表。\r
+        </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"11/7/23",Link:"https://tyenews.com/2023/11/450256/?fbclid=IwAR224p-QIgEzXoODiFJNPKP8v8zp0tNcojflCYdPzU7lpd7DisTMiShhfW4"},{Title:"建設小型綠化休憩公園",No:"N044",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"會勘籌畫A7文青里至青年公園產業道路侧公有土地",Description:`  <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-044.jpeg" alt=""\r
+        class="object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h2 class="">\r
+          建設小型綠化休憩公園\r
+        </h2>\r
+\r
+        <p class="max-w-sm my-4  leading-5 tracking-wide ">\r
+          <a class="text-blue-600"\r
+            href="https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr">桃園市龜山區文青社區發展協會</a>\r
+          2023/11/08: 李宗豪市議員及服務處林建宗主任桃園市政府農業局及龜山區公所 ,\r
+          一起會勘籌畫A7文青里至青年公園產業道路侧公有土地，建設小型綠化休憩公園，第一次現場會勘檢討。（文青路395巷）\r
+        </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="flex flex-col md:flex-row">\r
+<div  class="w-full md:w-1/2"><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！</div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class="w-full md:w-1/2" />\r
+</div>`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<div class="flex flex-col md:flex-row">\r
+<div class="w-full md:w-1/2"> <a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
+國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，</div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-042.jpeg" alt="大岡高中" class="w-full md:w-1/2" />\r
+</div>`,Date:"11/3/23",Link:"https://www.storm.mg/article/4893534"},{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`<div class="flex flex-col md:flex-row">\r
+<div class="w-full md:w-1/2">\r
+自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
 2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！\r
 大埔轉運站原承諾在地鄉親垃圾不過夜，僅負擔轉運功能，但近期因欣榮焚化爐整改，引發桃園市垃圾危機，現在垃圾不只過夜、還過好幾夜！長期堆置的垃圾產生酸臭味，刺鼻難聞。\r
 近年來龜山人口成長迅速，儼然已成為人口密集區，自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
-2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！<br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-041.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"11/3/23",Link:"https://www.facebook.com/groups/1951117865015671/permalink/6578091492318262/"},{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
+2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！\r
+</div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-041.jpeg" alt="慰問金" class="w-full md:w-1/2" />\r
+</div>`,Date:"11/3/23",Link:"https://www.facebook.com/groups/1951117865015671/permalink/6578091492318262/"},{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
 韻璇在這次會期質詢交通局必須重視此問題，今天邀請#樂善里黃里長、交通局、警察局、區公所共同會勘，決議於樂善里文學路及樂善里文青路二側劃制機車、汽車停車約各80格，以便民眾停放改善停車問題‼️\r
 👍未來韻璇會再努力爭取更多相關措施💪🏻希望讓通勤族可以更方便！無須再為停車問題而煩惱囉\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-040.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"10/26/23",Link:"https://www.facebook.com/sun0976315743"},{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"文青里行動圖書車設置在 #文青水園前廣場，預計11月開始服務！",Description:`前陣子，民眾陳情 #文青里 原有的行動圖書車因為設置地點的關係無法繼續服務，但這裡距離圖書館又非常遠，借還書不方便😢\r
@@ -313,4 +353,4 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 希望能透過這份關懷的心意，撫慰COVID-19受創家屬之情緒，減輕家中的經濟負擔！本補助方案視預算為主，最晚申請期限2022/12/31 <br><br>\r
 補助相關問題請洽：\r
 衛生福利部、桃園社會局救助科 沈先生 或 陳先生 (03-3322101分機6405) 洽詢 <br><br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],p={},l={class:"container mb-4 mr-8 flex justify-end"},g=n("button",{class:"btn btn-primary"},"回列表清單",-1);function b(c,w){const t=r;return a(),i("div",l,[o(t,{to:"/councilor"},{default:s(()=>[g]),_:1})])}const h=e(p,[["render",b]]);export{h as _,u as s};
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},g=s("button",{class:"btn btn-primary"},"回列表清單",-1);function c(b,w){const t=r;return a(),i("div",p,[n(t,{to:"/councilor"},{default:o(()=>[g]),_:1})])}const v=e(l,[["render",c]]);export{v as _,u as s};
