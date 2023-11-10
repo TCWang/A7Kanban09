@@ -1,15 +1,15 @@
-import{_ as r}from"./nuxt-link.6b0e225c.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.47f7bb24.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
+import{_ as r}from"./nuxt-link.7be93516.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.e14ea33c.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
   <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
       <!-- Image -->\r
       <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-045.jpeg" alt=""\r
-        class="w-full md:w-1/2 object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+        class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
       <!-- Content -->\r
       <div class="p-2 md:p-4">\r
-        <h2 class="">\r
+        <h3 class="">\r
          垃圾危機\r
-        </h2>\r
+        </h3>\r
 \r
         <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
           陳雅倫表示，桃園市因為垃圾處理不當，讓大埔轉運站變成暫置場，垃圾堆放引發惡臭，龜山市民成為人體空氣清靜機，龜山更不是垃圾山，市府應提出大埔轉運站撤離時間表。\r
@@ -24,9 +24,9 @@ import{_ as r}from"./nuxt-link.6b0e225c.js";import{_ as e,o as a,c as i,b as n,w
         class="object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
       <!-- Content -->\r
       <div class="p-2 md:p-4">\r
-        <h2 class="">\r
+        <h3 class="">\r
           建設小型綠化休憩公園\r
-        </h2>\r
+        </h3>\r
 \r
         <p class="max-w-sm my-4  leading-5 tracking-wide ">\r
           <a class="text-blue-600"\r
@@ -36,9 +36,20 @@ import{_ as r}from"./nuxt-link.6b0e225c.js";import{_ as e,o as a,c as i,b as n,w
         </p>\r
       </div>\r
     </div>\r
-  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="flex flex-col md:flex-row">\r
-<div  class="w-full md:w-1/2"><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！</div>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class="w-full md:w-1/2" />\r
+  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl flex flex-col md:flex-row rounded-l-xl">\r
+<div  class="p-2 md:p-4 w-full md:w-1/2"><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！\r
+<p> <h3>【#A7聯外道路】一則以喜、一則以憂: </h3>\r
+喜的是我在109年議會質詢時，率先提出振興路直接打通至青山路的案子已排入期程！憂的是文學路與樂善一路T字打通計劃，確定僅剩一條文學路</p>\r
+<p>【#憂心變一道路】<br>\r
+這次總質詢我一樣做足功課，提出「五大疑問」請張善政市長正面回應這條命運多舛的「變一道路」，也就是早已編列預算等待施工的文學路及樂善一路。\r
+張市長以文化資產保存為由將原本今年已上網招標的高架工程撤下來，改為地下化工程，「樂善一路」正式消失，雖然工務局長表示會採預留的方式保存樂善一路開闢的可能性，但原本的設計本來就有打通樂善一路，變更設計後只剩下文學路開通了⋯⋯\r
+我提醒張市長，這個做法會讓原本期待未來有機會可以增加工程，銜接走樂善一路去文青國中小的爸爸媽媽們再度希望落空</p>\r
+<p>【#歡喜振興路打通至青山路】<br>\r
+這是在109年由雅倫率先在議會提出的引流方案！\r
+文青路約有3分之1交通量來自振興路欲接青山路往新莊方向的通勤車流，若將振興路直接打通至青山路，可有效分流華亞科學園區上下班的車潮。\r
+工務局長跟我說明目前進度，正在進行價值工程檢討中，計畫採高架環型橋方式設計，正研究將原預估6億元經費，降低為2億元，有機會可縮短為1年工期，希望在115年完成，我們樂觀其成。也特別感謝專業的工務局長願意從善如流採納意見！</p>\r
+</div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class="w-full md:w-1/2  object-fix rounded-xl " />\r
 </div>`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<div class="flex flex-col md:flex-row">\r
 <div class="w-full md:w-1/2"> <a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
 國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，</div>\r
@@ -353,4 +364,4 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 希望能透過這份關懷的心意，撫慰COVID-19受創家屬之情緒，減輕家中的經濟負擔！本補助方案視預算為主，最晚申請期限2022/12/31 <br><br>\r
 補助相關問題請洽：\r
 衛生福利部、桃園社會局救助科 沈先生 或 陳先生 (03-3322101分機6405) 洽詢 <br><br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},g=s("button",{class:"btn btn-primary"},"回列表清單",-1);function c(b,w){const t=r;return a(),i("div",p,[n(t,{to:"/councilor"},{default:o(()=>[g]),_:1})])}const v=e(l,[["render",c]]);export{v as _,u as s};
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},c=s("button",{class:"btn btn-primary"},"回列表清單",-1);function g(b,w){const t=r;return a(),i("div",p,[n(t,{to:"/councilor"},{default:o(()=>[c]),_:1})])}const d=e(l,[["render",g]]);export{d as _,u as s};
