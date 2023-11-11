@@ -1,4 +1,4 @@
-import{_ as r}from"./nuxt-link.4606ef75.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.2208ee05.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
+import{_ as r}from"./nuxt-link.6845c7bf.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.a5e5c662.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
   <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
@@ -36,8 +36,8 @@ import{_ as r}from"./nuxt-link.4606ef75.js";import{_ as e,o as a,c as i,b as n,w
         </p>\r
       </div>\r
     </div>\r
-  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl flex flex-col md:flex-row rounded-l-xl">\r
-<div  class="p-2 md:p-4 w-full md:w-1/2"><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！\r
+  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl flex flex-col  rounded-l-xl">\r
+<div  class="p-2 md:p-4 "><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！\r
 <p> <h3>【#A7聯外道路】一則以喜、一則以憂: </h3>\r
 喜的是我在109年議會質詢時，率先提出振興路直接打通至青山路的案子已排入期程！憂的是文學路與樂善一路T字打通計劃，確定僅剩一條文學路</p>\r
 <p>【#憂心變一道路】<br>\r
@@ -49,7 +49,7 @@ import{_ as r}from"./nuxt-link.4606ef75.js";import{_ as e,o as a,c as i,b as n,w
 文青路約有3分之1交通量來自振興路欲接青山路往新莊方向的通勤車流，若將振興路直接打通至青山路，可有效分流華亞科學園區上下班的車潮。\r
 工務局長跟我說明目前進度，正在進行價值工程檢討中，計畫採高架環型橋方式設計，正研究將原預估6億元經費，降低為2億元，有機會可縮短為1年工期，希望在115年完成，我們樂觀其成。也特別感謝專業的工務局長願意從善如流採納意見！</p>\r
 </div>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class="w-full md:w-1/2  object-fix rounded-xl " />\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class=" object-fix rounded-xl " />\r
 </div>`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<div class="flex flex-col md:flex-row">\r
 <div class="w-full md:w-1/2"> <a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
 國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，</div>\r
