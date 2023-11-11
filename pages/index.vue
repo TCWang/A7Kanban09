@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="max-w-6xl">
     <h1>A7新林口-社區網站: 地方行政資訊平台</h1>
     <NuxtImg
       src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/LOG-02-A7Kanban09.png"
