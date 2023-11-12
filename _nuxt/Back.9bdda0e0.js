@@ -1,4 +1,4 @@
-import{_ as r}from"./nuxt-link.6845c7bf.js";import{_ as e,o as a,c as i,b as n,w as o,a as s}from"./entry.a5e5c662.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
+import{_ as t}from"./nuxt-link.7d18d3b3.js";import{_ as e,o as a,c as n,b as i,w as o,a as s}from"./entry.2713262f.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
   <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
@@ -36,43 +36,84 @@ import{_ as r}from"./nuxt-link.6845c7bf.js";import{_ as e,o as a,c as i,b as n,w
         </p>\r
       </div>\r
     </div>\r
-  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl flex flex-col  rounded-l-xl">\r
-<div  class="p-2 md:p-4 "><a href="https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a> 對A7建設的相關質詢匯總！\r
-<p> <h3>【#A7聯外道路】一則以喜、一則以憂: </h3>\r
-喜的是我在109年議會質詢時，率先提出振興路直接打通至青山路的案子已排入期程！憂的是文學路與樂善一路T字打通計劃，確定僅剩一條文學路</p>\r
-<p>【#憂心變一道路】<br>\r
-這次總質詢我一樣做足功課，提出「五大疑問」請張善政市長正面回應這條命運多舛的「變一道路」，也就是早已編列預算等待施工的文學路及樂善一路。\r
-張市長以文化資產保存為由將原本今年已上網招標的高架工程撤下來，改為地下化工程，「樂善一路」正式消失，雖然工務局長表示會採預留的方式保存樂善一路開闢的可能性，但原本的設計本來就有打通樂善一路，變更設計後只剩下文學路開通了⋯⋯\r
-我提醒張市長，這個做法會讓原本期待未來有機會可以增加工程，銜接走樂善一路去文青國中小的爸爸媽媽們再度希望落空</p>\r
-<p>【#歡喜振興路打通至青山路】<br>\r
-這是在109年由雅倫率先在議會提出的引流方案！\r
-文青路約有3分之1交通量來自振興路欲接青山路往新莊方向的通勤車流，若將振興路直接打通至青山路，可有效分流華亞科學園區上下班的車潮。\r
-工務局長跟我說明目前進度，正在進行價值工程檢討中，計畫採高架環型橋方式設計，正研究將原預估6億元經費，降低為2億元，有機會可縮短為1年工期，希望在115年完成，我們樂觀其成。也特別感謝專業的工務局長願意從善如流採納意見！</p>\r
-</div>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="市政總質詢" class=" object-fix rounded-xl " />\r
-</div>`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`<div class="flex flex-col md:flex-row">\r
-<div class="w-full md:w-1/2"> <a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭 侯友宜:與地方連線爭取大崗高中設立 <br>\r
-國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，</div>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-042.jpeg" alt="大岡高中" class="w-full md:w-1/2" />\r
-</div>`,Date:"11/3/23",Link:"https://www.storm.mg/article/4893534"},{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`<div class="flex flex-col md:flex-row">\r
-<div class="w-full md:w-1/2">\r
-自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
-2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！\r
-大埔轉運站原承諾在地鄉親垃圾不過夜，僅負擔轉運功能，但近期因欣榮焚化爐整改，引發桃園市垃圾危機，現在垃圾不只過夜、還過好幾夜！長期堆置的垃圾產生酸臭味，刺鼻難聞。\r
-近年來龜山人口成長迅速，儼然已成為人口密集區，自由時報 2023/11/02<a href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站 </a><br>\r
-2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！\r
-</div>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-041.jpeg" alt="慰問金" class="w-full md:w-1/2" />\r
-</div>`,Date:"11/3/23",Link:"https://www.facebook.com/groups/1951117865015671/permalink/6578091492318262/"},{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣\r
-韻璇在這次會期質詢交通局必須重視此問題，今天邀請#樂善里黃里長、交通局、警察局、區公所共同會勘，決議於樂善里文學路及樂善里文青路二側劃制機車、汽車停車約各80格，以便民眾停放改善停車問題‼️\r
-👍未來韻璇會再努力爭取更多相關措施💪🏻希望讓通勤族可以更方便！無須再為停車問題而煩惱囉\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-040.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"10/26/23",Link:"https://www.facebook.com/sun0976315743"},{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"文青里行動圖書車設置在 #文青水園前廣場，預計11月開始服務！",Description:`前陣子，民眾陳情 #文青里 原有的行動圖書車因為設置地點的關係無法繼續服務，但這裡距離圖書館又非常遠，借還書不方便😢\r
-因此雅倫與水資源廠長及圖書館人員共同來討論，爭取行動圖書車設置在 #文青水園前廣場，預計11月開始服務！屆時歡迎熱愛閱讀的大小朋友一起來使用喔 <br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-022.jpeg" alt="行動圖書車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"10/5/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/605276541577598/"},{Title:"爭取文青國小家長接送區",No:"N023",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" #家長接送區，預計十月份前完工",Description:`最近開學，家長陸續陳情文青國中小附近沒有家長接送區，送小朋友來學校非常不方便且不安全，因此雅倫與張綾峰校長、黃錦芳里長、交通局共同討論規劃避車彎為 #家長接送區，預計十月份前完工，讓孩子上下課的環境可以更安全\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-023.jpeg" alt="文青國小家長接送區" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"9/12/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/594930289278890/"},{Title:"增設機車停車位-1",No:"N024",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" A7站周邊增加了50個機車格",Description:`七月開始1200月票開通、大坪頂循環線開始試辦、機捷增班等，皆是希望讓大家多多搭乘大眾運輸。\r
+  </div>`,Date:"11/8/23",Link:"https://www.facebook.com/groups/285954148759768/permalink/1294033397951833/?mibextid=uJjRxr"},{Title:"2023/11/07 市政總質詢",No:"N043",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"陳雅倫要求張善政解決公車脫班問題 加速龜山變一道路工程",Description:`    <div class="flex flex-col  bg-zinc-100  rounded-2xl">\r
+      <img class="w-full  sm:w-1/2 p-4  shadow-lg rounded-lg "\r
+        src=" https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-043.jpeg" alt="\r
+        市政總質詢" alt="" />\r
+      <div class="sm:col-span-2 p-4">\r
+        <div class="space-y-4">\r
+          <a\r
+            href="\r
+          https://www.tycg.gov.tw/ch/home.jsp?id=10412&parentpath=0%2C10401&mcustomize=news_view_small.jsp&dataserno=202311070006&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y&fbclid=IwAR2lBCTiWHGGenIknPSg9Kern_U27AgDPVcIQr6h5jYTR3yCHABNXlCLzbk">11月7日市政總質詢：陳雅倫議員</a>\r
+          對A7建設的相關質詢匯總！\r
+          <p>\r
+          <h3>【#A7聯外道路】一則以喜、一則以憂: </h3>\r
+          喜的是我在109年議會質詢時，率先提出振興路直接打通至青山路的案子已排入期程！憂的是文學路與樂善一路T字打通計劃，確定僅剩一條文學路</p>\r
+          <p>【#憂心變一道路】<br>\r
+            這次總質詢我一樣做足功課，提出「五大疑問」請張善政市長正面回應這條命運多舛的「變一道路」，也就是早已編列預算等待施工的文學路及樂善一路。\r
+            張市長以文化資產保存為由將原本今年已上網招標的高架工程撤下來，改為地下化工程，「樂善一路」正式消失，雖然工務局長表示會採預留的方式保存樂善一路開闢的可能性，但原本的設計本來就有打通樂善一路，變更設計後只剩下文學路開通了⋯⋯\r
+            我提醒張市長，這個做法會讓原本期待未來有機會可以增加工程，銜接走樂善一路去文青國中小的爸爸媽媽們再度希望落空</p>\r
+          <p>【#歡喜振興路打通至青山路】<br>\r
+            這是在109年由雅倫率先在議會提出的引流方案！\r
+            文青路約有3分之1交通量來自振興路欲接青山路往新莊方向的通勤車流，若將振興路直接打通至青山路，可有效分流華亞科學園區上下班的車潮。\r
+            工務局長跟我說明目前進度，正在進行價值工程檢討中，計畫採高架環型橋方式設計，正研究將原預估6億元經費，降低為2億元，有機會可縮短為1年工期，希望在115年完成，我們樂觀其成。也特別感謝專業的工務局長願意從善如流採納意見！\r
+          </p>\r
+        </div>\r
+\r
+      </div>\r
+\r
+    </div>`,Date:"11/8/23",Link:"https://today.line.me/tw/v2/article/Ggl0nW8"},{Title:"爭取大崗高中設立",No:"N042",Category:"牛煦庭",Category1:"A.健全都市發展",Category2:"A.3 加速都市整體發展",Subtitle:"侯友宜:與地方連線爭取大崗高中設立",Description:`    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4"> <a href="https://www.storm.mg/article/4893534">新新聞 2023/11/03</a> 龜山造勢力挺牛煦庭\r
+        侯友宜:與地方連線爭取大崗高中設立 <br>\r
+        國民黨總統參選人侯友宜昨（2）日晚間到桃園龜山大坪頂，出席立委參選人牛煦庭造勢晚會，與桃園市長張善政、立法委員洪孟楷、游毓蘭、桃園市議員凌濤、孫韻璇，共同站台力挺牛煦庭。侯友宜承諾會和張善政、牛煦庭連成一心，連結中央與地方的力量，為龜山地區完成大崗高中的設立，\r
+      </div>\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-042.jpeg" alt="大岡高中"\r
+        class="w-full md:w-1/2 p-4" />\r
+    </div>`,Date:"11/3/23",Link:"https://www.storm.mg/article/4893534"},{Title:" #大埔轉運站 的退場機制",No:"N041",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.2 強化空汙管制作業 ",Subtitle:"近期因欣榮焚化爐整改，引發桃園市垃圾危機",Description:`    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+        自由時報 2023/11/02<a\r
+          href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站\r
+        </a><br>\r
+        2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！\r
+        大埔轉運站原承諾在地鄉親垃圾不過夜，僅負擔轉運功能，但近期因欣榮焚化爐整改，引發桃園市垃圾危機，現在垃圾不只過夜、還過好幾夜！長期堆置的垃圾產生酸臭味，刺鼻難聞。\r
+        近年來龜山人口成長迅速，儼然已成為人口密集區，自由時報 2023/11/02<a\r
+          href="https://news.ltn.com.tw/news/life/breakingnews/4477949?fbclid=IwAR1GxqFy80NFdso-0sZ2G1oBN9fVUPCF8DteRQtsh-0QWV-D9qtHeWFggIs">大埔轉運站\r
+        </a><br>\r
+        2023/11/02日龜山區空氣中又瀰漫著一股酸臭味，雅倫循線查詢到是來自 #大埔轉運站 的味道！雅倫認為市府必須設法解決大埔轉運站惱人的惡臭，並研擬退場機制！\r
+      </div>\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-041.jpeg" alt="慰問金"\r
+        class="w-full md:w-1/2 p-4" />\r
+    </div>`,Date:"11/3/23",Link:"https://www.facebook.com/groups/1951117865015671/permalink/6578091492318262/"},{Title:"增設汽機車停車位",No:"N040",Category:"孫韻璇",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"增加文青路及文學路汽機車停車位",Description:`    <div class="flex flex-col md:flex-row ">\r
+      <div class="p-4">\r
+        機捷A7體育大學站周邊區域近年迅速發展，人口移入也帶停車問題，加上基北北桃通勤月票使用率大幅提升，許多通勤族、轉乘族每天都要碰運氣使否能停到車位。😣 <br>\r
+        韻璇在這次會期質詢交通局必須重視此問題，今天邀請#樂善里黃里長、交通局、警察局、區公所共同會勘，決議於樂善里文學路及樂善里文青路二側劃制機車、汽車停車約各80格，以便民眾停放改善停車問題‼️\r
+        👍<br>未來韻璇會再努力爭取更多相關措施💪🏻希望讓通勤族可以更方便！無須再為停車問題而煩惱囉\r
+      </div>\r
+      <img class="w-full md:w-1/2 p-4"\r
+        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-040.jpeg" alt="慰問金" />\r
+    </div>`,Date:"10/26/23",Link:"https://www.facebook.com/sun0976315743"},{Title:"成功爭取 #行動圖書車",No:"N022",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"文青里行動圖書車設置在 #文青水園前廣場，預計11月開始服務！",Description:`    <div class="flex flex-col md:flex-row ">\r
+      <div class="p-4">\r
+        前陣子，民眾陳情 #文青里 原有的行動圖書車因為設置地點的關係無法繼續服務，但這裡距離圖書館又非常遠，借還書不方便😢 <br>\r
+        因此雅倫與水資源廠長及圖書館人員共同來討論，爭取行動圖書車設置在 #文青水園前廣場，預計11月開始服務！屆時歡迎熱愛閱讀的大小朋友一起來使用喔 <br>\r
+      </div>\r
+      <img class="w-full md:w-1/2 p-4"\r
+        src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-022.jpeg" alt="行動圖書車" />\r
+    </div>`,Date:"10/5/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/605276541577598/"},{Title:"爭取文青國小家長接送區",No:"N023",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" #家長接送區，預計十月份前完工",Description:`    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+\r
+        最近開學，家長陸續陳情文青國中小附近沒有家長接送區，送小朋友來學校非常不方便且不安全，因此雅倫與張綾峰校長、黃錦芳里長、交通局共同討論規劃避車彎為 #家長接送區，預計十月份前完工，讓孩子上下課的環境可以更安全\r
+      </div>\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-023.jpeg"\r
+        alt="文青國小家長接送區" class="p-4 w-full md:w-1/2" />\r
+    </div>`,Date:"9/12/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/594930289278890/"},{Title:"增設機車停車位-1",No:"N024",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:" A7站周邊增加了50個機車格",Description:`\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+七月開始1200月票開通、大坪頂循環線開始試辦、機捷增班等，皆是希望讓大家多多搭乘大眾運輸。\r
 但是常常到了A7站的時候卻沒有機車位可以停，為此雅倫在議會建議、現場會勘爭取，在 #A7站周邊增加了50個機車格✅，希望可以讓通勤族更便利。\r
 1200上路，大眾運輸及配套措施都應該要跟著升級，然而現況公車班次極不穩定、司機員數量嚴重不足等，我會繼續爭取成立公共運輸處，提升桃園整體大眾運輸的環境！\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-024.jpeg" alt="A7機車停車位" sizes="sm:100vw md:150vw lg:200vw" />`,feedback:`如 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6478257715634974/?mibextid=oMANbw"> FB A7重劃區大小事</a> 10/07日 連續假日期間, 在A7捷運站 仍有許多違規停放機車被拖吊！雖然在地居民樂見警方的執法，請議員能持續協助:\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-024.jpeg" alt="A7機車停車位" class="p-4 w-full md:w-1/2"  />\r
+    </div>`,feedback:`如 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6478257715634974/?mibextid=oMANbw"> FB A7重劃區大小事</a> 10/07日 連續假日期間, 在A7捷運站 仍有許多違規停放機車被拖吊！雖然在地居民樂見警方的執法，請議員能持續協助:\r
 <ul>\r
 <li>在正常上班上學日, A7站前的機車停車位仍有不足。影響TPASS 轉通勤人員的轉乘。</li>\r
 <li>在廣19地下停車場完成前, 請考量居民的<a href="https://a7kanban09.netlify.app/expectations/%E5%A2%9E%E8%A8%AD%E5%85%AC%E5%85%B1%E6%A9%9F%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4"> 建議案 010</a>, 再延伸A7站前文化一路的機車停車區。  </li>\r
@@ -86,23 +127,41 @@ import{_ as r}from"./nuxt-link.6845c7bf.js";import{_ as e,o as a,c as i,b as n,w
 <li>✅606「大坪頂循環線」公車試辦中<li>\r
 </ul>\r
 <p>這二條都是方便民眾轉乘機捷A7、A8站的公車路線，服務大坪頂地區鄉親通勤、通學、就醫需求，鼓勵大家多搭乘，未來才有機會為大家爭取更多路線，讓大眾運輸服務路網更綿密。</p>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-025.jpeg" alt="A7機車停車位" sizes="sm:100vw md:150vw lg:200vw" />`,feedback:`如 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6478257715634974/?mibextid=oMANbw"> FB A7重劃區大小事</a> 10/07日 連續假日期間, 在A7捷運站 仍有許多違規停放機車被拖吊！雖然在地居民樂見警方的執法，請議員能持續協助:\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-025.jpeg" alt="A7機車停車位" class="p-4 w-full md:w-1/2" />`,feedback:`如 <a href="https://www.facebook.com/groups/1951117865015671/permalink/6478257715634974/?mibextid=oMANbw"> FB A7重劃區大小事</a> 10/07日 連續假日期間, 在A7捷運站 仍有許多違規停放機車被拖吊！雖然在地居民樂見警方的執法，請議員能持續協助:\r
 <ul>\r
 <li>在正常上班上學日, A7站前的機車停車位仍有不足。影響TPASS 轉通勤人員的轉乘。</li>\r
 <li>在廣19地下停車場完成前, 請考量居民的<a href="https://a7kanban09.netlify.app/expectations/%E5%A2%9E%E8%A8%AD%E5%85%AC%E5%85%B1%E6%A9%9F%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4"> 建議案 010</a>, 再延伸A7站前文化一路的機車停車區。  </li>\r
 <li>請於議會期間能代表感謝交通局/警察局 的違規停車整頓措施，居民普遍是熱烈的正面支持。也請在拖吊區能有明顯標示。在違規開單區域能先配合里長有充分的勸導推廣時間，讓購物臨停居民有適應期。  </li>\r
-</ul>`,Date:"8/19/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/584520543653198/"},{Title:"大坪頂循環線606",No:"N026",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"公車《606》7/31要上路囉！",Description:`從上一屆開始討論催生，直到今日終於看到這一條新路線即將開始試跑～\r
+</ul>`,Date:"8/19/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/584520543653198/"},{Title:"大坪頂循環線606",No:"N026",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"公車《606》7/31要上路囉！",Description:`\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+從上一屆開始討論催生，直到今日終於看到這一條新路線即將開始試跑～<br>\r
 這次606是順時針單方向循環路線，起迄點為機捷體育大學站，平假日皆有行駛，每日32班次，尖峰班距20分鐘、離峰班距30分鐘。\r
-另外，同時間202公車會調整路線進入文德、樂學、樂學三路等新舊社區來服務。過去爭取的605B不會變，只是名稱改為607～\r
+另外，同時間202公車會調整路線進入文德、樂學、樂學三路等新舊社區來服務。過去爭取的605B不會變，只是名稱改為607～<br>\r
 以上公車都適用桃園市民卡買一送一優惠以及1200月票，希望大家多多利用，讓路線永續經營下去！\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-026.jpeg" alt="606公車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"7/31/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/576271144478138/"},{Title:"爭取機捷增班",No:"N027",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"7/3日增加一班加班車, 8/1日再增三班加班車",Description:`感謝機捷公司採納雅倫建議🙏\r
+\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-026.jpeg" alt="606公車"class="p-4 w-full md:w-1/2" />\r
+    </div>`,Date:"7/31/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/576271144478138/"},{Title:"爭取機捷增班",No:"N027",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"7/3日增加一班加班車, 8/1日再增三班加班車",Description:`感謝機捷公司採納雅倫建議🙏 <br>\r
 機捷增班 縮短班距！\r
 預計7/3再增一班加班車8/1再增三班加班車\r
 我會繼續爭取機捷增班以及隔音罩`,Date:"6/26/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/560255859413000/"},{Title:"試辦公滯一改為乾式滯洪池公園",No:"N028",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:`文化一路跟樂善三路交叉口的公滯一\r
-鄰近 #甲子園 #華悅城 #根津苑 #水悅青青 社區`,Description:`爭取ing～『公滯一』濕轉乾公園設計第一次說明會！\r
+鄰近 #甲子園 #華悅城 #根津苑 #水悅青青 社區`,Description:`\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+爭取ing～『公滯一』濕轉乾公園設計第一次說明會！\r
 希望水務局將 #排水安全 #環境整潔 #遊具設施  #休憩空間 #停車規劃 一併考量，由於滯洪池主管的機關水務局是水利專業，而公園設計的專業在工務局，我希望市府儘速跨局處討論此案，讓公滯一早日成為A7的大公園～\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-028.jpeg" alt="公滯ㄧ" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"6/15/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/555336849904901/"},{Title:"大坪頂循環公車 6/8定線會勘",No:"N029",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"預計七月份可以正式上路",Description:`好消息🎉【大坪頂循環線】終於要在6/8辦理定線會勘！預計七月份可以正式上路！\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-029.jpeg" alt="606公車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"5/25/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/544863374285582/"},{Title:"A7 重劃區交通壅塞問題，要求市府積極處理",No:"N031",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"市政交通總質詢",Description:`A7 重劃區交通壅塞問題，要求市府積極處理！\r
+\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-028.jpeg" alt="公滯ㄧ" class="p-4 w-full md:w-1/2" />\r
+    </div>`,Date:"6/15/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/555336849904901/"},{Title:"大坪頂循環公車 6/8定線會勘",No:"N029",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"預計七月份可以正式上路",Description:`\r
+\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+好消息🎉【大坪頂循環線】終於要在6/8辦理定線會勘！預計七月份可以正式上路！\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-029.jpeg" alt="606公車" sizes=" class="p-4 w-full md:w-1/2"" />\r
+    </div>`,Date:"5/25/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/544863374285582/"},{Title:"A7 重劃區交通壅塞問題，要求市府積極處理",No:"N031",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"市政交通總質詢",Description:`A7 重劃區交通壅塞問題，要求市府積極處理！\r
 <p>過去近一個多月以來，我針對龜山各區的狀況質詢多位局處首長，其中「交通問題」是首要任務，今天針對幾個重大交通工程，要求市長重視處理！</p>\r
 ✅變一道路改為地下化<br>\r
 <p>變一(文學路延伸至文化一路T字路口)道路工程因原物料上漲，造成經費不足，工程流標多次，工務局研議將改為地下化，我提出幾點要求：<p>\r
@@ -135,11 +194,16 @@ A7 重劃區過去三年人口爆炸性成長，目前周遭也還有其他建�
 還希望張善政市長能儘快給出答案！變一道路刻不容緩！\r
 </p>\r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-030.jpeg" alt="變一道路" sizes="sm:100vw md:150vw lg:200vw" />\r
-`,Date:"5/11/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/538148898290363/"},{Title:"樂善國小」「文德非營利幼兒園」通學步道改善",No:"N032",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"養工處會進行整體規劃",Description:`今日與樂善黃里長及長庚林里長及議員同事們一起來關心樂善國小及文德非營利幼兒園學童通行步道🚶‍♂️\r
-我要求養工處將樂善國小近樂學路這一側的擋土牆退縮，把國小正門到側門之間的人行道銜接起來，接下來繼續走到文德非營利幼兒園及大埔派出所，這兩邊目前都沒有通學步道，小朋友必須走在大馬路上，我也要求將這兩段學童通行步道補上，讓小朋友上下課可以更安全～\r
+`,Date:"5/11/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/538148898290363/"},{Title:"樂善國小」「文德非營利幼兒園」通學步道改善",No:"N032",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"養工處會進行整體規劃",Description:`\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+今日與樂善黃里長及長庚林里長及議員同事們一起來關心樂善國小及文德非營利幼兒園學童通行步道🚶‍♂️<br>\r
+我要求養工處將樂善國小近樂學路這一側的擋土牆退縮，把國小正門到側門之間的人行道銜接起來，接下來繼續走到文德非營利幼兒園及大埔派出所，這兩邊目前都沒有通學步道，小朋友必須走在大馬路上，我也要求將這兩段學童通行步道補上，讓小朋友上下課可以更安全～<br>\r
 感謝市府、公所、學校、里長、家長、議員們陪我繞校園走了一大圈～養工處會進行整體規劃，我也會繼續追蹤\r
 \r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-032.jpeg" alt="學童步道" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"5/5/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/535136718591581/"},{Title:"滯洪池改公園",No:"N033",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"水務局追蹤A7滯洪池改善進度",Description:`【A7滯洪池改公園】<br>\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-032.jpeg" alt="學童步道"  class="p-4 w-full md:w-96"  />\r
+    </div>`,Date:"5/5/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/535136718591581/"},{Title:"滯洪池改公園",No:"N033",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"水務局追蹤A7滯洪池改善進度",Description:`【A7滯洪池改公園】<br>\r
 <p>#公滯一 濕轉乾做公園，目前已完成規劃設計發包，今年會爭取預算在113年施工。\r
 公滯一濕式轉乾式做公園獲得很大的迴響，原因之一就是因為A7一帶只有滯洪池、沒有公園綠地，所以對公園的需求非常迫切，所以我也跟局長要求。</p>\r
 <ul>\r
@@ -172,7 +236,10 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 針對目前許多國小沒有專責採購人員的問題，建議教育局編列事務人員協助，因多數學校採購人員為老師兼任，可能因為不熟悉《採購法》擔心觸法，導致校舍許多設備修繕無法順利進行，希望教育局可以謹慎考慮增編事務人員。\r
 最後我在會中也向教育局追蹤 #文青國中小活動中心 的工程發包狀況，我提醒局長遇到原物料上漲狀況要研擬相關配套來因應，避免工程一再延宕。而 #文青非營利幼兒園法人甄選 也要盡快在開學前完成，以免屆時影響孩童受教權。\r
 \r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-034.jpeg" alt="教育局質詢" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"4/13/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/524740826297837/"},{Title:"爭取機場捷運晨間加班車 ",No:"N035",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"將於4/17增開一班",Description:`<p>【時間表】平日早上\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-034.jpeg" alt="教育局質詢" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"4/13/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/524740826297837/"},{Title:"爭取機場捷運晨間加班車 ",No:"N035",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"將於4/17增開一班",Description:`\r
+    <div class="flex flex-col md:flex-row">\r
+      <div class="p-4">\r
+<p>【時間表】平日早上\r
 07:22從A10山鼻站出發\r
 07:29 A9\r
 07:32 A8\r
@@ -181,7 +248,9 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 08:01抵達A1台北車站</p>\r
 <p>3月份雅倫在議會爭取 #機場捷運增加班次、 #縮短班距，感謝機捷先行增加A10往A1的班次，不過這對於廣大通勤族來說當然還不夠，未來1200月票即將上路，運量勢必也會再提升，我會繼續爭取增班 </p>\r
 \r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-035.jpeg" alt="機捷加班車" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"4/11/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/523769026395017/"},{Title:"龜山區公立及非營利幼兒園第一階段招生名額",No:"N036",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"今年雅倫特別爭取比以往更多的 #兩歲專班",Description:`雅倫整理了【龜山區公立及非營利幼兒園第一階段招生名額】，今年我特別爭取比以往更多的 #兩歲專班，預祝每個孩子都可以心想事成❤️\r
+      </div>\r
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-035.jpeg" alt="機捷加班車"  class="p-4 w-full md:w-96"/>\r
+    </div>`,Date:"4/11/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/523769026395017/"},{Title:"龜山區公立及非營利幼兒園第一階段招生名額",No:"N036",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"今年雅倫特別爭取比以往更多的 #兩歲專班",Description:`雅倫整理了【龜山區公立及非營利幼兒園第一階段招生名額】，今年我特別爭取比以往更多的 #兩歲專班，預祝每個孩子都可以心想事成❤️\r
 桃園市公立及非營利  <a href="https://reurl.cc/zM3kkk"> 幼兒園招生網</a>\r
 \r
 <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-036.jpeg" alt="增取幼兒園班" sizes="sm:100vw md:150vw lg:200vw" />\r
@@ -364,4 +433,4 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 希望能透過這份關懷的心意，撫慰COVID-19受創家屬之情緒，減輕家中的經濟負擔！本補助方案視預算為主，最晚申請期限2022/12/31 <br><br>\r
 補助相關問題請洽：\r
 衛生福利部、桃園社會局救助科 沈先生 或 陳先生 (03-3322101分機6405) 洽詢 <br><br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},c=s("button",{class:"btn btn-primary"},"回列表清單",-1);function g(b,w){const t=r;return a(),i("div",p,[n(t,{to:"/councilor"},{default:o(()=>[c]),_:1})])}const d=e(l,[["render",g]]);export{d as _,u as s};
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},c=s("button",{class:"btn btn-primary"},"回列表清單",-1);function b(g,w){const r=t;return a(),n("div",p,[i(r,{to:"/councilor"},{default:o(()=>[c]),_:1})])}const d=e(l,[["render",b]]);export{d as _,u as s};
