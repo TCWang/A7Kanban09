@@ -1,4 +1,22 @@
-import{_ as t}from"./nuxt-link.8f6e48d1.js";import{_ as e,o as a,c as n,b as i,w as o,a as s}from"./entry.0c7cd14d.js";const u=[{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
+import{_ as t}from"./nuxt-link.3d3e52f9.js";import{_ as e,o as a,c as n,b as i,w as o,a as s}from"./entry.b89f147b.js";const d=[{Title:"樂善國小周邊的交通動線改善會勘",No:"N046",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"國小通學步道改善計畫",Description:` <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-046.jpeg" alt=""\r
+        class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h3 class="">\r
+         樂善國小通學步道改善計畫\r
+        </h3>\r
+\r
+        <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
+         <a href="https://www.facebook.com/Tyleehao"> 2023/11/16日</a>討論樂善國小周邊的交通動線，只是天氣不太好，突然下起雨來，感謝校長、里長及區公所同仁一起在雨中會勘討論。\r
+之前討論的「樂善國小通學步道改善計畫」目前提送中央爭取預算中，我們會持續追蹤進度！\r
+        </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"11/16/23",Link:"https://www.facebook.com/TYleehao"},{Title:"陳雅倫關心桃園「垃圾危機」",No:"N045",Category:"陳雅倫",Category1:"B. 營造永續環境",Category2:"B.1 提升環境保護作業",Subtitle:"龜山區大埔垃圾轉運站飄出酸臭味，要求張善政市府團隊提出大埔轉運站撤離時間表",Description:`\r
   <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
@@ -433,4 +451,4 @@ A7 地區近年人口成長快速，規劃增設文青中小學就是為了因�
 希望能透過這份關懷的心意，撫慰COVID-19受創家屬之情緒，減輕家中的經濟負擔！本補助方案視預算為主，最晚申請期限2022/12/31 <br><br>\r
 補助相關問題請洽：\r
 衛生福利部、桃園社會局救助科 沈先生 或 陳先生 (03-3322101分機6405) 洽詢 <br><br>\r
-<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},c=s("button",{class:"btn btn-primary"},"回列表清單",-1);function b(g,w){const r=t;return a(),n("div",p,[i(r,{to:"/councilor"},{default:o(()=>[c]),_:1})])}const d=e(l,[["render",b]]);export{d as _,u as s};
+<img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/SER-001.jpeg" alt="慰問金" sizes="sm:100vw md:150vw lg:200vw" />`,Date:"1/15/22",Link:"https://www.facebook.com/photo?fbid=186226210741020&set=pb.100080609260787.-2207520000."}],l={},p={class:"container mb-4 mr-8 flex justify-end"},c=s("button",{class:"btn btn-primary"},"回列表清單",-1);function b(g,w){const r=t;return a(),n("div",p,[i(r,{to:"/councilor"},{default:o(()=>[c]),_:1})])}const u=e(l,[["render",b]]);export{u as _,d as s};
