@@ -1,4 +1,25 @@
-import{_ as t}from"./nuxt-link.3d3e52f9.js";import{_ as e,o as a,c as n,b as i,w as o,a as s}from"./entry.b89f147b.js";const d=[{Title:"樂善國小周邊的交通動線改善會勘",No:"N046",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"國小通學步道改善計畫",Description:` <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+import{_ as t}from"./nuxt-link.02c819ca.js";import{_ as e,o as a,c as n,b as i,w as o,a as s}from"./entry.c57d1e82.js";const d=[{Title:"圖書車開到文青里囉",No:"N047",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"歡迎大家多多利用文青里行動圖書館喔！",Description:` <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-047.jpeg" alt=""\r
+        class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h3 class="">\r
+         圖書車開到文青里囉～今天在遠雄文青全家前面！\r
+        </h3>\r
+\r
+        <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
+         <a href="https://www.facebook.com/Tyleehao"> 2023/11/17日</a>先前聽說文青圖書車要終止服務時，我第一時間先聯絡教育局，請他們積極尋找適當地點，務必盡快恢復圖書車。\r
+原先教育局規劃在文青水資源中心駐點，但是我想到那邊離住宅區其實有段距離，因此我找了相關單位到現場會勘，尋找「更近的地點」希望能離社區近一點，讓小朋友及家長能夠縮短步行距離，就近使用圖書車服務。<br>\r
+今天圖書車駐點在「遠雄文青的全家便利商店前面」是有正式向交通局申請的，是合法合規停靠。\r
+之後會在「遠雄文青全家前面」及「文青水資源中心」這二個地方輪流駐點服務，也歡迎大家留言覺得哪個地點比較好，我可以提供給教育局參考。<br>\r
+btw 現場圖書車人員表示：「今天生意蠻好的～」歡迎大家多多利用喔！\r
+        </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"11/17/23",Link:"https://www.facebook.com/Tyleehao"},{Title:"樂善國小周邊的交通動線改善會勘",No:"N046",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.1加速宜居城市建設",Subtitle:"國小通學步道改善計畫",Description:` <div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-row rounded-l-xl">\r
       <!-- Image -->\r
