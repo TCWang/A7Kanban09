@@ -1,4 +1,24 @@
-import{_ as t}from"./nuxt-link.46019dfb.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.d16d4124.js";const k=[{Title:"強力要求青山路二段科技執法儘速修復，並針對「大貨車禁行」嚴格執法！",No:"N050",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"交通執法落實",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+import{_ as t}from"./nuxt-link.565cb320.js";import{_ as e,o as n,c as a,b as o,w as i,a as s}from"./entry.adebec81.js";const k=[{Title:"停車格畫設 ",No:"N051",Category:"陳雅倫",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"#文桃路先行、 #牛角坡路暫緩。",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
+    <!-- Flex Container -->\r
+    <div class="flex flex-col md:flex-row rounded-l-xl">\r
+      <!-- Image -->\r
+      <img src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/service/SER-051.jpeg" alt=""\r
+        class=" object-fit rounded-xl w-full md:w-1/2 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200" />\r
+      <!-- Content -->\r
+      <div class="p-2 md:p-4">\r
+        <h3 class="">\r
+         傾聽在地民意，停車格畫設 #文桃路先行、 #牛角坡路暫緩\r
+        </h3>\r
+\r
+        <p class=""max-w-sm my-4  leading-5 tracking-wide "">\r
+         <a href="https://www.facebook.com/groups/a7xinlinkou/permalink/627343239370928/?mibextid=uJjRxr"> 2023/11/20日</a>\r
+過去吳敦義擔任行政院長時期推出A7重劃區，當時都市計畫規劃不周，沒有規劃停車場、公園、集會所等用地。\r
+停車空間不足，桃園市整體的大眾運輸環境也尚未成熟（這部分我會另外專篇來寫），現階段僅能朝向路邊規劃，因此有了前陣子交通局規劃的牛角坡路縮減車道畫設車格被抗議乙案。<br>\r
+今日里長特別邀請各社區們來聽聽大家的想法，還有議員們、交通局等單位共同會勘，考量路幅及車流量，決議先試辦畫設文桃路路邊機車、汽車停車格。\r
+牛角坡路因為本來就只有四線道，且未來變二道路也是四線道，即將施工完成，不宜縮減車道造成不對稱，因此先暫緩停車格畫設，待觀察文桃路畫設成效後而定。    </p>\r
+      </div>\r
+    </div>\r
+  </div>`,Date:"11/20/23",Link:"https://www.facebook.com/groups/a7xinlinkou/permalink/627343239370928/?mibextid=uJjRxr"},{Title:"強力要求青山路二段科技執法儘速修復，並針對「大貨車禁行」嚴格執法！",No:"N050",Category:"李宗豪",Category1:"A.健全都市發展",Category2:"A.4強化區域交通規劃",Subtitle:"交通執法落實",Description:`<div class="bg-zinc-100 p-2 mx-2 rounded-2xl">\r
     <!-- Flex Container -->\r
     <div class="flex flex-col md:flex-col rounded-l-xl">\r
       <!-- Image -->\r
