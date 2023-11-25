@@ -20,7 +20,7 @@
 
 <script setup>
 useHead({
-  title: "A7-地方行政",
+  title: "A7-地方行政 ",
   meta: [
     { name: "description", content: "A7新林口-社區網站: 地方行政資訊平台 " },
   ],
